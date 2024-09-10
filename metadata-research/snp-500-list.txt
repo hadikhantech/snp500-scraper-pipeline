@@ -1,0 +1,505 @@
+S&P 500 Companies | Symbol | Weighting |
+Microsoft Corporation | MSFT | 7.06% |
+Apple Inc. | AAPL | 5.71% |
+NVIDIA Corporation | NVDA | 4.66% |
+Amazon.com, Inc. | AMZN | 3.84% |
+Meta Platforms Inc Class A | META | 2.51% |
+Alphabet Inc. Class A | GOOGL | 2.18% |
+Alphabet Inc. Class C | GOOG | 1.85% |
+Berkshire Hathaway Inc. Class B | BRK.B | 1.76% |
+Eli Lilly and Company | LLY | 1.38% |
+JPMorgan Chase & Co. | JPM | 1.30% |
+Broadcom Inc. | AVGO | 1.28% |
+Exxon Mobil Corporation | XOM | 1.14% |
+UnitedHealth Group Incorporated | UNH | 1.08% |
+Visa Inc. Class A | V | 1.02% |
+Tesla, Inc. | TSLA | 0.93% |
+Procter & Gamble Company | PG | 0.90% |
+Mastercard Incorporated Class A | MA | 0.89% |
+Johnson & Johnson | JNJ | 0.85% |
+Home Depot, Inc. | HD | 0.79% |
+Merck & Co., Inc. | MRK | 0.76% |
+Costco Wholesale Corporation | COST | 0.75% |
+AbbVie, Inc. | ABBV | 0.70% |
+Chevron Corporation | CVX | 0.67% |
+Salesforce, Inc. | CRM | 0.63% |
+Bank of America Corp | BAC | 0.62% |
+Walmart Inc. | WMT | 0.61% |
+Netflix, Inc. | NFLX | 0.57% |
+PepsiCo, Inc. | PEP | 0.57% |
+Advanced Micro Devices, Inc. | AMD | 0.57% |
+Coca-Cola Company | KO | 0.56% |
+Wells Fargo & Company | WFC | 0.52% |
+Linde plc | LIN | 0.51% |
+Thermo Fisher Scientific Inc. | TMO | 0.50% |
+Adobe Inc. | ADBE | 0.50% |
+Walt Disney Company | DIS | 0.49% |
+Accenture Plc Class A | ACN | 0.47% |
+McDonald's Corporation | MCD | 0.47% |
+Cisco Systems, Inc. | CSCO | 0.46% |
+Abbott Laboratories | ABT | 0.44% |
+Oracle Corporation | ORCL | 0.43% |
+Caterpillar Inc. | CAT | 0.43% |
+QUALCOMM Incorporated | QCOM | 0.42% |
+Intuit Inc. | INTU | 0.40% |
+GE Aerospace | GE | 0.39% |
+International Business Machines Corporation | IBM | 0.39% |
+U.S. Dollar | Other | 0.38% |
+Verizon Communications Inc. | VZ | 0.38% |
+Comcast Corporation Class A | CMCSA | 0.38% |
+Danaher Corporation | DHR | 0.37% |
+Applied Materials, Inc. | AMAT | 0.37% |
+ConocoPhillips | COP | 0.36% |
+Texas Instruments Incorporated | TXN | 0.35% |
+Philip Morris International Inc. | PM | 0.35% |
+ServiceNow, Inc. | NOW | 0.35% |
+Pfizer Inc. | PFE | 0.35% |
+Amgen Inc. | AMGN | 0.34% |
+Intel Corporation | INTC | 0.34% |
+Union Pacific Corporation | UNP | 0.34% |
+Uber Technologies, Inc. | UBER | 0.34% |
+Lowe's Companies, Inc. | LOW | 0.32% |
+Goldman Sachs Group, Inc. | GS | 0.32% |
+NextEra Energy, Inc. | NEE | 0.32% |
+RTX Corporation | RTX | 0.32% |
+American Express Company | AXP | 0.32% |
+S&P Global, Inc. | SPGI | 0.32% |
+Intuitive Surgical, Inc. | ISRG | 0.31% |
+Honeywell International Inc. | HON | 0.31% |
+Progressive Corporation | PGR | 0.30% |
+Elevance Health, Inc. | ELV | 0.30% |
+Micron Technology, Inc. | MU | 0.29% |
+Booking Holdings Inc. | BKNG | 0.29% |
+Eaton Corp. Plc | ETN | 0.29% |
+Citigroup Inc. | C | 0.28% |
+AT&T Inc. | T | 0.28% |
+Morgan Stanley | MS | 0.27% |
+Lam Research Corporation | LRCX | 0.27% |
+NIKE, Inc. Class B | NKE | 0.27% |
+Charles Schwab Corp | SCHW | 0.26% |
+TJX Companies Inc | TJX | 0.26% |
+Stryker Corporation | SYK | 0.26% |
+Deere & Company | DE | 0.25% |
+Medtronic Plc | MDT | 0.25% |
+United Parcel Service, Inc. Class B | UPS | 0.25% |
+BlackRock, Inc. | BLK | 0.25% |
+Vertex Pharmaceuticals Incorporated | VRTX | 0.24% |
+Chubb Limited | CB | 0.24% |
+Lockheed Martin Corporation | LMT | 0.24% |
+Bristol-Myers Squibb Company | BMY | 0.24% |
+Cigna Group | CI | 0.24% |
+Starbucks Corporation | SBUX | 0.24% |
+Automatic Data Processing, Inc. | ADP | 0.24% |
+Boston Scientific Corporation | BSX | 0.24% |
+Marsh & McLennan Companies, Inc. | MMC | 0.24% |
+Prologis, Inc. | PLD | 0.23% |
+Boeing Company | BA | 0.23% |
+Regeneron Pharmaceuticals, Inc. | REGN | 0.23% |
+Analog Devices, Inc. | ADI | 0.22% |
+Mondelez International, Inc. Class A | MDLZ | 0.22% |
+CVS Health Corporation | CVS | 0.21% |
+Fiserv, Inc. | FI | 0.21% |
+Blackstone Inc. | BX | 0.21% |
+Palo Alto Networks, Inc. | PANW | 0.21% |
+KLA Corporation | KLAC | 0.20% |
+Gilead Sciences, Inc. | GILD | 0.20% |
+T-Mobile US, Inc. | TMUS | 0.20% |
+Synopsys, Inc. | SNPS | 0.19% |
+American Tower Corporation | AMT | 0.19% |
+Chipotle Mexican Grill, Inc. | CMG | 0.19% |
+Southern Company | SO | 0.19% |
+Duke Energy Corporation | DUK | 0.18% |
+CME Group Inc. Class A | CME | 0.18% |
+Target Corporation | TGT | 0.18% |
+Intercontinental Exchange, Inc. | ICE | 0.18% |
+Altria Group, Inc. | MO | 0.18% |
+EOG Resources, Inc. | EOG | 0.18% |
+Waste Management, Inc. | WM | 0.18% |
+Cadence Design Systems, Inc. | CDNS | 0.18% |
+Freeport-McMoRan, Inc. | FCX | 0.17% |
+SLB | SLB | 0.17% |
+Sherwin-Williams Company | SHW | 0.17% |
+Colgate-Palmolive Company | CL | 0.17% |
+Marathon Petroleum Corporation | MPC | 0.17% |
+Equinix, Inc. | EQIX | 0.17% |
+Trane Technologies plc | TT | 0.16% |
+Airbnb, Inc. Class A | ABNB | 0.16% |
+Northrop Grumman Corp. | NOC | 0.16% |
+CSX Corporation | CSX | 0.16% |
+General Dynamics Corporation | GD | 0.16% |
+McKesson Corporation | MCK | 0.16% |
+TransDigm Group Incorporated | TDG | 0.16% |
+PayPal Holdings, Inc. | PYPL | 0.16% |
+Illinois Tool Works Inc. | ITW | 0.16% |
+Phillips 66 | PSX | 0.16% |
+Zoetis, Inc. Class A | ZTS | 0.16% |
+Amphenol Corporation Class A | APH | 0.16% |
+Parker-Hannifin Corporation | PH | 0.16% |
+Becton, Dickinson and Company | BDX | 0.16% |
+Emerson Electric Co. | EMR | 0.15% |
+FedEx Corporation | FDX | 0.15% |
+HCA Healthcare Inc | HCA | 0.15% |
+O'Reilly Automotive, Inc. | ORLY | 0.15% |
+PNC Financial Services Group, Inc. | PNC | 0.15% |
+Aon Plc Class A | AON | 0.15% |
+Arista Networks, Inc. | ANET | 0.15% |
+U.S. Bancorp | USB | 0.15% |
+Cintas Corporation | CTAS | 0.14% |
+Roper Technologies, Inc. | ROP | 0.14% |
+PACCAR Inc | PCAR | 0.14% |
+Marriott International, Inc. Class A | MAR | 0.14% |
+Moody's Corporation | MCO | 0.14% |
+Motorola Solutions, Inc. | MSI | 0.14% |
+Constellation Energy Corporation | CEG | 0.14% |
+Ecolab Inc. | ECL | 0.13% |
+NXP Semiconductors NV | NXPI | 0.13% |
+Valero Energy Corporation | VLO | 0.13% |
+Norfolk Southern Corporation | NSC | 0.13% |
+Capital One Financial Corp | COF | 0.13% |
+Welltower Inc. | WELL | 0.12% |
+DexCom, Inc. | DXCM | 0.12% |
+Air Products and Chemicals, Inc. | APD | 0.12% |
+Arthur J. Gallagher & Co. | AJG | 0.12% |
+Travelers Companies, Inc. | TRV | 0.12% |
+3M Company | MMM | 0.12% |
+Truist Financial Corporation | TFC | 0.12% |
+AutoZone, Inc. | AZO | 0.12% |
+Hilton Worldwide Holdings Inc | HLT | 0.12% |
+Edwards Lifesciences Corporation | EW | 0.12% |
+General Motors Company | GM | 0.12% |
+American International Group, Inc. | AIG | 0.12% |
+Ford Motor Company | F | 0.12% |
+Allstate Corporation | ALL | 0.11% |
+American Electric Power Company, Inc. | AEP | 0.11% |
+Copart, Inc. | CPRT | 0.11% |
+Ross Stores, Inc. | ROST | 0.11% |
+Nucor Corporation | NUE | 0.11% |
+Autodesk, Inc. | ADSK | 0.11% |
+Simon Property Group, Inc. | SPG | 0.11% |
+ONEOK, Inc. | OKE | 0.11% |
+Williams Companies, Inc. | WMB | 0.11% |
+Carrier Global Corp. | CARR | 0.11% |
+TE Connectivity Ltd. | TEL | 0.11% |
+Microchip Technology Incorporated | MCHP | 0.11% |
+Sempra | SRE | 0.11% |
+Aflac Incorporated | AFL | 0.11% |
+Realty Income Corporation | O | 0.10% |
+Kimberly-Clark Corporation | KMB | 0.10% |
+D.R. Horton, Inc. | DHI | 0.10% |
+Public Storage | PSA | 0.10% |
+Crown Castle Inc. | CCI | 0.10% |
+Newmont Corporation | NEM | 0.10% |
+Fortinet, Inc. | FTNT | 0.10% |
+Bank of New York Mellon Corp | BK | 0.10% |
+W.W. Grainger, Inc. | GWW | 0.10% |
+Centene Corporation | CNC | 0.10% |
+MSCI Inc. Class A | MSCI | 0.10% |
+lululemon athletica inc. | LULU | 0.10% |
+MetLife, Inc. | MET | 0.10% |
+Dominion Energy Inc | D | 0.10% |
+Hess Corporation | HES | 0.10% |
+General Mills, Inc. | GIS | 0.10% |
+Occidental Petroleum Corporation | OXY | 0.10% |
+Digital Realty Trust, Inc. | DLR | 0.10% |
+Fidelity National Information Services, Inc. | FIS | 0.10% |
+Constellation Brands, Inc. Class A | STZ | 0.10% |
+Prudential Financial, Inc. | PRU | 0.10% |
+Ameriprise Financial, Inc. | AMP | 0.10% |
+AMETEK, Inc. | AME | 0.10% |
+Johnson Controls International plc | JCI | 0.10% |
+United Rentals, Inc. | URI | 0.10% |
+IQVIA Holdings Inc | IQV | 0.10% |
+Cencora, Inc. | COR | 0.09% |
+Ingersoll Rand Inc. | IR | 0.09% |
+PG&E Corporation | PCG | 0.09% |
+Dow, Inc. | DOW | 0.09% |
+Cummins Inc. | CMI | 0.09% |
+Paychex, Inc. | PAYX | 0.09% |
+GE Vernova Inc. | GEV | 0.09% |
+Lennar Corporation Class A | LEN | 0.09% |
+Fastenal Company | FAST | 0.09% |
+Agilent Technologies, Inc. | A | 0.09% |
+Diamondback Energy, Inc. | FANG | 0.09% |
+L3Harris Technologies Inc | LHX | 0.09% |
+IDEXX Laboratories, Inc. | IDXX | 0.09% |
+Corteva Inc | CTVA | 0.09% |
+Monster Beverage Corporation | MNST | 0.09% |
+Exelon Corporation | EXC | 0.09% |
+Republic Services, Inc. | RSG | 0.09% |
+Super Micro Computer, Inc. | SMCI | 0.09% |
+Humana Inc. | HUM | 0.09% |
+Kroger Co. | KR | 0.09% |
+Otis Worldwide Corporation | OTIS | 0.09% |
+Sysco Corporation | SYY | 0.09% |
+Old Dominion Freight Line, Inc. | ODFL | 0.09% |
+Martin Marietta Materials, Inc. | MLM | 0.09% |
+Yum! Brands, Inc. | YUM | 0.09% |
+Kinder Morgan Inc Class P | KMI | 0.09% |
+Keurig Dr Pepper Inc. | KDP | 0.08% |
+CoStar Group, Inc. | CSGP | 0.08% |
+Devon Energy Corporation | DVN | 0.08% |
+Halliburton Company | HAL | 0.08% |
+Estee Lauder Companies Inc. Class A | EL | 0.08% |
+Global Payments Inc. | GPN | 0.08% |
+Public Service Enterprise Group Inc | PEG | 0.08% |
+Arch Capital Group Ltd. | ACGL | 0.08% |
+Verisk Analytics Inc | VRSK | 0.08% |
+Vulcan Materials Company | VMC | 0.08% |
+Archer-Daniels-Midland Company | ADM | 0.08% |
+Baker Hughes Company Class A | BKR | 0.08% |
+Cognizant Technology Solutions Corporation Class A | CTSH | 0.08% |
+Discover Financial Services | DFS | 0.08% |
+Kenvue, Inc. | KVUE | 0.08% |
+CDW Corporation | CDW | 0.08% |
+Quanta Services, Inc. | PWR | 0.08% |
+Gartner, Inc. | IT | 0.08% |
+GE Healthcare Technologies Inc. | GEHC | 0.08% |
+DuPont de Nemours, Inc. | DD | 0.08% |
+Moderna, Inc. | MRNA | 0.08% |
+Consolidated Edison, Inc. | ED | 0.08% |
+Dollar General Corporation | DG | 0.07% |
+ANSYS, Inc. | ANSS | 0.07% |
+Delta Air Lines, Inc. | DAL | 0.07% |
+Biogen Inc. | BIIB | 0.07% |
+PPG Industries, Inc. | PPG | 0.07% |
+Fair Isaac Corporation | FICO | 0.07% |
+Xcel Energy Inc. | XEL | 0.07% |
+Hershey Company | HSY | 0.07% |
+Fortive Corp. | FTV | 0.07% |
+Hartford Financial Services Group, Inc. | HIG | 0.07% |
+Kraft Heinz Company | KHC | 0.07% |
+Rockwell Automation, Inc. | ROK | 0.07% |
+Xylem Inc. | XYL | 0.07% |
+West Pharmaceutical Services, Inc. | WST | 0.07% |
+Electronic Arts Inc. | EA | 0.07% |
+Monolithic Power Systems, Inc. | MPWR | 0.07% |
+Extra Space Storage Inc. | EXR | 0.07% |
+Royal Caribbean Group | RCL | 0.07% |
+VICI Properties Inc | VICI | 0.07% |
+Vistra Corp. | VST | 0.07% |
+Tractor Supply Company | TSCO | 0.06% |
+NVR, Inc. | NVR | 0.06% |
+Targa Resources Corp. | TRGP | 0.06% |
+Charter Communications, Inc. Class A | CHTR | 0.06% |
+PulteGroup, Inc. | PHM | 0.06% |
+Raymond James Financial, Inc. | RJF | 0.06% |
+ON Semiconductor Corporation | ON | 0.06% |
+Keysight Technologies Inc | KEYS | 0.06% |
+Cardinal Health, Inc. | CAH | 0.06% |
+LyondellBasell Industries NV | LYB | 0.06% |
+ResMed Inc. | RMD | 0.06% |
+Corning Inc | GLW | 0.06% |
+AvalonBay Communities, Inc. | AVB | 0.06% |
+Howmet Aerospace Inc. | HWM | 0.06% |
+Zimmer Biomet Holdings, Inc. | ZBH | 0.06% |
+Fifth Third Bancorp | FITB | 0.06% |
+Willis Towers Watson Public Limited Company | WTW | 0.06% |
+Dollar Tree, Inc. | DLTR | 0.06% |
+HP Inc. | HPQ | 0.06% |
+Edison International | EIX | 0.06% |
+Mettler-Toledo International Inc. | MTD | 0.06% |
+Equifax Inc. | EFX | 0.06% |
+WEC Energy Group Inc | WEC | 0.06% |
+CBRE Group, Inc. Class A | CBRE | 0.06% |
+Church & Dwight Co., Inc. | CHD | 0.06% |
+Dover Corporation | DOV | 0.06% |
+T. Rowe Price Group | TROW | 0.06% |
+eBay Inc. | EBAY | 0.06% |
+Nasdaq, Inc. | NDAQ | 0.06% |
+M&T Bank Corporation | MTB | 0.06% |
+Westinghouse Air Brake Technologies Corporation | WAB | 0.06% |
+FirstEnergy Corp. | FE | 0.05% |
+PTC Inc. | PTC | 0.05% |
+American Water Works Company, Inc. | AWK | 0.05% |
+Align Technology, Inc. | ALGN | 0.05% |
+Weyerhaeuser Company | WY | 0.05% |
+Hewlett Packard Enterprise Co. | HPE | 0.05% |
+Garmin Ltd. | GRMN | 0.05% |
+Cboe Global Markets Inc | CBOE | 0.05% |
+Huntington Bancshares Incorporated | HBAN | 0.05% |
+Ulta Beauty Inc. | ULTA | 0.05% |
+Ameren Corporation | AEE | 0.05% |
+Brown & Brown, Inc. | BRO | 0.05% |
+NetApp, Inc. | NTAP | 0.05% |
+State Street Corporation | STT | 0.05% |
+Hubbell Incorporated | HUBB | 0.05% |
+Iron Mountain, Inc. | IRM | 0.05% |
+Steel Dynamics, Inc. | STLD | 0.05% |
+Teledyne Technologies Incorporated | TDY | 0.05% |
+Eversource Energy | ES | 0.05% |
+Broadridge Financial Solutions, Inc. | BR | 0.05% |
+Take-Two Interactive Software, Inc. | TTWO | 0.05% |
+Aptiv PLC | APTV | 0.05% |
+International Flavors & Fragrances Inc. | IFF | 0.05% |
+Veralto Corporation | VLTO | 0.05% |
+Cincinnati Financial Corporation | CINF | 0.05% |
+Equity Residential | EQR | 0.05% |
+Entergy Corporation | ETR | 0.05% |
+PPL Corporation | PPL | 0.05% |
+Axon Enterprise Inc | AXON | 0.05% |
+Genuine Parts Company | GPC | 0.05% |
+STERIS plc | STE | 0.05% |
+Baxter International Inc. | BAX | 0.05% |
+Ball Corporation | BALL | 0.05% |
+Deckers Outdoor Corporation | DECK | 0.05% |
+Western Digital Corporation | WDC | 0.05% |
+DTE Energy Company | DTE | 0.05% |
+Invitation Homes, Inc. | INVH | 0.05% |
+Molina Healthcare, Inc. | MOH | 0.05% |
+Corpay, Inc. | CPAY | 0.05% |
+Coterra Energy Inc. | CTRA | 0.05% |
+SBA Communications Corp. Class A | SBAC | 0.05% |
+Builders FirstSource, Inc. | BLDR | 0.05% |
+Warner Bros. Discovery, Inc. Series A | WBD | 0.04% |
+Southwest Airlines Co. | LUV | 0.04% |
+Tyson Foods, Inc. Class A | TSN | 0.04% |
+Hologic, Inc. | HOLX | 0.04% |
+Laboratory Corporation of America Holdings | LH | 0.04% |
+Clorox Company | CLX | 0.04% |
+First Solar, Inc. | FSLR | 0.04% |
+CF Industries Holdings, Inc. | CF | 0.04% |
+CMS Energy Corporation | CMS | 0.04% |
+Omnicom Group Inc | OMC | 0.04% |
+Conagra Brands, Inc. | CAG | 0.04% |
+Skyworks Solutions, Inc. | SWKS | 0.04% |
+Principal Financial Group, Inc. | PFG | 0.04% |
+Domino's Pizza, Inc. | DPZ | 0.04% |
+Expedia Group, Inc. | EXPE | 0.04% |
+Regions Financial Corporation | RF | 0.04% |
+Atmos Energy Corporation | ATO | 0.04% |
+CenterPoint Energy, Inc. | CNP | 0.04% |
+Packaging Corporation of America | PKG | 0.04% |
+Bunge Global SA | BG | 0.04% |
+Teradyne, Inc. | TER | 0.04% |
+Textron Inc. | TXT | 0.04% |
+Darden Restaurants, Inc. | DRI | 0.04% |
+Everest Group, Ltd. | EG | 0.04% |
+Masco Corporation | MAS | 0.04% |
+Illumina, Inc. | ILMN | 0.04% |
+EQT Corporation | EQT | 0.04% |
+Jacobs Solutions Inc. | J | 0.04% |
+Kellanova | K | 0.04% |
+Mid-America Apartment Communities, Inc. | MAA | 0.04% |
+Avery Dennison Corporation | AVY | 0.04% |
+IDEX Corporation | IEX | 0.04% |
+Seagate Technology Holdings PLC | STX | 0.04% |
+Leidos Holdings, Inc. | LDOS | 0.04% |
+Jabil Inc. | JBL | 0.04% |
+VeriSign, Inc. | VRSN | 0.04% |
+Alexandria Real Estate Equities, Inc. | ARE | 0.04% |
+McCormick & Company, Incorporated | MKC | 0.04% |
+Expeditors International of Washington, Inc. | EXPD | 0.04% |
+Akamai Technologies, Inc. | AKAM | 0.04% |
+United Airlines Holdings, Inc. | UAL | 0.04% |
+W. R. Berkley Corporation | WRB | 0.04% |
+Marathon Oil Corporation | MRO | 0.04% |
+Celanese Corporation | CE | 0.04% |
+Tyler Technologies, Inc. | TYL | 0.04% |
+NRG Energy, Inc. | NRG | 0.04% |
+FactSet Research Systems Inc. | FDS | 0.04% |
+Cooper Companies, Inc. | COO | 0.04% |
+Ventas, Inc. | VTR | 0.04% |
+Enphase Energy, Inc. | ENPH | 0.04% |
+Las Vegas Sands Corp. | LVS | 0.04% |
+Synchrony Financial | SYF | 0.04% |
+Citizens Financial Group, Inc. | CFG | 0.04% |
+Waters Corporation | WAT | 0.04% |
+Northern Trust Corporation | NTRS | 0.04% |
+Essex Property Trust, Inc. | ESS | 0.04% |
+Pool Corporation | POOL | 0.03% |
+Evergy, Inc. | EVRG | 0.03% |
+J.B. Hunt Transport Services, Inc. | JBHT | 0.03% |
+Pentair plc | PNR | 0.03% |
+Albemarle Corporation | ALB | 0.03% |
+Snap-on Incorporated | SNA | 0.03% |
+Zebra Technologies Corporation Class A | ZBRA | 0.03% |
+J.M. Smucker Company | SJM | 0.03% |
+Eastman Chemical Company | EMN | 0.03% |
+International Paper Company | IP | 0.03% |
+Host Hotels & Resorts, Inc. | HST | 0.03% |
+Huntington Ingalls Industries, Inc. | HII | 0.03% |
+Carnival Corporation | CCL | 0.03% |
+WestRock Company | WRK | 0.03% |
+Amcor PLC | AMCR | 0.03% |
+F5, Inc. | FFIV | 0.03% |
+LKQ Corporation | LKQ | 0.03% |
+Gen Digital Inc. | GEN | 0.03% |
+UDR, Inc. | UDR | 0.03% |
+Quest Diagnostics Incorporated | DGX | 0.03% |
+Alliant Energy Corp | LNT | 0.03% |
+Jack Henry & Associates, Inc. | JKHY | 0.03% |
+Stanley Black & Decker, Inc. | SWK | 0.03% |
+AES Corporation | AES | 0.03% |
+Viatris, Inc. | VTRS | 0.03% |
+MGM Resorts International | MGM | 0.03% |
+KeyCorp | KEY | 0.03% |
+Live Nation Entertainment, Inc. | LYV | 0.03% |
+Nordson Corporation | NDSN | 0.03% |
+Insulet Corporation | PODD | 0.03% |
+Molson Coors Beverage Company Class B | TAP | 0.03% |
+EPAM Systems, Inc. | EPAM | 0.03% |
+Interpublic Group of Companies, Inc. | IPG | 0.03% |
+Revvity, Inc. | RVTY | 0.03% |
+CarMax, Inc. | KMX | 0.03% |
+Allegion Public Limited Company | ALLE | 0.03% |
+NiSource Inc | NI | 0.03% |
+Walgreens Boots Alliance, Inc. | WBA | 0.03% |
+Healthpeak Properties, Inc. | DOC | 0.03% |
+Trimble Inc. | TRMB | 0.03% |
+Loews Corporation | L | 0.03% |
+Kimco Realty Corporation | KIM | 0.03% |
+A. O. Smith Corporation | AOS | 0.03% |
+Charles River Laboratories International, Inc. | CRL | 0.03% |
+Lamb Weston Holdings, Inc. | LW | 0.03% |
+Best Buy Co., Inc. | BBY | 0.03% |
+Rollins, Inc. | ROL | 0.03% |
+Juniper Networks, Inc. | JNPR | 0.03% |
+FMC Corporation | FMC | 0.02% |
+Regency Centers Corporation | REG | 0.02% |
+Pinnacle West Capital Corporation | PNW | 0.02% |
+American Airlines Group Inc. | AAL | 0.02% |
+Hormel Foods Corporation | HRL | 0.02% |
+Robert Half Inc. | RHI | 0.02% |
+APA Corporation | APA | 0.02% |
+Bath & Body Works, Inc. | BBWI | 0.02% |
+Federal Realty Investment Trust | FRT | 0.02% |
+C.H. Robinson Worldwide, Inc. | CHRW | 0.02% |
+DaVita Inc. | DVA | 0.02% |
+Catalent Inc | CTLT | 0.02% |
+Invesco Ltd. | IVZ | 0.02% |
+Hasbro, Inc. | HAS | 0.02% |
+BorgWarner Inc. | BWA | 0.02% |
+Franklin Resources, Inc. | BEN | 0.02% |
+Match Group, Inc. | MTCH | 0.02% |
+Caesars Entertainment Inc | CZR | 0.02% |
+Solventum Corporation | SOLV | 0.02% |
+Wynn Resorts, Limited | WYNN | 0.02% |
+Dayforce, Inc. | DAY | 0.02% |
+News Corporation Class A | NWSA | 0.02% |
+Campbell Soup Company | CPB | 0.02% |
+Incyte Corporation | INCY | 0.02% |
+Tapestry, Inc. | TPR | 0.02% |
+Fox Corporation Class A | FOXA | 0.02% |
+Brown-Forman Corporation Class B | BF.B | 0.02% |
+Teleflex Incorporated | TFX | 0.02% |
+Qorvo, Inc. | QRVO | 0.02% |
+Boston Properties, Inc. | BXP | 0.02% |
+Camden Property Trust | CPT | 0.02% |
+Assurant, Inc. | AIZ | 0.02% |
+Etsy, Inc. | ETSY | 0.02% |
+Comerica Incorporated | CMA | 0.02% |
+Ralph Lauren Corporation Class A | RL | 0.02% |
+Henry Schein, Inc. | HSIC | 0.02% |
+MarketAxess Holdings Inc. | MKTX | 0.02% |
+Paycom Software, Inc. | PAYC | 0.02% |
+Mosaic Company | MOS | 0.02% |
+Bio-Techne Corporation | TECH | 0.02% |
+Norwegian Cruise Line Holdings Ltd. | NCLH | 0.02% |
+Generac Holdings Inc. | GNRC | 0.02% |
+Universal Health Services, Inc. Class B | UHS | 0.02% |
+News Corporation Class B | NWS | 0.01% |
+Paramount Global Class B | PARA | 0.01% |
+Fox Corporation Class B | FOX | 0.01% |
+Globe Life Inc. | GL | 0.01% |
+Mohawk Industries, Inc. | MHK | 0.01% |
+Bio-Rad Laboratories, Inc. Class A | BIO | 0.01% |

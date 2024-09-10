@@ -1,0 +1,64 @@
+1. Current list:
+- Symbol
+- Company Name/ Security
+- GICS Sector
+- GICS Sub-industry
+- Headquarters
+- Date added (to the S&P 500)
+- Founded
+
+2. Expanding financial metrics:
+- Market Cap Category (Large, Mid, Small)
+
+- Dividend Yield Category (High, Medium, Low, None)
+- P/E Ratio Category (Value, Growth, Negative) *QUARTER DEPENPDENT*      
+
+3. Geographic location/operation:
+- Region (North America, Europe, Asia, Global etc.)
+- Country of Incorporation (may differ from Headquarters)
+
+4. Index and trading information:
+- Exchange Listed (NYSE, NASDAQ)
+- Other Index Memberships (Dow Jones, Nasdaq 100, over the counter Exchanges etc.)
+
+5. Company characteristics:
+- Company Category (Startup, Established, Legacy)
+- Employee Count Range (small, Medium, Large)
+- Revenue Range (small, Medium, Large) ( OR $1Bn+ ARR)
+
+6. Ownership and governance:
+- Ownership Type (Public, Private, Family-owned)
+- ESG Rating Category
+
+7. Product and service categorization:
+- B2B OR B2C
+- Product Type (Hardware, Software, Services, etc.)
+- Top Product type
+- Arrays of top/popular products
+
+8. Market position:
+- Market Share Category (Leader, Challenger, Niche)
+- Global Presence (Domestic, Multinational, Global) *redundant*
+
+9. Innovation metrics:
+- R&D Intensity Category (High, Medium, Low) *Quarter Specific*
+- Number of patents / patents portfolio
+----------------------------------------------------------------------
+10. Risk factors:
+- Cyclicality (Cyclical, Defensive, Counter-cyclical)
+- Regulatory Exposure Level
+
+11. Financial health:
+- Debt-to-Equity Ratio Category
+- Profitability Status (Profitable, Break-even, Loss-making)
+-----------------------------------------------------------------------
+
+Example application:
+Query: "List profitable tech companies with high R&D spending and low debt in the Asia region"
+
+Metadata filters:
+- GICS Sector: Information Technology
+- Region: Asia
+- Profitability Status: Profitable
+- R&D Intensity Category: High
+- Debt-to-Equity Ratio Category: Low
