@@ -15,7 +15,7 @@ def process_data_with_llm(input_data):
     Here's the data:
     {input_data}
 
-    Please return only the CSV data, without any additional text or explanation.
+    Please return only the CSV data for this single entry, without any header or additional text or explanation.
     """
 
     completion = client.chat.completions.create(
@@ -43,6 +43,7 @@ def create_csv(input_file, output_file):
         writer.writerow(['Symbol', 'Company Name', 'GICS Sector', 'GICS Sub-Industry', 'Headquarters Location', 'Date Added to S&P500', 'CIK', 'Founded'])
         
         current_row = ""
+        row_count = 0
         for line in infile:
             if line.startswith('|') and not line.startswith('|-'):
                 current_row += line
@@ -52,6 +53,8 @@ def create_csv(input_file, output_file):
                     for row in csv.reader(csv_data.splitlines()):
                         if len(row) == 8:  # Ensure we have the correct number of columns
                             writer.writerow(row)
+                            row_count += 1
+                            print(f"Processed row {row_count}: {', '.join(row)}")
                     current_row = ""
         
         # Process any remaining data
@@ -60,6 +63,10 @@ def create_csv(input_file, output_file):
             for row in csv.reader(csv_data.splitlines()):
                 if len(row) == 8:
                     writer.writerow(row)
+                    row_count += 1
+                    print(f"Processed row {row_count}: {', '.join(row)}")
+
+    print(f"Total rows processed: {row_count}")
 
 if __name__ == "__main__":
     input_file = 'snp500_cleaned.txt'
