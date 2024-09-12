@@ -61,7 +61,6 @@ def html_to_markdown(html_content, max_chunk_length=1000):
                     temperature=0.7,
                     do_sample=True,
                     repetition_penalty=1.08
-                    max_time=60
                 )
             
             markdown_chunk = tokenizer.decode(outputs[0], skip_special_tokens=True)
