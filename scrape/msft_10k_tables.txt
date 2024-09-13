@@ -1,21 +1,20 @@
 Table: Unlabeled Table
 
-| 0 | 1                                                                                    |
-|---|--------------------------------------------------------------------------------------|
-| ☒ | ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |
+| 1                                                                                    |
+|--------------------------------------------------------------------------------------|
+| ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |
 Table: Unlabeled Table
 
-| 0 | 1                                                                                        |
-|---|------------------------------------------------------------------------------------------|
-|   | For the Fiscal Year Ended June 30, 2023                                                  |
-|   | OR                                                                                       |
-| ☐ | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |
-|   | For the Transition Period From to                                                        |
+| 1                                                                                        |
+|------------------------------------------------------------------------------------------|
+| For the Fiscal Year Ended                                                                |
+| OR                                                                                       |
+| TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 |
+| For the Transition Period From to                                                        |
 Table: Unlabeled Table
 
 | 0                        | 2           |
 |--------------------------|-------------|
-| Washington               | 91-1144442  |
 | (STATE OF INCORPORATION) | (I.R.S. ID) |
 Table: www.microsoft.com/investor
 
@@ -23,17 +22,14 @@ Table: www.microsoft.com/investor
 |-------------------------------------------------------------|----------------|--------------------------------------|
 | Securities registered pursuant to Section 12(b) of the Act: |                |                                      |
 | Title of each class                                         | Trading Symbol | Name of exchange on which registered |
-| Common stock, $0.00000625 par value per share               | MSFT           | Nasdaq                               |
-| 3.125% Notes due 2028                                       | MSFT           | Nasdaq                               |
-| 2.625% Notes due 2033                                       | MSFT           | Nasdaq                               |
 | Securities registered pursuant to Section 12(g) of the Act: |                |                                      |
 Table: Unlabeled Table
 
-| 0                         | 2                           |
-|---------------------------|-----------------------------|
-| Large Accelerated Filer ☒ | Accelerated Filer ☐         |
-| Non-accelerated Filer ☐   | Smaller Reporting Company ☐ |
-|                           | Emerging Growth Company ☐   |
+| 0                       | 2                         |
+|-------------------------|---------------------------|
+| ☒                       | Accelerated Filer ☐       |
+| Non-accelerated Filer ☐ | Smaller Reporting Company |
+|                         | Emerging Growth Company   |
 Table: Unlabeled Table
 
 | 0        | 1        | 2        | 4                                                                                                             | 5    | 6    |
@@ -263,862 +259,162 @@ Table: Unlabeled Table
 | Equity                         | 10% decrease in equity market prices                     |              | (705         | ) | Earnings   |
 Table: OME STATEMENTS
 
-| 0                                       | 2    | 3        | 6    | 7        | 10   | 11       |
-|-----------------------------------------|------|----------|------|----------|------|----------|
-| (In millions, except per share amounts) |      |          |      |          |      |          |
-| Year Ended June 30,                     | 2023 | 2023.0   | 2022 | 2022.0   | 2021 | 2021.0   |
-| Revenue:                                |      |          |      |          |      |          |
-| Product                                 | $    | 64699.0  | $    | 72732.0  | $    | 71074.0  |
-| Service and other                       |      | 147216.0 |      | 125538.0 |      | 97014.0  |
-| Total revenue                           |      | 211915.0 |      | 198270.0 |      | 168088.0 |
-| Cost of revenue:                        |      |          |      |          |      |          |
-| Product                                 |      | 17804.0  |      | 19064.0  |      | 18219.0  |
-| Service and other                       |      | 48059.0  |      | 43586.0  |      | 34013.0  |
-| Total cost of revenue                   |      | 65863.0  |      | 62650.0  |      | 52232.0  |
-| Gross margin                            |      | 146052.0 |      | 135620.0 |      | 115856.0 |
-| Research and development                |      | 27195.0  |      | 24512.0  |      | 20716.0  |
-| Sales and marketing                     |      | 22759.0  |      | 21825.0  |      | 20117.0  |
-| General and administrative              |      | 7575.0   |      | 5900.0   |      | 5107.0   |
-| Operating income                        |      | 88523.0  |      | 83383.0  |      | 69916.0  |
-| Other income, net                       |      | 788.0    |      | 333.0    |      | 1186.0   |
-| Income before income taxes              |      | 89311.0  |      | 83716.0  |      | 71102.0  |
-| Provision for income taxes              |      | 16950.0  |      | 10978.0  |      | 9831.0   |
-| Net income                              | $    | 72361.0  | $    | 72738.0  | $    | 61271.0  |
-| Earnings per share:                     |      |          |      |          |      |          |
-| Basic                                   | $    | 9.72     | $    | 9.7      | $    | 8.12     |
-| Diluted                                 | $    | 9.68     | $    | 9.65     | $    | 8.05     |
-| Weighted average shares outstanding:    |      |          |      |          |      |          |
-| Basic                                   |      | 7446.0   |      | 7496.0   |      | 7547.0   |
-| Diluted                                 |      | 7472.0   |      | 7540.0   |      | 7608.0   |
+| 0                                       | 2    | 3      | 6    | 7      | 10   | 11     |
+|-----------------------------------------|------|--------|------|--------|------|--------|
+| (In millions, except per share amounts) |      |        |      |        |      |        |
+| Year Ended June 30,                     | 2023 | 2023.0 | 2022 | 2022.0 | 2021 | 2021.0 |
+| Revenue:                                |      |        |      |        |      |        |
+| Product                                 | $    |        | $    |        | $    |        |
+| Service and other                       |      |        |      |        |      |        |
+| Total revenue                           |      |        |      |        |      |        |
+| Cost of revenue:                        |      |        |      |        |      |        |
+| Product                                 |      |        |      |        |      |        |
+| Service and other                       |      |        |      |        |      |        |
+| Total cost of revenue                   |      |        |      |        |      |        |
+| Gross margin                            |      |        |      |        |      |        |
+| Research and development                |      |        |      |        |      |        |
+| Sales and marketing                     |      |        |      |        |      |        |
+| General and administrative              |      |        |      |        |      |        |
+| Operating income                        |      |        |      |        |      |        |
+| Other income, net                       |      |        |      |        |      |        |
+| Income before income taxes              |      |        |      |        |      |        |
+| Provision for income taxes              |      |        |      |        |      |        |
+| Net income                              | $    |        | $    |        | $    |        |
+| Earnings per share:                     |      |        |      |        |      |        |
+| Basic                                   | $    |        | $    |        | $    |        |
+| Diluted                                 | $    |        | $    |        | $    |        |
+| Weighted average shares outstanding:    |      |        |      |        |      |        |
+| Basic                                   |      |        |      |        |      |        |
+| Diluted                                 |      |        |      |        |      |        |
 Table: COME STATEMENTS
-
-| 0                                              | 2    | 3      | 4 | 6    | 7      | 8 | 10   | 11     | 12 |
-|------------------------------------------------|------|--------|---|------|--------|---|------|--------|----|
-| (In millions)                                  |      |        |   |      |        |   |      |        |    |
-| Year Ended June 30,                            | 2023 | 2023   |   | 2022 | 2022   |   | 2021 | 2021   |    |
-| Net income                                     | $    | 72361  |   | $    | 72738  |   | $    | 61271  |    |
-| Other comprehensive income (loss), net of tax: |      |        |   |      |        |   |      |        |    |
-| Net change related to derivatives              |      | (14    | ) |      | 6      |   |      | 19     |    |
-| Net change related to investments              |      | (1,444 | ) |      | (5,360 | ) |      | (2,266 | )  |
-| Translation adjustments and other              |      | (207   | ) |      | (1,146 | ) |      | 873    |    |
-| Other comprehensive loss                       |      | (1,665 | ) |      | (6,500 | ) |      | (1,374 | )  |
-| Comprehensive income                           | $    | 70696  |   | $    | 66238  |   | $    | 59897  |    |
-Table: Unlabeled Table
-
-| 0                                                                                        | 2    | 3      | 4 | 6    | 7      | 8 |
-|------------------------------------------------------------------------------------------|------|--------|---|------|--------|---|
-| (In millions)                                                                            |      |        |   |      |        |   |
-| June 30,                                                                                 | 2023 | 2023   |   | 2022 | 2022   |   |
-| Assets                                                                                   |      |        |   |      |        |   |
-| Current assets:                                                                          |      |        |   |      |        |   |
-| Cash and cash equivalents                                                                | $    | 34704  |   | $    | 13931  |   |
-| Short-term investments                                                                   |      | 76558  |   |      | 90826  |   |
-| Total cash, cash equivalents, and short-term investments                                 |      | 111262 |   |      | 104757 |   |
-| Accounts receivable, net of allowance for doubtful accounts of $650 and $633             |      | 48688  |   |      | 44261  |   |
-| Inventories                                                                              |      | 2500   |   |      | 3742   |   |
-| Other current assets                                                                     |      | 21807  |   |      | 16924  |   |
-| Total current assets                                                                     |      | 184257 |   |      | 169684 |   |
-| Property and equipment, net of accumulated depreciation of $68,251 and $59,660           |      | 95641  |   |      | 74398  |   |
-| Operating lease right-of-use assets                                                      |      | 14346  |   |      | 13148  |   |
-| Equity investments                                                                       |      | 9879   |   |      | 6891   |   |
-| Goodwill                                                                                 |      | 67886  |   |      | 67524  |   |
-| Intangible assets, net                                                                   |      | 9366   |   |      | 11298  |   |
-| Other long-term assets                                                                   |      | 30601  |   |      | 21897  |   |
-| Total assets                                                                             | $    | 411976 |   | $    | 364840 |   |
-| Liabilities and stockholders’ equity                                                     |      |        |   |      |        |   |
-| Current liabilities:                                                                     |      |        |   |      |        |   |
-| Accounts payable                                                                         | $    | 18095  |   | $    | 19000  |   |
-| Current portion of long-term debt                                                        |      | 5247   |   |      | 2749   |   |
-| Accrued compensation                                                                     |      | 11009  |   |      | 10661  |   |
-| Short-term income taxes                                                                  |      | 4152   |   |      | 4067   |   |
-| Short-term unearned revenue                                                              |      | 50901  |   |      | 45538  |   |
-| Other current liabilities                                                                |      | 14745  |   |      | 13067  |   |
-| Total current liabilities                                                                |      | 104149 |   |      | 95082  |   |
-| Long-term debt                                                                           |      | 41990  |   |      | 47032  |   |
-| Long-term income taxes                                                                   |      | 25560  |   |      | 26069  |   |
-| Long-term unearned revenue                                                               |      | 2912   |   |      | 2870   |   |
-| Deferred income taxes                                                                    |      | 433    |   |      | 230    |   |
-| Operating lease liabilities                                                              |      | 12728  |   |      | 11489  |   |
-| Other long-term liabilities                                                              |      | 17981  |   |      | 15526  |   |
-| Total liabilities                                                                        |      | 205753 |   |      | 198298 |   |
-| Commitments and contingencies                                                            |      |        |   |      |        |   |
-| Stockholders’ equity:                                                                    |      |        |   |      |        |   |
-| Common stock and paid-in capital – shares authorized 24,000; outstanding 7,432 and 7,464 |      | 93718  |   |      | 86939  |   |
-| Retained earnings                                                                        |      | 118848 |   |      | 84281  |   |
-| Accumulated other comprehensive loss                                                     |      | (6,343 | ) |      | (4,678 | ) |
-| Total stockholders’ equity                                                               |      | 206223 |   |      | 166542 |   |
-| Total liabilities and stockholders’ equity                                               | $    | 411976 |   | $    | 364840 |   |
-Table: TATEMENTS
-
-| 0                                                                                            | 2    | 3       | 4 | 6    | 7       | 8 | 10   | 11      | 12 |
-|----------------------------------------------------------------------------------------------|------|---------|---|------|---------|---|------|---------|----|
-| (In millions)                                                                                |      |         |   |      |         |   |      |         |    |
-| Year Ended June 30,                                                                          | 2023 | 2023    |   | 2022 | 2022    |   | 2021 | 2021    |    |
-| Operations                                                                                   |      |         |   |      |         |   |      |         |    |
-| Net income                                                                                   | $    | 72361   |   | $    | 72738   |   | $    | 61271   |    |
-| Adjustments to reconcile net income to net cash from operations:                             |      |         |   |      |         |   |      |         |    |
-| Depreciation, amortization, and other                                                        |      | 13861   |   |      | 14460   |   |      | 11686   |    |
-| Stock-based compensation expense                                                             |      | 9611    |   |      | 7502    |   |      | 6118    |    |
-| Net recognized losses (gains) on investments and derivatives                                 |      | 196     |   |      | (409    | ) |      | (1,249  | )  |
-| Deferred income taxes                                                                        |      | (6,059  | ) |      | (5,702  | ) |      | (150    | )  |
-| Changes in operating assets and liabilities:                                                 |      |         |   |      |         |   |      |         |    |
-| Accounts receivable                                                                          |      | (4,087  | ) |      | (6,834  | ) |      | (6,481  | )  |
-| Inventories                                                                                  |      | 1242    |   |      | (1,123  | ) |      | (737    | )  |
-| Other current assets                                                                         |      | (1,991  | ) |      | (709    | ) |      | (932    | )  |
-| Other long-term assets                                                                       |      | (2,833  | ) |      | (2,805  | ) |      | (3,459  | )  |
-| Accounts payable                                                                             |      | (2,721  | ) |      | 2943    |   |      | 2798    |    |
-| Unearned revenue                                                                             |      | 5535    |   |      | 5109    |   |      | 4633    |    |
-| Income taxes                                                                                 |      | (358    | ) |      | 696     |   |      | (2,309  | )  |
-| Other current liabilities                                                                    |      | 2272    |   |      | 2344    |   |      | 4149    |    |
-| Other long-term liabilities                                                                  |      | 553     |   |      | 825     |   |      | 1402    |    |
-| Net cash from operations                                                                     |      | 87582   |   |      | 89035   |   |      | 76740   |    |
-| Financing                                                                                    |      |         |   |      |         |   |      |         |    |
-| Cash premium on debt exchange                                                                |      | 0       |   |      | 0       |   |      | (1,754  | )  |
-| Repayments of debt                                                                           |      | (2,750  | ) |      | (9,023  | ) |      | (3,750  | )  |
-| Common stock issued                                                                          |      | 1866    |   |      | 1841    |   |      | 1693    |    |
-| Common stock repurchased                                                                     |      | (22,245 | ) |      | (32,696 | ) |      | (27,385 | )  |
-| Common stock cash dividends paid                                                             |      | (19,800 | ) |      | (18,135 | ) |      | (16,521 | )  |
-| Other, net                                                                                   |      | (1,006  | ) |      | (863    | ) |      | (769    | )  |
-| Net cash used in financing                                                                   |      | (43,935 | ) |      | (58,876 | ) |      | (48,486 | )  |
-| Investing                                                                                    |      |         |   |      |         |   |      |         |    |
-| Additions to property and equipment                                                          |      | (28,107 | ) |      | (23,886 | ) |      | (20,622 | )  |
-| Acquisition of companies, net of cash acquired, and purchases of intangible and other assets |      | (1,670  | ) |      | (22,038 | ) |      | (8,909  | )  |
-| Purchases of investments                                                                     |      | (37,651 | ) |      | (26,456 | ) |      | (62,924 | )  |
-| Maturities of investments                                                                    |      | 33510   |   |      | 16451   |   |      | 51792   |    |
-| Sales of investments                                                                         |      | 14354   |   |      | 28443   |   |      | 14008   |    |
-| Other, net                                                                                   |      | (3,116  | ) |      | (2,825  | ) |      | (922    | )  |
-| Net cash used in investing                                                                   |      | (22,680 | ) |      | (30,311 | ) |      | (27,577 | )  |
-| Effect of foreign exchange rates on cash and cash equivalents                                |      | (194    | ) |      | (141    | ) |      | (29     | )  |
-| Net change in cash and cash equivalents                                                      |      | 20773   |   |      | (293    | ) |      | 648     |    |
-| Cash and cash equivalents, beginning of period                                               |      | 13931   |   |      | 14224   |   |      | 13576   |    |
-| Cash and cash equivalents, end of period                                                     | $    | 34704   |   | $    | 13931   |   | $    | 14224   |    |
-Table: UITY STATEMENTS
-
-| 0                                             | 2    | 3       | 4 | 6    | 7       | 8 | 10   | 11      | 12 |
-|-----------------------------------------------|------|---------|---|------|---------|---|------|---------|----|
-| (In millions, except per share amounts)       |      |         |   |      |         |   |      |         |    |
-| Year Ended June 30,                           | 2023 | 2023    |   | 2022 | 2022    |   | 2021 | 2021    |    |
-| Common stock and paid-in capital              |      |         |   |      |         |   |      |         |    |
-| Balance, beginning of period                  | $    | 86939   |   | $    | 83111   |   | $    | 80552   |    |
-| Common stock issued                           |      | 1866    |   |      | 1841    |   |      | 1963    |    |
-| Common stock repurchased                      |      | (4,696  | ) |      | (5,688  | ) |      | (5,539  | )  |
-| Stock-based compensation expense              |      | 9611    |   |      | 7502    |   |      | 6118    |    |
-| Other, net                                    |      | (2      | ) |      | 173     |   |      | 17      |    |
-| Balance, end of period                        |      | 93718   |   |      | 86939   |   |      | 83111   |    |
-| Retained earnings                             |      |         |   |      |         |   |      |         |    |
-| Balance, beginning of period                  |      | 84281   |   |      | 57055   |   |      | 34566   |    |
-| Net income                                    |      | 72361   |   |      | 72738   |   |      | 61271   |    |
-| Common stock cash dividends                   |      | (20,226 | ) |      | (18,552 | ) |      | (16,871 | )  |
-| Common stock repurchased                      |      | (17,568 | ) |      | (26,960 | ) |      | (21,879 | )  |
-| Cumulative effect of accounting changes       |      | 0       |   |      | 0       |   |      | (32     | )  |
-| Balance, end of period                        |      | 118848  |   |      | 84281   |   |      | 57055   |    |
-| Accumulated other comprehensive income (loss) |      |         |   |      |         |   |      |         |    |
-| Balance, beginning of period                  |      | (4,678  | ) |      | 1822    |   |      | 3186    |    |
-| Other comprehensive loss                      |      | (1,665  | ) |      | (6,500  | ) |      | (1,374  | )  |
-| Cumulative effect of accounting changes       |      | 0       |   |      | 0       |   |      | 10      |    |
-| Balance, end of period                        |      | (6,343  | ) |      | (4,678  | ) |      | 1822    |    |
-| Total stockholders’ equity                    | $    | 206223  |   | $    | 166542  |   | $    | 141988  |    |
-| Cash dividends declared per common share      | $    | 2.72    |   | $    | 2.48    |   | $    | 2.24    |    |
-Table: Unlabeled Table
-
-| 0                            | 2 | 3    | 4 | 6 | 7    | 8 | 10 | 11   | 12 |
-|------------------------------|---|------|---|---|------|---|----|------|----|
-| (In millions)                |   |      |   |   |      |   |    |      |    |
-| Year Ended June 30,          |   | 2023 |   |   | 2022 |   |    | 2021 |    |
-| Balance, beginning of period | $ | 710  |   | $ | 798  |   | $  | 816  |    |
-| Charged to costs and other   |   | 258  |   |   | 157  |   |    | 234  |    |
-| Write-offs                   |   | (252 | ) |   | (245 | ) |    | (252 | )  |
-| Balance, end of period       | $ | 716  |   | $ | 710  |   | $  | 798  |    |
-Table: Allowance for doubtful accounts included in our consolidated balance sheets
-
-| 0                                                           | 2 | 3      | 6 | 7      | 10 | 11     |
-|-------------------------------------------------------------|---|--------|---|--------|----|--------|
-| (In millions)                                               |   |        |   |        |    |        |
-| June 30,                                                    |   | 2023.0 |   | 2022.0 |    | 2021.0 |
-| Accounts receivable, net of allowance for doubtful accounts | $ | 650.0  | $ | 633.0  | $  | 751.0  |
-| Other long-term assets                                      |   | 66.0   |   | 77.0   |    | 47.0   |
-| Total                                                       | $ | 716.0  | $ | 710.0  | $  | 798.0  |
-Table: Unlabeled Table
-
-| 0                                                       | 2    | 3       | 6    | 7       | 10   | 11      |
-|---------------------------------------------------------|------|---------|------|---------|------|---------|
-| (In millions, except earnings per share)                |      |         |      |         |      |         |
-| Year Ended June 30,                                     | 2023 | 2023.0  | 2022 | 2022.0  | 2021 | 2021.0  |
-| Net income available for common shareholders (A)        | $    | 72361.0 | $    | 72738.0 | $    | 61271.0 |
-| Weighted average outstanding shares of common stock (B) |      | 7446.0  |      | 7496.0  |      | 7547.0  |
-| Dilutive effect of stock-based awards                   |      | 26.0    |      | 44.0    |      | 61.0    |
-| Common stock and common stock equivalents (C)           |      | 7472.0  |      | 7540.0  |      | 7608.0  |
-| Earnings Per Share                                      |      |         |      |         |      |         |
-| Basic (A/B)                                             | $    | 9.72    | $    | 9.7     | $    | 8.12    |
-| Diluted (A/C)                                           | $    | 9.68    | $    | 9.65    | $    | 8.05    |
-Table: Unlabeled Table
-
-| 0                                                     | 2    | 3      | 4 | 6    | 7      | 8 | 10   | 11     | 12 |
-|-------------------------------------------------------|------|--------|---|------|--------|---|------|--------|----|
-| (In millions)                                         |      |        |   |      |        |   |      |        |    |
-| Year Ended June 30,                                   | 2023 | 2023   |   | 2022 | 2022   |   | 2021 | 2021   |    |
-| Interest and dividends income                         | $    | 2994   |   | $    | 2094   |   | $    | 2131   |    |
-| Interest expense                                      |      | (1,968 | ) |      | (2,063 | ) |      | (2,346 | )  |
-| Net recognized gains on investments                   |      | 260    |   |      | 461    |   |      | 1232   |    |
-| Net gains (losses) on derivatives                     |      | (456   | ) |      | (52    | ) |      | 17     |    |
-| Net gains (losses) on foreign currency remeasurements |      | 181    |   |      | (75    | ) |      | 54     |    |
-| Other, net                                            |      | (223   | ) |      | (32    | ) |      | 98     |    |
-| Total                                                 | $    | 788    |   | $    | 333    |   | $    | 1186   |    |
-Table: Unlabeled Table
-
-| 0                                                           | 2    | 3    | 4 | 6    | 7    | 8 | 10   | 11   | 12 |
-|-------------------------------------------------------------|------|------|---|------|------|---|------|------|----|
-| (In millions)                                               |      |      |   |      |      |   |      |      |    |
-| Year Ended June 30,                                         | 2023 | 2023 |   | 2022 | 2022 |   | 2021 | 2021 |    |
-| Realized gains from sales of available-for-sale securities  | $    | 36   |   | $    | 162  |   | $    | 105  |    |
-| Realized losses from sales of available-for-sale securities |      | (124 | ) |      | (138 | ) |      | (40  | )  |
-| Impairments and allowance for credit losses                 |      | (10  | ) |      | (81  | ) |      | (2   | )  |
-| Total                                                       | $    | (98  | ) | $    | (57  | ) | $    | 63   |    |
-Table: Net recognized gains (losses) on equity investments were as follows
 
 | 0                                              | 2    | 3    | 4 | 6    | 7    | 8 | 10   | 11   | 12 |
 |------------------------------------------------|------|------|---|------|------|---|------|------|----|
 | (In millions)                                  |      |      |   |      |      |   |      |      |    |
 | Year Ended June 30,                            | 2023 | 2023 |   | 2022 | 2022 |   | 2021 | 2021 |    |
-| Net realized gains on investments sold         | $    | 75   |   | $    | 29   |   | $    | 123  |    |
-| Net unrealized gains on investments still held |      | 303  |   |      | 509  |   |      | 1057 |    |
-| Impairments of investments                     |      | (20  | ) |      | (20  | ) |      | (11  | )  |
-| Total                                          | $    | 358  |   | $    | 518  |   | $    | 1169 |    |
+| Net income                                     | $    |      |   | $    |      |   | $    |      |    |
+| Other comprehensive income (loss), net of tax: |      |      |   |      |      |   |      |      |    |
+| Net change related to derivatives              |      | (    | ) |      |      |   |      |      |    |
+| Net change related to investments              |      | (    | ) |      | (    | ) |      | (    | )  |
+| Translation adjustments and other              |      | (    | ) |      | (    | ) |      |      |    |
+| Other comprehensive loss                       |      | (    | ) |      | (    | ) |      | (    | )  |
+| Comprehensive income                           | $    |      |   | $    |      |   | $    |      |    |
 Table: Unlabeled Table
 
-| 0                                                            | 2               | 3               | 6                  | 7                  | 10              | 11              | 14               | 15               | 16 | 18            | 19            | 22                      | 23                      | 26                    | 27                    | 30                | 31                |
-|--------------------------------------------------------------|-----------------|-----------------|--------------------|--------------------|-----------------|-----------------|------------------|------------------|----|---------------|---------------|-------------------------|-------------------------|-----------------------|-----------------------|-------------------|-------------------|
-| (In millions)                                                | Fair ValueLevel | Fair ValueLevel | AdjustedCost Basis | AdjustedCost Basis | UnrealizedGains | UnrealizedGains | UnrealizedLosses | UnrealizedLosses |    | RecordedBasis | RecordedBasis | Cashand CashEquivalents | Cashand CashEquivalents | Short-termInvestments | Short-termInvestments | EquityInvestments | EquityInvestments |
-| June 30, 2023                                                |                 |                 |                    |                    |                 |                 |                  |                  |    |               |               |                         |                         |                       |                       |                   |                   |
-| Changes in Fair Value Recorded in Other Comprehensive Income |                 |                 |                    |                    |                 |                 |                  |                  |    |               |               |                         |                         |                       |                       |                   |                   |
-| Commercial paper                                             |                 | Level 2         | $                  | 16589              | $               | 0               | $                | 0                |    | $             | 16589         | $                       | 12231                   | $                     | 4358                  | $                 | 0                 |
-| Certificates of deposit                                      |                 | Level 2         |                    | 2701               |                 | 0               |                  | 0                |    |               | 2701          |                         | 2657                    |                       | 44                    |                   | 0                 |
-| U.S. government securities                                   |                 | Level 1         |                    | 65237              |                 | 2               |                  | (3,870           | )  |               | 61369         |                         | 2991                    |                       | 58378                 |                   | 0                 |
-| U.S. agency securities                                       |                 | Level 2         |                    | 2703               |                 | 0               |                  | 0                |    |               | 2703          |                         | 894                     |                       | 1809                  |                   | 0                 |
-| Foreign government bonds                                     |                 | Level 2         |                    | 498                |                 | 1               |                  | (24              | )  |               | 475           |                         | 0                       |                       | 475                   |                   | 0                 |
-| Mortgage- and asset-backed securities                        |                 | Level 2         |                    | 824                |                 | 1               |                  | (39              | )  |               | 786           |                         | 0                       |                       | 786                   |                   | 0                 |
-| Corporate notes and bonds                                    |                 | Level 2         |                    | 10809              |                 | 8               |                  | (583             | )  |               | 10234         |                         | 0                       |                       | 10234                 |                   | 0                 |
-| Corporate notes and bonds                                    |                 | Level 3         |                    | 120                |                 | 0               |                  | 0                |    |               | 120           |                         | 0                       |                       | 120                   |                   | 0                 |
-| Municipal securities                                         |                 | Level 2         |                    | 285                |                 | 1               |                  | (18              | )  |               | 268           |                         | 7                       |                       | 261                   |                   | 0                 |
-| Municipal securities                                         |                 | Level 3         |                    | 103                |                 | 0               |                  | (16              | )  |               | 87            |                         | 0                       |                       | 87                    |                   | 0                 |
-| Total debt investments                                       |                 |                 | $                  | 99869              | $               | 13              | $                | (4,550           | )  | $             | 95332         | $                       | 18780                   | $                     | 76552                 | $                 | 0                 |
-| Changes in Fair Value Recorded in Net Income                 |                 |                 |                    |                    |                 |                 |                  |                  |    |               |               |                         |                         |                       |                       |                   |                   |
-| Equity investments                                           |                 | Level 1         |                    |                    |                 |                 |                  |                  |    | $             | 10138         | $                       | 7446                    | $                     | 0                     | $                 | 2692              |
-| Equity investments                                           |                 | Other           |                    |                    |                 |                 |                  |                  |    |               | 7187          |                         | 0                       |                       | 0                     |                   | 7187              |
-| Total equity investments                                     |                 |                 |                    |                    |                 |                 |                  |                  |    | $             | 17325         | $                       | 7446                    | $                     | 0                     | $                 | 9879              |
-| Cash                                                         |                 |                 |                    |                    |                 |                 |                  |                  |    | $             | 8478          | $                       | 8478                    | $                     | 0                     | $                 | 0                 |
-| Derivatives, net (a)                                         |                 |                 |                    |                    |                 |                 |                  |                  |    |               | 6             |                         | 0                       |                       | 6                     |                   | 0                 |
-| Total                                                        |                 |                 |                    |                    |                 |                 |                  |                  |    | $             | 121141        | $                       | 34704                   | $                     | 76558                 | $                 | 9879              |
-Table: Item 8
+| 0                                                                      | 2    | 3    | 4 | 6    | 7    | 8 |
+|------------------------------------------------------------------------|------|------|---|------|------|---|
+| (In millions)                                                          |      |      |   |      |      |   |
+| June 30,                                                               | 2023 | 2023 |   | 2022 | 2022 |   |
+| Assets                                                                 |      |      |   |      |      |   |
+| Current assets:                                                        |      |      |   |      |      |   |
+| Cash and cash equivalents                                              | $    |      |   | $    |      |   |
+| Short-term investments                                                 |      |      |   |      |      |   |
+| Total cash, cash equivalents, and short-term investments               |      |      |   |      |      |   |
+| Accounts receivable, net of allowance for doubtful accounts of $ and $ |      |      |   |      |      |   |
+| Inventories                                                            |      |      |   |      |      |   |
+| Other current assets                                                   |      |      |   |      |      |   |
+| Total current assets                                                   |      |      |   |      |      |   |
+| Property and equipment, net of accumulated depreciation of $ and $     |      |      |   |      |      |   |
+| Operating lease right-of-use assets                                    |      |      |   |      |      |   |
+| Equity investments                                                     |      |      |   |      |      |   |
+| Goodwill                                                               |      |      |   |      |      |   |
+| Intangible assets, net                                                 |      |      |   |      |      |   |
+| Other long-term assets                                                 |      |      |   |      |      |   |
+| Total assets                                                           | $    |      |   | $    |      |   |
+| Liabilities and stockholders’ equity                                   |      |      |   |      |      |   |
+| Current liabilities:                                                   |      |      |   |      |      |   |
+| Accounts payable                                                       | $    |      |   | $    |      |   |
+| Current portion of long-term debt                                      |      |      |   |      |      |   |
+| Accrued compensation                                                   |      |      |   |      |      |   |
+| Short-term income taxes                                                |      |      |   |      |      |   |
+| Short-term unearned revenue                                            |      |      |   |      |      |   |
+| Other current liabilities                                              |      |      |   |      |      |   |
+| Total current liabilities                                              |      |      |   |      |      |   |
+| Long-term debt                                                         |      |      |   |      |      |   |
+| Long-term income taxes                                                 |      |      |   |      |      |   |
+| Long-term unearned revenue                                             |      |      |   |      |      |   |
+| Deferred income taxes                                                  |      |      |   |      |      |   |
+| Operating lease liabilities                                            |      |      |   |      |      |   |
+| Other long-term liabilities                                            |      |      |   |      |      |   |
+| Total liabilities                                                      |      |      |   |      |      |   |
+| Commitments and contingencies                                          |      |      |   |      |      |   |
+| Stockholders’ equity:                                                  |      |      |   |      |      |   |
+| Common stock and paid-in capital – shares authorized ; outstanding and |      |      |   |      |      |   |
+| Retained earnings                                                      |      |      |   |      |      |   |
+| Accumulated other comprehensive loss                                   |      | (    | ) |      | (    | ) |
+| Total stockholders’ equity                                             |      |      |   |      |      |   |
+| Total liabilities and stockholders’ equity                             | $    |      |   | $    |      |   |
+Table: TATEMENTS
 
-| 0                                                            | 2               | 3               | 6                  | 7                  | 10              | 11              | 14               | 15               | 16 | 18            | 19            | 22                      | 23                      | 26                    | 27                    | 30                | 31                |
-|--------------------------------------------------------------|-----------------|-----------------|--------------------|--------------------|-----------------|-----------------|------------------|------------------|----|---------------|---------------|-------------------------|-------------------------|-----------------------|-----------------------|-------------------|-------------------|
-| (In millions)                                                | Fair ValueLevel | Fair ValueLevel | AdjustedCost Basis | AdjustedCost Basis | UnrealizedGains | UnrealizedGains | UnrealizedLosses | UnrealizedLosses |    | RecordedBasis | RecordedBasis | Cashand CashEquivalents | Cashand CashEquivalents | Short-termInvestments | Short-termInvestments | EquityInvestments | EquityInvestments |
-| June 30, 2022                                                |                 |                 |                    |                    |                 |                 |                  |                  |    |               |               |                         |                         |                       |                       |                   |                   |
-| Changes in Fair Value Recorded in Other Comprehensive Income |                 |                 |                    |                    |                 |                 |                  |                  |    |               |               |                         |                         |                       |                       |                   |                   |
-| Commercial paper                                             |                 | Level 2         | $                  | 2500               | $               | 0               | $                | 0                |    | $             | 2500          | $                       | 2498                    | $                     | 2                     | $                 | 0                 |
-| Certificates of deposit                                      |                 | Level 2         |                    | 2071               |                 | 0               |                  | 0                |    |               | 2071          |                         | 2032                    |                       | 39                    |                   | 0                 |
-| U.S. government securities                                   |                 | Level 1         |                    | 79696              |                 | 29              |                  | (2,178           | )  |               | 77547         |                         | 9                       |                       | 77538                 |                   | 0                 |
-| U.S. agency securities                                       |                 | Level 2         |                    | 419                |                 | 0               |                  | (9               | )  |               | 410           |                         | 0                       |                       | 410                   |                   | 0                 |
-| Foreign government bonds                                     |                 | Level 2         |                    | 506                |                 | 0               |                  | (24              | )  |               | 482           |                         | 0                       |                       | 482                   |                   | 0                 |
-| Mortgage- and asset-backed securities                        |                 | Level 2         |                    | 727                |                 | 1               |                  | (30              | )  |               | 698           |                         | 0                       |                       | 698                   |                   | 0                 |
-| Corporate notes and bonds                                    |                 | Level 2         |                    | 11661              |                 | 4               |                  | (554             | )  |               | 11111         |                         | 0                       |                       | 11111                 |                   | 0                 |
-| Corporate notes and bonds                                    |                 | Level 3         |                    | 67                 |                 | 0               |                  | 0                |    |               | 67            |                         | 0                       |                       | 67                    |                   | 0                 |
-| Municipal securities                                         |                 | Level 2         |                    | 368                |                 | 19              |                  | (13              | )  |               | 374           |                         | 0                       |                       | 374                   |                   | 0                 |
-| Municipal securities                                         |                 | Level 3         |                    | 103                |                 | 0               |                  | (6               | )  |               | 97            |                         | 0                       |                       | 97                    |                   | 0                 |
-| Total debt investments                                       |                 |                 | $                  | 98118              | $               | 53              | $                | (2,814           | )  | $             | 95357         | $                       | 4539                    | $                     | 90818                 | $                 | 0                 |
-| Changes in Fair Value Recorded in Net Income                 |                 |                 |                    |                    |                 |                 |                  |                  |    |               |               |                         |                         |                       |                       |                   |                   |
-| Equity investments                                           |                 | Level 1         |                    |                    |                 |                 |                  |                  |    | $             | 1590          | $                       | 1134                    | $                     | 0                     | $                 | 456               |
-| Equity investments                                           |                 | Other           |                    |                    |                 |                 |                  |                  |    |               | 6435          |                         | 0                       |                       | 0                     |                   | 6435              |
-| Total equity investments                                     |                 |                 |                    |                    |                 |                 |                  |                  |    | $             | 8025          | $                       | 1134                    | $                     | 0                     | $                 | 6891              |
-| Cash                                                         |                 |                 |                    |                    |                 |                 |                  |                  |    | $             | 8258          | $                       | 8258                    | $                     | 0                     | $                 | 0                 |
-| Derivatives, net (a)                                         |                 |                 |                    |                    |                 |                 |                  |                  |    |               | 8             |                         | 0                       |                       | 8                     |                   | 0                 |
-| Total                                                        |                 |                 |                    |                    |                 |                 |                  |                  |    | $             | 111648        | $                       | 13931                   | $                     | 90826                 | $                 | 6891              |
-Table: Unlabeled Table
+| 0                                                                                            | 2    | 3    | 4 | 6    | 7    | 8 | 10   | 11   | 12 |
+|----------------------------------------------------------------------------------------------|------|------|---|------|------|---|------|------|----|
+| (In millions)                                                                                |      |      |   |      |      |   |      |      |    |
+| Year Ended June 30,                                                                          | 2023 | 2023 |   | 2022 | 2022 |   | 2021 | 2021 |    |
+| Operations                                                                                   |      |      |   |      |      |   |      |      |    |
+| Net income                                                                                   | $    |      |   | $    |      |   | $    |      |    |
+| Adjustments to reconcile net income to net cash from operations:                             |      |      |   |      |      |   |      |      |    |
+| Depreciation, amortization, and other                                                        |      |      |   |      |      |   |      |      |    |
+| Stock-based compensation expense                                                             |      |      |   |      |      |   |      |      |    |
+| Net recognized losses (gains) on investments and derivatives                                 |      |      |   |      | (    | ) |      | (    | )  |
+| Deferred income taxes                                                                        |      | (    | ) |      | (    | ) |      | (    | )  |
+| Changes in operating assets and liabilities:                                                 |      |      |   |      |      |   |      |      |    |
+| Accounts receivable                                                                          |      | (    | ) |      | (    | ) |      | (    | )  |
+| Inventories                                                                                  |      |      |   |      | (    | ) |      | (    | )  |
+| Other current assets                                                                         |      | (    | ) |      | (    | ) |      | (    | )  |
+| Other long-term assets                                                                       |      | (    | ) |      | (    | ) |      | (    | )  |
+| Accounts payable                                                                             |      | (    | ) |      |      |   |      |      |    |
+| Unearned revenue                                                                             |      |      |   |      |      |   |      |      |    |
+| Income taxes                                                                                 |      | (    | ) |      |      |   |      | (    | )  |
+| Other current liabilities                                                                    |      |      |   |      |      |   |      |      |    |
+| Other long-term liabilities                                                                  |      |      |   |      |      |   |      |      |    |
+| Net cash from operations                                                                     |      |      |   |      |      |   |      |      |    |
+| Financing                                                                                    |      |      |   |      |      |   |      |      |    |
+| Cash premium on debt exchange                                                                |      |      |   |      |      |   |      | (    | )  |
+| Repayments of debt                                                                           |      | (    | ) |      | (    | ) |      | (    | )  |
+| Common stock issued                                                                          |      |      |   |      |      |   |      |      |    |
+| Common stock repurchased                                                                     |      | (    | ) |      | (    | ) |      | (    | )  |
+| Common stock cash dividends paid                                                             |      | (    | ) |      | (    | ) |      | (    | )  |
+| Other, net                                                                                   |      | (    | ) |      | (    | ) |      | (    | )  |
+| Net cash used in financing                                                                   |      | (    | ) |      | (    | ) |      | (    | )  |
+| Investing                                                                                    |      |      |   |      |      |   |      |      |    |
+| Additions to property and equipment                                                          |      | (    | ) |      | (    | ) |      | (    | )  |
+| Acquisition of companies, net of cash acquired, and purchases of intangible and other assets |      | (    | ) |      | (    | ) |      | (    | )  |
+| Purchases of investments                                                                     |      | (    | ) |      | (    | ) |      | (    | )  |
+| Maturities of investments                                                                    |      |      |   |      |      |   |      |      |    |
+| Sales of investments                                                                         |      |      |   |      |      |   |      |      |    |
+| Other, net                                                                                   |      | (    | ) |      | (    | ) |      | (    | )  |
+| Net cash used in investing                                                                   |      | (    | ) |      | (    | ) |      | (    | )  |
+| Effect of foreign exchange rates on cash and cash equivalents                                |      | (    | ) |      | (    | ) |      | (    | )  |
+| Net change in cash and cash equivalents                                                      |      |      |   |      | (    | ) |      |      |    |
+| Cash and cash equivalents, beginning of period                                               |      |      |   |      |      |   |      |      |    |
+| Cash and cash equivalents, end of period                                                     | $    |      |   | $    |      |   | $    |      |    |
+Table: UITY STATEMENTS
 
-| 0                                     | 2                   | 3                   | 4                   | 5                   | 6                   | 7                   | 8 | 10                   | 11                   | 12                   | 13                   | 14                   | 15                   | 16 | 18               | 19               | 22                      | 23                      | 24 |
-|---------------------------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----|------------------|------------------|-------------------------|-------------------------|----|
-|                                       | Less than 12 Months | Less than 12 Months | Less than 12 Months | Less than 12 Months | Less than 12 Months | Less than 12 Months |   | 12 Months or Greater | 12 Months or Greater | 12 Months or Greater | 12 Months or Greater | 12 Months or Greater | 12 Months or Greater |    |                  |                  | Total Unrealized Losses | Total Unrealized Losses |    |
-|                                       |                     |                     |                     |                     |                     |                     |   |                      |                      |                      |                      |                      |                      |    |                  |                  | Total Unrealized Losses | Total Unrealized Losses |    |
-|                                       |                     |                     |                     |                     |                     |                     |   |                      |                      |                      |                      |                      |                      |    |                  |                  | Total Unrealized Losses | Total Unrealized Losses |    |
-| (In millions)                         | Fair Value          | Fair Value          |                     |                     |                     | Unrealized Losses   |   | Fair Value           | Fair Value           |                      |                      | Unrealized Losses    | Unrealized Losses    |    | Total Fair Value | Total Fair Value | Total Unrealized Losses | Total Unrealized Losses |    |
-| June 30, 2023                         |                     |                     |                     |                     |                     |                     |   |                      |                      |                      |                      |                      |                      |    |                  |                  |                         |                         |    |
-| U.S. government and agency securities | $                   | 7950                |                     |                     | $                   | (336                | ) | $                    | 45273                |                      |                      | $                    | (3,534               | )  | $                | 53223            | $                       | (3,870                  | )  |
-| Foreign government bonds              |                     | 77                  |                     |                     |                     | (5                  | ) |                      | 391                  |                      |                      |                      | (19                  | )  |                  | 468              |                         | (24                     | )  |
-| Mortgage- and asset-backed securities |                     | 257                 |                     |                     |                     | (5                  | ) |                      | 412                  |                      |                      |                      | (34                  | )  |                  | 669              |                         | (39                     | )  |
-| Corporate notes and bonds             |                     | 2326                |                     |                     |                     | (49                 | ) |                      | 7336                 |                      |                      |                      | (534                 | )  |                  | 9662             |                         | (583                    | )  |
-| Municipal securities                  |                     | 111                 |                     |                     |                     | (3                  | ) |                      | 186                  |                      |                      |                      | (31                  | )  |                  | 297              |                         | (34                     | )  |
-| Total                                 | $                   | 10721               |                     |                     | $                   | (398                | ) | $                    | 53598                |                      |                      | $                    | (4,152               | )  | $                | 64319            | $                       | (4,550                  | )  |
-Table: Unlabeled Table
-
-| 0                                     | 2                   | 3                   | 4                   | 5                   | 6                   | 7                   | 8 | 10                   | 11                   | 12                   | 13                   | 14                   | 15                   | 16 | 18 | 19               | 22 | 23                      | 24 |
-|---------------------------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----|----|------------------|----|-------------------------|----|
-|                                       | Less than 12 Months | Less than 12 Months | Less than 12 Months | Less than 12 Months | Less than 12 Months | Less than 12 Months |   | 12 Months or Greater | 12 Months or Greater | 12 Months or Greater | 12 Months or Greater | 12 Months or Greater | 12 Months or Greater |    |    |                  |    | Total Unrealized Losses |    |
-|                                       |                     |                     |                     |                     |                     |                     |   |                      |                      |                      |                      |                      |                      |    |    |                  |    | Total Unrealized Losses |    |
-|                                       |                     |                     |                     |                     |                     |                     |   |                      |                      |                      |                      |                      |                      |    |    |                  |    | Total Unrealized Losses |    |
-| (In millions)                         |                     | Fair Value          |                     |                     |                     | Unrealized Losses   |   |                      | Fair Value           |                      |                      |                      | Unrealized Losses    |    |    | Total Fair Value |    | Total Unrealized Losses |    |
-| June 30, 2022                         |                     |                     |                     |                     |                     |                     |   |                      |                      |                      |                      |                      |                      |    |    |                  |    |                         |    |
-| U.S. government and agency securities | $                   | 59092               |                     |                     | $                   | (1,835              | ) | $                    | 2210                 |                      |                      | $                    | (352                 | )  | $  | 61302            | $  | (2,187                  | )  |
-| Foreign government bonds              |                     | 418                 |                     |                     |                     | (18                 | ) |                      | 27                   |                      |                      |                      | (6                   | )  |    | 445              |    | (24                     | )  |
-| Mortgage- and asset-backed securities |                     | 510                 |                     |                     |                     | (26                 | ) |                      | 41                   |                      |                      |                      | (4                   | )  |    | 551              |    | (30                     | )  |
-| Corporate notes and bonds             |                     | 9443                |                     |                     |                     | (477                | ) |                      | 786                  |                      |                      |                      | (77                  | )  |    | 10229            |    | (554                    | )  |
-| Municipal securities                  |                     | 178                 |                     |                     |                     | (12                 | ) |                      | 74                   |                      |                      |                      | (7                   | )  |    | 252              |    | (19                     | )  |
-| Total                                 | $                   | 69641               |                     |                     | $                   | (2,368              | ) | $                    | 3138                 |                      |                      | $                    | (446                 | )  | $  | 72779            | $  | (2,814                  | )  |
-Table: Unlabeled Table
-
-| 0                                     | 2                  | 3                  | 6                   | 7                   |
-|---------------------------------------|--------------------|--------------------|---------------------|---------------------|
-| (In millions)                         | AdjustedCost Basis | AdjustedCost Basis | EstimatedFair Value | EstimatedFair Value |
-| June 30, 2023                         |                    |                    |                     |                     |
-| Due in one year or less               | $                  | 38182              | $                   | 38048               |
-| Due after one year through five years |                    | 47127              |                     | 44490               |
-| Due after five years through 10 years |                    | 13262              |                     | 11628               |
-| Due after 10 years                    |                    | 1298               |                     | 1166                |
-| Total                                 | $                  | 99869              | $                   | 95332               |
-Table: The following table presents the notional amounts of our outstanding derivative instruments measured
-
-| 0                                     | 2            | 3            | 6            | 7            |
-|---------------------------------------|--------------|--------------|--------------|--------------|
-| (In millions)                         | June 30,2023 | June 30,2023 | June 30,2022 | June 30,2022 |
-| Designated as Hedging Instruments     |              |              |              |              |
-| Foreign exchange contracts purchased  | $            | 1492         | $            | 635          |
-| Interest rate contracts purchased     |              | 1078         |              | 1139         |
-| Not Designated as Hedging Instruments |              |              |              |              |
-| Foreign exchange contracts purchased  |              | 7874         |              | 10322        |
-| Foreign exchange contracts sold       |              | 25159        |              | 21606        |
-| Equity contracts purchased            |              | 3867         |              | 1131         |
-| Equity contracts sold                 |              | 2154         |              | 0            |
-| Other contracts purchased             |              | 1224         |              | 1642         |
-| Other contracts sold                  |              | 581          |              | 544          |
-Table: The following table presents our derivative instruments
-
-| 0                                                        | 2                | 3                | 4            | 5                     | 6                     | 7                     | 8 | 9                | 10               | 11               | 12           | 13                    | 14                    | 15                    | 16 |
-|----------------------------------------------------------|------------------|------------------|--------------|-----------------------|-----------------------|-----------------------|---|------------------|------------------|------------------|--------------|-----------------------|-----------------------|-----------------------|----|
-| (In millions)                                            | DerivativeAssets | DerivativeAssets |              | DerivativeLiabilities | DerivativeLiabilities | DerivativeLiabilities |   | DerivativeAssets | DerivativeAssets | DerivativeAssets |              | DerivativeLiabilities | DerivativeLiabilities | DerivativeLiabilities |    |
-|                                                          | June 30,2023     | June 30,2023     | June 30,2023 | June 30,2023          | June 30,2023          | June 30,2023          |   | June 30,2022     | June 30,2022     | June 30,2022     | June 30,2022 | June 30,2022          | June 30,2022          | June 30,2022          |    |
-| Designated as Hedging Instruments                        |                  |                  |              |                       |                       |                       |   |                  |                  |                  |              |                       |                       |                       |    |
-| Foreign exchange contracts                               | $                | 34               |              |                       | $                     | (67                   | ) |                  | $                | 0                |              |                       | $                     | (77                   | )  |
-| Interest rate contracts                                  |                  | 16               |              |                       |                       | 0                     |   |                  |                  | 3                |              |                       |                       | 0                     |    |
-| Not Designated as Hedging Instruments                    |                  |                  |              |                       |                       |                       |   |                  |                  |                  |              |                       |                       |                       |    |
-| Foreign exchange contracts                               |                  | 249              |              |                       |                       | (332                  | ) |                  |                  | 333              |              |                       |                       | (362                  | )  |
-| Equity contracts                                         |                  | 165              |              |                       |                       | (400                  | ) |                  |                  | 5                |              |                       |                       | (95                   | )  |
-| Other contracts                                          |                  | 5                |              |                       |                       | (6                    | ) |                  |                  | 15               |              |                       |                       | (17                   | )  |
-| Gross amounts of derivatives                             |                  | 469              |              |                       |                       | (805                  | ) |                  |                  | 356              |              |                       |                       | (551                  | )  |
-| Gross amounts of derivatives offset in the balance sheet |                  | (202             | )            |                       |                       | 206                   |   |                  |                  | (130             | )            |                       |                       | 133                   |    |
-| Cash collateral received                                 |                  | 0                |              |                       |                       | (125                  | ) |                  |                  | 0                |              |                       |                       | (75                   | )  |
-| Net amounts of derivatives                               | $                | 267              |              |                       | $                     | (724                  | ) |                  | $                | 226              |              |                       | $                     | (493                  | )  |
-| Reported as                                              |                  |                  |              |                       |                       |                       |   |                  |                  |                  |              |                       |                       |                       |    |
-| Short-term investments                                   | $                | 6                |              |                       | $                     | 0                     |   |                  | $                | 8                |              |                       | $                     | 0                     |    |
-| Other current assets                                     |                  | 245              |              |                       |                       | 0                     |   |                  |                  | 218              |              |                       |                       | 0                     |    |
-| Other long-term assets                                   |                  | 16               |              |                       |                       | 0                     |   |                  |                  | 0                |              |                       |                       | 0                     |    |
-| Other current liabilities                                |                  | 0                |              |                       |                       | (341                  | ) |                  |                  | 0                |              |                       |                       | (298                  | )  |
-| Other long-term liabilities                              |                  | 0                |              |                       |                       | (383                  | ) |                  |                  | 0                |              |                       |                       | (195                  | )  |
-| Total                                                    | $                | 267              |              |                       | $                     | (724                  | ) |                  | $                | 226              |              |                       | $                     | (493                  | )  |
-Table: The following table presents the fair value of our derivatives instruments on a gross basis
-
-| 0                      | 2       | 3       | 6 | 7       | 8 | 10      | 11      | 14    | 15    | 16 |
-|------------------------|---------|---------|---|---------|---|---------|---------|-------|-------|----|
-| (In millions)          | Level 1 | Level 1 |   | Level 2 |   | Level 3 | Level 3 | Total | Total |    |
-| June 30, 2023          |         |         |   |         |   |         |         |       |       |    |
-| Derivative assets      | $       | 0       | $ | 462     |   | $       | 7       | $     | 469   |    |
-| Derivative liabilities |         | 0       |   | (805    | ) |         | 0       |       | (805  | )  |
-| June 30, 2022          |         |         |   |         |   |         |         |       |       |    |
-| Derivative assets      |         | 1       |   | 349     |   |         | 6       |       | 356   |    |
-| Derivative liabilities |         | 0       |   | (551    | ) |         | 0       |       | (551  | )  |
-Table: Gains (losses) on derivative instruments recognized in other income (expense), net were as follows
-
-| 0                                                               | 1             | 2             | 3             | 4             | 5             | 6             | 7             | 8             | 9             | 10            | 11            | 12 |
-|-----------------------------------------------------------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----|
-| (In millions)                                                   | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) |    |
-| Year Ended June 30,                                             |               | 2023          | 2023          |               |               | 2022          | 2022          |               |               | 2021          | 2021          |    |
-| Designated as Fair Value Hedging Instruments                    |               |               |               |               |               |               |               |               |               |               |               |    |
-| Foreign exchange contracts                                      |               |               |               |               |               |               |               |               |               |               |               |    |
-| Derivatives                                                     |               | $             | 0             |               |               | $             | 49            |               |               | $             | 193           |    |
-| Hedged items                                                    |               |               | 0             |               |               |               | (50           | )             |               |               | (188          | )  |
-| Excluded from effectiveness assessment                          |               |               | 0             |               |               |               | 4             |               |               |               | 30            |    |
-| Interest rate contracts                                         |               |               |               |               |               |               |               |               |               |               |               |    |
-| Derivatives                                                     |               |               | (65           | )             |               |               | (92           | )             |               |               | (37           | )  |
-| Hedged items                                                    |               |               | 38            |               |               |               | 108           |               |               |               | 53            |    |
-| Designated as Cash Flow Hedging Instruments                     |               |               |               |               |               |               |               |               |               |               |               |    |
-| Foreign exchange contracts                                      |               |               |               |               |               |               |               |               |               |               |               |    |
-| Amount reclassified from accumulated other comprehensive income |               |               | 61            |               |               |               | (79           | )             |               |               | 17            |    |
-| Not Designated as Hedging Instruments                           |               |               |               |               |               |               |               |               |               |               |               |    |
-| Foreign exchange contracts                                      |               |               | (73           | )             |               |               | 383           |               |               |               | 27            |    |
-| Equity contracts                                                |               |               | (420          | )             |               |               | 13            |               |               |               | (6            | )  |
-| Other contracts                                                 |               |               | (41           | )             |               |               | (85           | )             |               |               | 15            |    |
-Table: Gains (losses), net of tax, on derivative instruments recognized in our consolidated comprehensive i
-
-| 0                                           | 2    | 3      | 6    | 7    | 8 | 10   | 11     |
-|---------------------------------------------|------|--------|------|------|---|------|--------|
-| (In millions)                               |      |        |      |      |   |      |        |
-| Year Ended June 30,                         | 2023 | 2023.0 | 2022 | 2022 |   | 2021 | 2021.0 |
-| Designated as Cash Flow Hedging Instruments |      |        |      |      |   |      |        |
-| Foreign exchange contracts                  |      |        |      |      |   |      |        |
-| Included in effectiveness assessment        | $    | 34.0   | $    | (57  | ) | $    | 34.0   |
-Table: The components of inventories were as follows
-
-| 0               | 1             | 2             | 3             | 4             | 5             | 6             | 7             |
-|-----------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
-| (In millions)   | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) |
-| June 30,        |               | 2023          | 2023          |               |               | 2022          | 2022          |
-| Raw materials   |               | $             | 709           |               |               | $             | 1144          |
-| Work in process |               |               | 23            |               |               |               | 82            |
-| Finished goods  |               |               | 1768          |               |               |               | 2516          |
-| Total           |               | $             | 2500          |               |               | $             | 3742          |
-Table: Unlabeled Table
-
-| 0                               | 1             | 2             | 3             | 4             | 5             | 6             | 7             | 8 |
-|---------------------------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---|
-| (In millions)                   | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) |   |
-| June 30,                        |               | 2023          | 2023          |               |               | 2022          | 2022          |   |
-| Land                            |               | $             | 5683          |               |               | $             | 4734          |   |
-| Buildings and improvements      |               |               | 68465         |               |               |               | 55014         |   |
-| Leasehold improvements          |               |               | 8537          |               |               |               | 7819          |   |
-| Computer equipment and software |               |               | 74961         |               |               |               | 60631         |   |
-| Furniture and equipment         |               |               | 6246          |               |               |               | 5860          |   |
-| Total, at cost                  |               |               | 163892        |               |               |               | 134058        |   |
-| Accumulated depreciation        |               |               | (68,251       | )             |               |               | (59,660       | ) |
-| Total, net                      |               | $             | 95641         |               |               | $             | 74398         |   |
-Table: (In millions) Goodwill (a) $ 16,326 Intangible assets 4,365 Other assets 42 Other liabilities (b) (1
-
-| 0                     | 1                     | 2                     | 3                     | 6 | 7      | 8 |
-|-----------------------|-----------------------|-----------------------|-----------------------|---|--------|---|
-| (In millions)         | (In millions)         | (In millions)         | (In millions)         |   |        |   |
-| Goodwill (a)          | Goodwill (a)          | Goodwill (a)          | Goodwill (a)          | $ | 16326  |   |
-| Intangible assets     | Intangible assets     | Intangible assets     | Intangible assets     |   | 4365   |   |
-| Other assets          | Other assets          | Other assets          | Other assets          |   | 42     |   |
-| Other liabilities (b) | Other liabilities (b) | Other liabilities (b) | Other liabilities (b) |   | (1,972 | ) |
-| Total                 | Total                 | Total                 | Total                 | $ | 18761  |   |
-Table: Following are the details of the purchase price allocated to the intangible assets acquired
-
-| 0                                  | 2      | 3      | 6       | 7                    | 8                    |
-|------------------------------------|--------|--------|---------|----------------------|----------------------|
-| (In millions, except average life) | Amount | Amount |         | WeightedAverage Life | WeightedAverage Life |
-| Customer-related                   | $      | 2610   | 9 years | 9 years              | 9 years              |
-| Technology-based                   |        | 1540   | 5 years | 5 years              | 5 years              |
-| Marketing-related                  |        | 215    | 4 years | 4 years              | 4 years              |
-| Total                              | $      | 4365   | 7 years | 7 years              | 7 years              |
-Table: The allocation of the purchase price to goodwill was completed as of December 31, 2021. The major cl
-
-| 0                         | 1                         | 2                         | 3                         | 6 | 7    | 8 |
-|---------------------------|---------------------------|---------------------------|---------------------------|---|------|---|
-| (In millions)             | (In millions)             | (In millions)             | (In millions)             |   |      |   |
-| Cash and cash equivalents | Cash and cash equivalents | Cash and cash equivalents | Cash and cash equivalents | $ | 766  |   |
-| Goodwill                  | Goodwill                  | Goodwill                  | Goodwill                  |   | 5510 |   |
-| Intangible assets         | Intangible assets         | Intangible assets         | Intangible assets         |   | 1968 |   |
-| Other assets              | Other assets              | Other assets              | Other assets              |   | 121  |   |
-| Other liabilities         | Other liabilities         | Other liabilities         | Other liabilities         |   | (244 | ) |
-| Total                     | Total                     | Total                     | Total                     | $ | 8121 |   |
-Table: Following are details of the purchase price allocated to the intangible assets acquired
-
-| 0                                  | 2      | 3      | 6        | 7                    | 8                    |
-|------------------------------------|--------|--------|----------|----------------------|----------------------|
-| (In millions, except average life) | Amount | Amount |          | WeightedAverage Life | WeightedAverage Life |
-| Technology-based                   | $      | 1341   | 4 years  | 4 years              | 4 years              |
-| Marketing-related                  |        | 627    | 11 years | 11 years             | 11 years             |
-| Total                              | $      | 1968   | 6 years  | 6 years              | 6 years              |
-Table: Changes in the carrying amount of goodwill were as follows
-
-| 0                                   | 2 | 3            | 6 | 7            | 10 | 11    | 12 | 14 | 15           | 18 | 19           | 22 | 23    | 24 | 26 | 27            |
-|-------------------------------------|---|--------------|---|--------------|----|-------|----|----|--------------|----|--------------|----|-------|----|----|---------------|
-| (In millions)                       |   | June 30,2021 |   | Acquisitions |    | Other |    |    | June 30,2022 |    | Acquisitions |    | Other |    |    | June 30, 2023 |
-| Productivity and Business Processes | $ | 24317        | $ | 599          | $  | (105  | )  | $  | 24811        | $  | 11           | $  | (47   | )  | $  | 24775         |
-| Intelligent Cloud                   |   | 13256        |   | 16879        |    | 47    |    |    | 30182        |    | 223          |    | 64    |    |    | 30469         |
-| More Personal Computing             |   | 12138        |   | 648          |    | (255  | )  |    | 12531        |    | 0            |    | 111   |    |    | 12642         |
-| Total                               | $ | 49711        | $ | 18126        | $  | (313  | )  | $  | 67524        | $  | 234          | $  | 128   |    | $  | 67886         |
-Table: Unlabeled Table
-
-| 0                 | 2                     | 3                     | 6                        | 7                        | 8 | 10                  | 11                  | 14                    | 15                    | 18                       | 19                       | 20 | 22                  | 23                  |
-|-------------------|-----------------------|-----------------------|--------------------------|--------------------------|---|---------------------|---------------------|-----------------------|-----------------------|--------------------------|--------------------------|----|---------------------|---------------------|
-| (In millions)     | Gross Carrying Amount | Gross Carrying Amount | Accumulated Amortization | Accumulated Amortization |   | Net Carrying Amount | Net Carrying Amount | Gross Carrying Amount | Gross Carrying Amount | Accumulated Amortization | Accumulated Amortization |    | Net Carrying Amount | Net Carrying Amount |
-| June 30,          |                       |                       |                          |                          |   | 2023                | 2023                |                       |                       |                          |                          |    | 2022                | 2022                |
-| Technology-based  | $                     | 11245                 | $                        | (7,589                   | ) | $                   | 3656                | $                     | 11277                 | $                        | (6,958                   | )  | $                   | 4319                |
-| Customer-related  |                       | 7281                  |                          | (4,047                   | ) |                     | 3234                |                       | 7342                  |                          | (3,171                   | )  |                     | 4171                |
-| Marketing-related |                       | 4935                  |                          | (2,473                   | ) |                     | 2462                |                       | 4942                  |                          | (2,143                   | )  |                     | 2799                |
-| Contract-based    |                       | 29                    |                          | (15                      | ) |                     | 14                  |                       | 16                    |                          | (7                       | )  |                     | 9                   |
-| Total             | $                     | 23490                 | $                        | (14,124                  | ) | $                   | 9366                | $                     | 23577                 | $                        | (12,279                  | )  | $                   | 11298               |
-Table: Unlabeled Table
-
-| 0                   | 2      | 3      | 6                    | 7                    | 10     | 11     | 14                   | 15                   |
-|---------------------|--------|--------|----------------------|----------------------|--------|--------|----------------------|----------------------|
-| (In millions)       | Amount | Amount | WeightedAverage Life | WeightedAverage Life | Amount | Amount | WeightedAverage Life | WeightedAverage Life |
-| Year Ended June 30, | 2023   | 2023   |                      |                      | 2022   | 2022   |                      |                      |
-| Technology-based    | $      | 522    |                      | 7 years              | $      | 2611   |                      | 4 years              |
-| Customer-related    |        | 0      |                      | 0 years              |        | 2837   |                      | 9 years              |
-| Marketing-related   |        | 7      |                      | 5 years              |        | 233    |                      | 4 years              |
-| Contract-based      |        | 12     |                      | 3 years              |        | 0      |                      | 0 years              |
-| Total               | $      | 541    |                      | 6 years              | $      | 5681   |                      | 7 years              |
-Table: The following table outlines the estimated future amortization expense related to intangible assets 
-
-| 0                    | 2 | 3      |
-|----------------------|---|--------|
-| (In millions)        |   |        |
-| Year Ending June 30, |   |        |
-| 2024                 | $ | 2363.0 |
-| 2025                 |   | 1881.0 |
-| 2026                 |   | 1381.0 |
-| 2027                 |   | 929.0  |
-| 2028                 |   | 652.0  |
-| Thereafter           |   | 2160.0 |
-| Total                | $ | 9366.0 |
-Table: Unlabeled Table
-
-| 0                                        | 2                         | 3                         | 4                         | 5                         | 7                   | 8                   | 9                   | 10                  | 13                     | 14                     | 15                     | 17           | 18           | 19           | 20 | 22           | 23           | 24 |
-|------------------------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------|---------------------|---------------------|---------------------|------------------------|------------------------|------------------------|--------------|--------------|--------------|----|--------------|--------------|----|
-| (In millions, issuance by calendar year) | Maturities(calendar year) | Maturities(calendar year) | Maturities(calendar year) | Maturities(calendar year) | Stated InterestRate | Stated InterestRate | Stated InterestRate | Stated InterestRate | Effective InterestRate | Effective InterestRate | Effective InterestRate | June 30,2023 | June 30,2023 | June 30,2023 |    | June 30,2022 | June 30,2022 |    |
-| 2009 issuance of $3.8 billion            |                           |                           |                           | 2039                      |                     |                     |                     | 5.20%               |                        |                        | 5.24%                  |              | $            | 520          |    | $            | 520          |    |
-| 2010 issuance of $4.8 billion            |                           |                           |                           | 2040                      |                     |                     |                     | 4.50%               |                        |                        | 4.57%                  |              |              | 486          |    |              | 486          |    |
-| 2011 issuance of $2.3 billion            |                           |                           |                           | 2041                      |                     |                     |                     | 5.30%               |                        |                        | 5.36%                  |              |              | 718          |    |              | 718          |    |
-| 2012 issuance of $2.3 billion            |                           |                           |                           | 2042                      |                     |                     |                     | 3.50%               |                        |                        | 3.57%                  |              |              | 454          |    |              | 1204         |    |
-| 2013 issuance of $5.2 billion            |                           | 2023                      | –                         | 2043                      |                     | 3.63%               | –                   | 4.88%               | 3.73%                  | –                      | 4.92%                  |              |              | 1814         |    |              | 2814         |    |
-| 2013 issuance of €4.1 billion            |                           | 2028                      | –                         | 2033                      |                     | 2.63%               | –                   | 3.13%               | 2.69%                  | –                      | 3.22%                  |              |              | 2509         |    |              | 2404         |    |
-| 2015 issuance of $23.8 billion           |                           | 2025                      | –                         | 2055                      |                     | 2.70%               | –                   | 4.75%               | 2.77%                  | –                      | 4.78%                  |              |              | 9805         |    |              | 10805        |    |
-| 2016 issuance of $19.8 billion           |                           | 2023                      | –                         | 2056                      |                     | 2.00%               | –                   | 3.95%               | 2.10%                  | –                      | 4.03%                  |              |              | 9430         |    |              | 9430         |    |
-| 2017 issuance of $17.0 billion           |                           | 2024                      | –                         | 2057                      |                     | 2.88%               | –                   | 4.50%               | 3.04%                  | –                      | 4.53%                  |              |              | 8945         |    |              | 8945         |    |
-| 2020 issuance of $10.0 billion           |                           | 2050                      | –                         | 2060                      |                     | 2.53%               | –                   | 2.68%               | 2.53%                  | –                      | 2.68%                  |              |              | 10000        |    |              | 10000        |    |
-| 2021 issuance of $8.2 billion            |                           | 2052                      | –                         | 2062                      |                     | 2.92%               | –                   | 3.04%               | 2.92%                  | –                      | 3.04%                  |              |              | 8185         |    |              | 8185         |    |
-| Total face value                         |                           |                           |                           |                           |                     |                     |                     |                     |                        |                        |                        |              |              | 52866        |    |              | 55511        |    |
-| Unamortized discount and issuance costs  |                           |                           |                           |                           |                     |                     |                     |                     |                        |                        |                        |              |              | (438         | )  |              | (471         | )  |
-| Hedge fair value adjustments (a)         |                           |                           |                           |                           |                     |                     |                     |                     |                        |                        |                        |              |              | (106         | )  |              | (68          | )  |
-| Premium on debt exchange                 |                           |                           |                           |                           |                     |                     |                     |                     |                        |                        |                        |              |              | (5,085       | )  |              | (5,191       | )  |
-| Total debt                               |                           |                           |                           |                           |                     |                     |                     |                     |                        |                        |                        |              |              | 47237        |    |              | 49781        |    |
-| Current portion of long-term debt        |                           |                           |                           |                           |                     |                     |                     |                     |                        |                        |                        |              |              | (5,247       | )  |              | (2,749       | )  |
-| Long-term debt                           |                           |                           |                           |                           |                     |                     |                     |                     |                        |                        |                        |              | $            | 41990        |    | $            | 47032        |    |
-Table: Unlabeled Table
-
-| 0                    | 2 | 3       |
-|----------------------|---|---------|
-| (In millions)        |   |         |
-| Year Ending June 30, |   |         |
-| 2024                 | $ | 5250.0  |
-| 2025                 |   | 2250.0  |
-| 2026                 |   | 3000.0  |
-| 2027                 |   | 8000.0  |
-| 2028                 |   | 0.0     |
-| Thereafter           |   | 34366.0 |
-| Total                | $ | 52866.0 |
-Table: Unlabeled Table
-
-| 0                          | 1             | 2             | 3             | 4             | 5             | 6             | 7             | 8             | 9             | 10            | 11            | 12 |
-|----------------------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|----|
-| (In millions)              | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) |    |
-| Year Ended June 30,        |               | 2023          | 2023          |               |               | 2022          | 2022          |               |               | 2021          | 2021          |    |
-| Current Taxes              |               |               |               |               |               |               |               |               |               |               |               |    |
-| U.S. federal               |               | $             | 14009         |               |               | $             | 8329          |               |               | $             | 3285          |    |
-| U.S. state and local       |               |               | 2322          |               |               |               | 1679          |               |               |               | 1229          |    |
-| Foreign                    |               |               | 6678          |               |               |               | 6672          |               |               |               | 5467          |    |
-| Current taxes              |               | $             | 23009         |               |               | $             | 16680         |               |               | $             | 9981          |    |
-| Deferred Taxes             |               |               |               |               |               |               |               |               |               |               |               |    |
-| U.S. federal               |               | $             | (6,146        | )             |               | $             | (4,815        | )             |               | $             | 25            |    |
-| U.S. state and local       |               |               | (477          | )             |               |               | (1,062        | )             |               |               | (204          | )  |
-| Foreign                    |               |               | 564           |               |               |               | 175           |               |               |               | 29            |    |
-| Deferred taxes             |               | $             | (6,059        | )             |               | $             | (5,702        | )             |               | $             | (150          | )  |
-| Provision for income taxes |               | $             | 16950         |               |               | $             | 10978         |               |               | $             | 9831          |    |
-Table: Unlabeled Table
-
-| 0                          | 1             | 2             | 3             | 4             | 5             | 6             | 7             | 8             | 9             | 10            | 11            |
-|----------------------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
-| (In millions)              | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) | (In millions) |
-| Year Ended June 30,        |               | 2023          | 2023          |               |               | 2022          | 2022          |               |               | 2021          | 2021          |
-| U.S.                       |               | $             | 52917         |               |               | $             | 47837         |               |               | $             | 34972         |
-| Foreign                    |               |               | 36394         |               |               |               | 35879         |               |               |               | 36130         |
-| Income before income taxes |               | $             | 89311         |               |               | $             | 83716         |               |               | $             | 71102         |
-Table: Unlabeled Table
-
-| 0                                                        | 2      | 3      | 6      | 7      | 10     | 11     |
-|----------------------------------------------------------|--------|--------|--------|--------|--------|--------|
-| Year Ended June 30,                                      | 2023.0 | 2023   | 2022.0 | 2022   | 2021.0 | 2021   |
-| Federal statutory rate                                   |        | 21.0%  |        | 21.0%  |        | 21.0%  |
-| Effect of:                                               |        |        |        |        |        |        |
-| Foreign earnings taxed at lower rates                    |        | (1.8)% |        | (1.3)% |        | (2.7)% |
-| Impact of intangible property transfers                  |        | 0%     |        | (3.9)% |        | 0%     |
-| Foreign-derived intangible income deduction              |        | (1.3)% |        | (1.1)% |        | (1.3)% |
-| State income taxes, net of federal benefit               |        | 1.6%   |        | 1.4%   |        | 1.4%   |
-| Research and development credit                          |        | (1.1)% |        | (0.9)% |        | (0.9)% |
-| Excess tax benefits relating to stock-based compensation |        | (0.7)% |        | (1.9)% |        | (2.4)% |
-| Interest, net                                            |        | 0.8%   |        | 0.5%   |        | 0.5%   |
-| Other reconciling items, net                             |        | 0.5%   |        | (0.7)% |        | (1.8)% |
-| Effective rate                                           |        | 19.0%  |        | 13.1%  |        | 13.8%  |
-Table: The components of the deferred income tax assets and liabilities were as follows
-
-| 0                                                      | 2    | 3       | 4 | 6    | 7      | 8 |
-|--------------------------------------------------------|------|---------|---|------|--------|---|
-| (In millions)                                          |      |         |   |      |        |   |
-| June 30,                                               | 2023 | 2023    |   | 2022 | 2022   |   |
-| Deferred Income Tax Assets                             |      |         |   |      |        |   |
-| Stock-based compensation expense                       | $    | 681     |   | $    | 601    |   |
-| Accruals, reserves, and other expenses                 |      | 3131    |   |      | 2874   |   |
-| Loss and credit carryforwards                          |      | 1441    |   |      | 1546   |   |
-| Amortization (a)                                       |      | 9440    |   |      | 10183  |   |
-| Leasing liabilities                                    |      | 5041    |   |      | 4557   |   |
-| Unearned revenue                                       |      | 3296    |   |      | 2876   |   |
-| Book/tax basis differences in investments and debt     |      | 373     |   |      | 0      |   |
-| Capitalized research and development (a)               |      | 6958    |   |      | 473    |   |
-| Other                                                  |      | 489     |   |      | 461    |   |
-| Deferred income tax assets                             |      | 30850   |   |      | 23571  |   |
-| Less valuation allowance                               |      | (939    | ) |      | (1,012 | ) |
-| Deferred income tax assets, net of valuation allowance | $    | 29911   |   | $    | 22559  |   |
-| Deferred Income Tax Liabilities                        |      |         |   |      |        |   |
-| Book/tax basis differences in investments and debt     | $    | 0       |   | $    | (174   | ) |
-| Leasing assets                                         |      | (4,680  | ) |      | (4,291 | ) |
-| Depreciation                                           |      | (2,674  | ) |      | (1,602 | ) |
-| Deferred tax on foreign earnings                       |      | (2,738  | ) |      | (3,104 | ) |
-| Other                                                  |      | (89     | ) |      | (103   | ) |
-| Deferred income tax liabilities                        | $    | (10,181 | ) | $    | (9,274 | ) |
-| Net deferred income tax assets                         | $    | 19730   |   | $    | 13285  |   |
-| Reported As                                            |      |         |   |      |        |   |
-| Other long-term assets                                 | $    | 20163   |   | $    | 13515  |   |
-| Long-term deferred income tax liabilities              |      | (433    | ) |      | (230   | ) |
-| Net deferred income tax assets                         | $    | 19730   |   | $    | 13285  |   |
-Table: Unlabeled Table
-
-| 0                                                       | 2    | 3     | 4 | 6    | 7     | 8 | 10   | 11    | 12 |
-|---------------------------------------------------------|------|-------|---|------|-------|---|------|-------|----|
-| (In millions)                                           |      |       |   |      |       |   |      |       |    |
-| Year Ended June 30,                                     | 2023 | 2023  |   | 2022 | 2022  |   | 2021 | 2021  |    |
-| Beginning unrecognized tax benefits                     | $    | 15593 |   | $    | 14550 |   | $    | 13792 |    |
-| Decreases related to settlements                        |      | (329  | ) |      | (317  | ) |      | (195  | )  |
-| Increases for tax positions related to the current year |      | 1051  |   |      | 1145  |   |      | 790   |    |
-| Increases for tax positions related to prior years      |      | 870   |   |      | 461   |   |      | 461   |    |
-| Decreases for tax positions related to prior years      |      | (60   | ) |      | (246  | ) |      | (297  | )  |
-| Decreases due to lapsed statutes of limitations         |      | (5    | ) |      | 0     |   |      | (1    | )  |
-| Ending unrecognized tax benefits                        | $    | 17120 |   | $    | 15593 |   | $    | 14550 |    |
-Table: Unlabeled Table
-
-| 0                                   | 2    | 3       | 6    | 7       |
-|-------------------------------------|------|---------|------|---------|
-| (In millions)                       |      |         |      |         |
-| June 30,                            | 2023 | 2023.0  | 2022 | 2022.0  |
-| Productivity and Business Processes | $    | 27572.0 | $    | 24558.0 |
-| Intelligent Cloud                   |      | 21563.0 |      | 19371.0 |
-| More Personal Computing             |      | 4678.0  |      | 4479.0  |
-| Total                               | $    | 53813.0 | $    | 48408.0 |
-Table: Unlabeled Table
-
-| 0                               | 3 | 4        | 5 |
-|---------------------------------|---|----------|---|
-| (In millions)                   |   |          |   |
-| Year Ended June 30, 2023        |   |          |   |
-| Balance, beginning of period    | $ | 48408    |   |
-| Deferral of revenue             |   | 123935   |   |
-| Recognition of unearned revenue |   | (118,530 | ) |
-| Balance, end of period          | $ | 53813    |   |
-Table: Unlabeled Table
-
-| 0                                   | 2    | 3      | 6 | 7      | 10 | 11     |
-|-------------------------------------|------|--------|---|--------|----|--------|
-| (In millions)                       |      |        |   |        |    |        |
-| Year Ended June 30,                 | 2023 | 2023.0 |   | 2022.0 |    | 2021.0 |
-| Operating lease cost                | $    | 2875.0 | $ | 2461.0 | $  | 2127.0 |
-| Finance lease cost:                 |      |        |   |        |    |        |
-| Amortization of right-of-use assets | $    | 1352.0 | $ | 980.0  | $  | 921.0  |
-| Interest on lease liabilities       |      | 501.0  |   | 429.0  |    | 386.0  |
-| Total finance lease cost            | $    | 1853.0 | $ | 1409.0 | $  | 1307.0 |
-Table: Supplemental cash flow information related to leases was as follows
-
-| 0                                                                       | 2    | 3      | 6 | 7      | 10 | 11     |
-|-------------------------------------------------------------------------|------|--------|---|--------|----|--------|
-| (In millions)                                                           |      |        |   |        |    |        |
-| Year Ended June 30,                                                     | 2023 | 2023.0 |   | 2022.0 |    | 2021.0 |
-| Cash paid for amounts included in the measurement of lease liabilities: |      |        |   |        |    |        |
-| Operating cash flows from operating leases                              | $    | 2706.0 | $ | 2368.0 | $  | 2052.0 |
-| Operating cash flows from finance leases                                |      | 501.0  |   | 429.0  |    | 386.0  |
-| Financing cash flows from finance leases                                |      | 1056.0 |   | 896.0  |    | 648.0  |
-| Right-of-use assets obtained in exchange for lease obligations:         |      |        |   |        |    |        |
-| Operating leases                                                        |      | 3514.0 |   | 5268.0 |    | 4380.0 |
-| Finance leases                                                          |      | 3128.0 |   | 4234.0 |    | 3290.0 |
-Table: Supplemental balance sheet information related to leases was as follows
-
-| 0                                                  | 2    | 3        | 4 | 6    | 7        | 8 |
-|----------------------------------------------------|------|----------|---|------|----------|---|
-| (In millions, except lease term and discount rate) |      |          |   |      |          |   |
-| June 30,                                           | 2023 | 2023     |   | 2022 | 2022     |   |
-| Operating Leases                                   |      |          |   |      |          |   |
-| Operating lease right-of-use assets                | $    | 14346    |   | $    | 13148    |   |
-| Other current liabilities                          | $    | 2409     |   | $    | 2228     |   |
-| Operating lease liabilities                        |      | 12728    |   |      | 11489    |   |
-| Total operating lease liabilities                  | $    | 15137    |   | $    | 13717    |   |
-| Finance Leases                                     |      |          |   |      |          |   |
-| Property and equipment, at cost                    | $    | 20538    |   | $    | 17388    |   |
-| Accumulated depreciation                           |      | (4,647   | ) |      | (3,285   | ) |
-| Property and equipment, net                        | $    | 15891    |   | $    | 14103    |   |
-| Other current liabilities                          | $    | 1197     |   | $    | 1060     |   |
-| Other long-term liabilities                        |      | 15870    |   |      | 13842    |   |
-| Total finance lease liabilities                    | $    | 17067    |   | $    | 14902    |   |
-| Weighted Average Remaining Lease Term              |      |          |   |      |          |   |
-| Operating leases                                   |      | 8 years  |   |      | 8 years  |   |
-| Finance leases                                     |      | 11 years |   |      | 12 years |   |
-| Weighted Average Discount Rate                     |      |          |   |      |          |   |
-| Operating leases                                   |      | 2.9%     |   |      | 2.1%     |   |
-| Finance leases                                     |      | 3.4%     |   |      | 3.1%     |   |
-Table: The following table outlines maturities of our lease liabilities as of June 30, 2023
-
-| 0                     | 2                | 3                | 4 | 6              | 7              | 8 |
-|-----------------------|------------------|------------------|---|----------------|----------------|---|
-| (In millions)         |                  |                  |   |                |                |   |
-| Year Ending June 30,  | Operating Leases | Operating Leases |   | Finance Leases | Finance Leases |   |
-| 2024                  | $                | 2784             |   | $              | 1747           |   |
-| 2025                  |                  | 2508             |   |                | 2087           |   |
-| 2026                  |                  | 2142             |   |                | 1771           |   |
-| 2027                  |                  | 1757             |   |                | 1780           |   |
-| 2028                  |                  | 1582             |   |                | 1787           |   |
-| Thereafter            |                  | 6327             |   |                | 11462          |   |
-| Total lease payments  |                  | 17100            |   |                | 20634          |   |
-| Less imputed interest |                  | (1,963           | ) |                | (3,567         | ) |
-| Total                 | $                | 15137            |   | $              | 17067          |   |
-Table: Unlabeled Table
-
-| 0                          | 2      | 3    | 4 | 6      | 7    | 8 | 10     | 11   | 12 |
-|----------------------------|--------|------|---|--------|------|---|--------|------|----|
-| (In millions)              |        |      |   |        |      |   |        |      |    |
-| Year Ended June 30,        | 2023.0 | 2023 |   | 2022.0 | 2022 |   | 2021.0 | 2021 |    |
-| Balance, beginning of year |        | 7464 |   |        | 7519 |   |        | 7571 |    |
-| Issued                     |        | 37   |   |        | 40   |   |        | 49   |    |
-| Repurchased                |        | (69  | ) |        | (95  | ) |        | (101 | )  |
-| Balance, end of year       |        | 7432 |   |        | 7464 |   |        | 7519 |    |
-Table: We repurchased the following shares of common stock under the share repurchase programs
-
-| 0                   | 2      | 3      | 4      | 5      | 6      | 7      | 10     | 11     | 12     | 13     | 14     | 15     | 18     | 19     | 20     | 21     | 22     | 23     |
-|---------------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
-| (In millions)       | Shares | Shares |        |        | Amount | Amount | Shares | Shares |        |        | Amount | Amount | Shares | Shares |        |        | Amount | Amount |
-| Year Ended June 30, | 2023   | 2023   | 2023.0 | 2023.0 | 2023   | 2023   | 2022   | 2022   | 2022.0 | 2022.0 | 2022   | 2022   | 2021   | 2021   | 2021.0 | 2021.0 | 2021   | 2021   |
-| First Quarter       |        | 17     |        |        | $      | 4600   |        | 21     |        |        | $      | 6200   |        | 25     |        |        | $      | 5270   |
-| Second Quarter      |        | 20     |        |        |        | 4600   |        | 20     |        |        |        | 6233   |        | 27     |        |        |        | 5750   |
-| Third Quarter       |        | 18     |        |        |        | 4600   |        | 26     |        |        |        | 7800   |        | 25     |        |        |        | 5750   |
-| Fourth Quarter      |        | 14     |        |        |        | 4600   |        | 28     |        |        |        | 7800   |        | 24     |        |        |        | 6200   |
-| Total               |        | 69     |        |        | $      | 18400  |        | 95     |        |        | $      | 28033  |        | 101    |        |        | $      | 22970  |
-Table: Unlabeled Table
-
-| 0                  | 1           | 2           | 3                 | 6            | 7                  | 9                 | 10                | 11                | 14            | 15            |
-|--------------------|-------------|-------------|-------------------|--------------|--------------------|-------------------|-------------------|-------------------|---------------|---------------|
-| Declaration Date   | Record Date | Record Date | Record Date       | Payment Date | Payment Date       | DividendPer Share | DividendPer Share | DividendPer Share | Amount        | Amount        |
-| Fiscal Year 2023   |             |             |                   |              |                    |                   |                   |                   | (In millions) | (In millions) |
-| September 20, 2022 |             |             | November 17, 2022 |              | December 8, 2022   |                   | $                 | 0.68              | $             | 5066          |
-| November 29, 2022  |             |             | February 16, 2023 |              | March 9, 2023      |                   |                   | 0.68              |               | 5059          |
-| March 14, 2023     |             |             | May 18, 2023      |              | June 8, 2023       |                   |                   | 0.68              |               | 5054          |
-| June 13, 2023      |             |             | August 17, 2023   |              | September 14, 2023 |                   |                   | 0.68              |               | 5054          |
-| Total              |             |             |                   |              |                    |                   | $                 | 2.72              | $             | 20233         |
-| Fiscal Year 2022   |             |             |                   |              |                    |                   |                   |                   |               |               |
-| September 14, 2021 |             |             | November 18, 2021 |              | December 9, 2021   |                   | $                 | 0.62              | $             | 4652          |
-| December 7, 2021   |             |             | February 17, 2022 |              | March 10, 2022     |                   |                   | 0.62              |               | 4645          |
-| March 14, 2022     |             |             | May 19, 2022      |              | June 9, 2022       |                   |                   | 0.62              |               | 4632          |
-| June 14, 2022      |             |             | August 18, 2022   |              | September 8, 2022  |                   |                   | 0.62              |               | 4621          |
-| Total              |             |             |                   |              |                    |                   | $                 | 2.48              | $             | 18550         |
-Table: (In millions) Year Ended June 30, 2023 2022 2021 Derivatives Balance, beginning of period $ (13 ) $ 
-
-| 0                                                                                       | 2    | 3      | 4 | 6    | 7      | 8 | 10   | 11     | 12 |
-|-----------------------------------------------------------------------------------------|------|--------|---|------|--------|---|------|--------|----|
-| (In millions)                                                                           |      |        |   |      |        |   |      |        |    |
-| Year Ended June 30,                                                                     | 2023 | 2023   |   | 2022 | 2022   |   | 2021 | 2021   |    |
-| Derivatives                                                                             |      |        |   |      |        |   |      |        |    |
-| Balance, beginning of period                                                            | $    | (13    | ) | $    | (19    | ) | $    | (38    | )  |
-| Unrealized gains (losses), net of tax of $9, $(15), and $9                              |      | 34     |   |      | (57    | ) |      | 34     |    |
-| Reclassification adjustments for (gains) losses included in other income (expense), net |      | (61    | ) |      | 79     |   |      | (17    | )  |
-| Tax expense (benefit) included in provision for income taxes                            |      | 13     |   |      | (16    | ) |      | 2      |    |
-| Amounts reclassified from accumulated other comprehensive income (loss)                 |      | (48    | ) |      | 63     |   |      | (15    | )  |
-| Net change related to derivatives, net of tax of $(4), $1, and $7                       |      | (14    | ) |      | 6      |   |      | 19     |    |
-| Balance, end of period                                                                  | $    | (27    | ) | $    | (13    | ) | $    | (19    | )  |
-| Investments                                                                             |      |        |   |      |        |   |      |        |    |
-| Balance, beginning of period                                                            | $    | (2,138 | ) | $    | 3222   |   | $    | 5478   |    |
-| Unrealized losses, net of tax of $(393), $(1,440), and $(589)                           |      | (1,523 | ) |      | (5,405 | ) |      | (2,216 | )  |
-| Reclassification adjustments for (gains) losses included in other income (expense), net |      | 99     |   |      | 57     |   |      | (63    | )  |
-| Tax expense (benefit) included in provision for income taxes                            |      | (20    | ) |      | (12    | ) |      | 13     |    |
-| Amounts reclassified from accumulated other comprehensive income (loss)                 |      | 79     |   |      | 45     |   |      | (50    | )  |
-| Net change related to investments, net of tax of $(373), $(1,428), and $(602)           |      | (1,444 | ) |      | (5,360 | ) |      | (2,266 | )  |
-| Cumulative effect of accounting changes                                                 |      | 0      |   |      | 0      |   |      | 10     |    |
-| Balance, end of period                                                                  | $    | (3,582 | ) | $    | (2,138 | ) | $    | 3222   |    |
-| Translation Adjustments and Other                                                       |      |        |   |      |        |   |      |        |    |
-| Balance, beginning of period                                                            | $    | (2,527 | ) | $    | (1,381 | ) | $    | (2,254 | )  |
-| Translation adjustments and other, net of tax of $0, $0, and $(9)                       |      | (207   | ) |      | (1,146 | ) |      | 873    |    |
-| Balance, end of period                                                                  | $    | (2,734 | ) | $    | (2,527 | ) | $    | (1,381 | )  |
-| Accumulated other comprehensive income (loss), end of period                            | $    | (6,343 | ) | $    | (4,678 | ) | $    | 1822   |    |
-Table: Unlabeled Table
-
-| 0                                                       | 2    | 3      | 6    | 7      | 10   | 11     |
-|---------------------------------------------------------|------|--------|------|--------|------|--------|
-| (In millions)                                           |      |        |      |        |      |        |
-| Year Ended June 30,                                     | 2023 | 2023.0 | 2022 | 2022.0 | 2021 | 2021.0 |
-| Stock-based compensation expense                        | $    | 9611.0 | $    | 7502.0 | $    | 6118.0 |
-| Income tax benefits related to stock-based compensation |      | 1651.0 |      | 1293.0 |      | 1065.0 |
-Table: The fair value of stock awards was estimated on the date of grant using the following assumptions
-
-| 0                                       | 1                                       | 3 | 4           | 5           | 6           | 8 | 10           | 11           | 12           | 15 | 16           | 17           | 18           |
-|-----------------------------------------|-----------------------------------------|---|-------------|-------------|-------------|---|--------------|--------------|--------------|----|--------------|--------------|--------------|
-| Year ended June 30,                     | Year ended June 30,                     |   |             |             | 2023        |   |              |              | 2022         |    |              |              | 2021         |
-| Dividends per share (quarterly amounts) | Dividends per share (quarterly amounts) | $ | 0.62 – 0.68 | 0.62 – 0.68 | 0.62 – 0.68 | $ | 0.56 – 0.62  | 0.56 – 0.62  | 0.56 – 0.62  | $  | 0.51 – 0.56  | 0.51 – 0.56  | 0.51 – 0.56  |
-| Interest rates                          | Interest rates                          |   | 2.0% – 5.4% | 2.0% – 5.4% | 2.0% – 5.4% |   | 0.03% – 3.6% | 0.03% – 3.6% | 0.03% – 3.6% |    | 0.01% – 1.5% | 0.01% – 1.5% | 0.01% – 1.5% |
-Table: Unlabeled Table
-
-| 0                                    | 1             | 2             | 3             | 4            | 5            | 6                                    | 7                                    |
-|--------------------------------------|---------------|---------------|---------------|--------------|--------------|--------------------------------------|--------------------------------------|
-| Shares                               | Shares        | Shares        | Shares        |              |              | Weighted AverageGrant-Date FairValue | Weighted AverageGrant-Date FairValue |
-| (In millions)                        | (In millions) | (In millions) | (In millions) |              |              |                                      |                                      |
-| Stock Awards                         | Stock Awards  | Stock Awards  | Stock Awards  | Stock Awards | Stock Awards | Stock Awards                         | Stock Awards                         |
-| Nonvested balance, beginning of year |               |               | 93            |              |              | $                                    | 227.59                               |
-| Granted (a)                          |               |               | 56            |              |              |                                      | 252.59                               |
-| Vested                               |               |               | (44           | )            |              |                                      | 206.90                               |
-| Forfeited                            |               |               | (9            | )            |              |                                      | 239.93                               |
-| Nonvested balance, end of year       |               |               | 96            |              |              | $                                    | 250.37                               |
-Table: (Shares in millions) Year Ended June 30, 2023 2022 2021 Shares purchased 7 7 8 Average price per sha
-
-| 0                       | 2    | 3      | 6    | 7      | 10   | 11     |
-|-------------------------|------|--------|------|--------|------|--------|
-| (Shares in millions)    |      |        |      |        |      |        |
-| Year Ended June 30,     | 2023 | 2023.0 | 2022 | 2022.0 | 2021 | 2021.0 |
-| Shares purchased        |      | 7.0    |      | 7.0    |      | 8.0    |
-| Average price per share | $    | 245.59 | $    | 259.55 | $    | 207.88 |
-Table: Segment revenue and operating income were as follows during the periods presented
-
-| 0                                   | 2 | 3        | 6 | 7        | 10 | 11       |
-|-------------------------------------|---|----------|---|----------|----|----------|
-| (In millions)                       |   |          |   |          |    |          |
-| Year Ended June 30,                 |   | 2023.0   |   | 2022.0   |    | 2021.0   |
-| Revenue                             |   |          |   |          |    |          |
-| Productivity and Business Processes | $ | 69274.0  | $ | 63364.0  | $  | 53915.0  |
-| Intelligent Cloud                   |   | 87907.0  |   | 74965.0  |    | 59728.0  |
-| More Personal Computing             |   | 54734.0  |   | 59941.0  |    | 54445.0  |
-| Total                               | $ | 211915.0 | $ | 198270.0 | $  | 168088.0 |
-| Operating Income                    |   |          |   |          |    |          |
-| Productivity and Business Processes | $ | 34189.0  | $ | 29690.0  | $  | 24351.0  |
-| Intelligent Cloud                   |   | 37884.0  |   | 33203.0  |    | 26471.0  |
-| More Personal Computing             |   | 16450.0  |   | 20490.0  |    | 19094.0  |
-| Total                               | $ | 88523.0  | $ | 83383.0  | $  | 69916.0  |
-Table: (In millions) Year Ended June 30, 2023 2022 2021 United States (a) $ 106,744 $ 100,218 $ 83,953 Othe
-
-| 0                   | 2    | 3        | 6    | 7        | 10   | 11       |
-|---------------------|------|----------|------|----------|------|----------|
-| (In millions)       |      |          |      |          |      |          |
-| Year Ended June 30, | 2023 | 2023.0   | 2022 | 2022.0   | 2021 | 2021.0   |
-| United States (a)   | $    | 106744.0 | $    | 100218.0 | $    | 83953.0  |
-| Other countries     |      | 105171.0 |      | 98052.0  |      | 84135.0  |
-| Total               | $    | 211915.0 | $    | 198270.0 | $    | 168088.0 |
-Table: Unlabeled Table
-
-| 0                                  | 2    | 3        | 6    | 7        | 10   | 11       |
-|------------------------------------|------|----------|------|----------|------|----------|
-| (In millions)                      |      |          |      |          |      |          |
-| Year Ended June 30,                | 2023 | 2023.0   | 2022 | 2022.0   | 2021 | 2021.0   |
-| Server products and cloud services | $    | 79970.0  | $    | 67350.0  | $    | 52589.0  |
-| Office products and cloud services |      | 48728.0  |      | 44862.0  |      | 39872.0  |
-| Windows                            |      | 21507.0  |      | 24732.0  |      | 22488.0  |
-| Gaming                             |      | 15466.0  |      | 16230.0  |      | 15370.0  |
-| LinkedIn                           |      | 15145.0  |      | 13816.0  |      | 10289.0  |
-| Search and news advertising        |      | 12208.0  |      | 11591.0  |      | 9267.0   |
-| Enterprise Services                |      | 7722.0   |      | 7407.0   |      | 6943.0   |
-| Devices                            |      | 5521.0   |      | 7306.0   |      | 7143.0   |
-| Dynamics                           |      | 5437.0   |      | 4687.0   |      | 3754.0   |
-| Other                              |      | 211.0    |      | 289.0    |      | 373.0    |
-| Total                              | $    | 211915.0 | $    | 198270.0 | $    | 168088.0 |
-Table: Long-lived assets, excluding financial instruments and tax assets, classified by the location of the
-
-| 0               | 2    | 3        | 6    | 7        | 10   | 11       |
-|-----------------|------|----------|------|----------|------|----------|
-| (In millions)   |      |          |      |          |      |          |
-| June 30,        | 2023 | 2023.0   | 2022 | 2022.0   | 2021 | 2021.0   |
-| United States   | $    | 114380.0 | $    | 106430.0 | $    | 76153.0  |
-| Ireland         |      | 16359.0  |      | 15505.0  |      | 13303.0  |
-| Other countries |      | 56500.0  |      | 44433.0  |      | 38858.0  |
-| Total           | $    | 187239.0 | $    | 166368.0 | $    | 128314.0 |
+| 0                                             | 2    | 3    | 4 | 6    | 7    | 8 | 10   | 11   | 12 |
+|-----------------------------------------------|------|------|---|------|------|---|------|------|----|
+| (In millions, except per share amounts)       |      |      |   |      |      |   |      |      |    |
+| Year Ended June 30,                           | 2023 | 2023 |   | 2022 | 2022 |   | 2021 | 2021 |    |
+| Common stock and paid-in capital              |      |      |   |      |      |   |      |      |    |
+| Balance, beginning of period                  | $    |      |   | $    |      |   | $    |      |    |
+| Common stock issued                           |      |      |   |      |      |   |      |      |    |
+| Common stock repurchased                      |      | (    | ) |      | (    | ) |      | (    | )  |
+| Stock-based compensation expense              |      |      |   |      |      |   |      |      |    |
+| Other, net                                    |      | (    | ) |      |      |   |      |      |    |
+| Balance, end of period                        |      |      |   |      |      |   |      |      |    |
+| Retained earnings                             |      |      |   |      |      |   |      |      |    |
+| Balance, beginning of period                  |      |      |   |      |      |   |      |      |    |
+| Net income                                    |      |      |   |      |      |   |      |      |    |
+| Common stock cash dividends                   |      | (    | ) |      | (    | ) |      | (    | )  |
+| Common stock repurchased                      |      | (    | ) |      | (    | ) |      | (    | )  |
+| Cumulative effect of accounting changes       |      |      |   |      |      |   |      | (    | )  |
+| Balance, end of period                        |      |      |   |      |      |   |      |      |    |
+| Accumulated other comprehensive income (loss) |      |      |   |      |      |   |      |      |    |
+| Balance, beginning of period                  |      | (    | ) |      |      |   |      |      |    |
+| Other comprehensive loss                      |      | (    | ) |      | (    | ) |      | (    | )  |
+| Cumulative effect of accounting changes       |      |      |   |      |      |   |      |      |    |
+| Balance, end of period                        |      | (    | ) |      | (    | ) |      |      |    |
+| Total stockholders’ equity                    | $    |      |   | $    |      |   | $    |      |    |
+| Cash dividends declared per common share      | $    |      |   | $    |      |   | $    |      |    |
 Table: Our principal audit procedures related to the Company's revenue recognition for these customer agree
 
 | 0 | 1                                                                                                                                                                                                                                    |

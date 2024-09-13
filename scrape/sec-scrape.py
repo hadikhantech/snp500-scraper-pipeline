@@ -50,6 +50,12 @@ def fetch_html(url):
         logging.error(f"Error fetching URL: {e}")
         return None
 
+def is_xbrl_document(html_content):
+    return (html_content.lstrip().startswith('<?xml') or 
+            '<ix:header' in html_content[:1000] or 
+            'xmlns:ix="http://www.xbrl.org/' in html_content[:1000] or
+            '<div style="display:none;">' in html_content[:1000])
+
 def clean_label(label):
     # Remove any newlines and extra spaces
     label = ' '.join(label.split())
@@ -112,20 +118,36 @@ def find_table_label(table):
     return "Unlabeled Table"
 
 def parse_html(html_content):
+    if is_xbrl_document(html_content):
+        # Remove everything before the <body> tag
+        body_start = html_content.find('<body')
+        if body_start != -1:
+            html_content = html_content[body_start:]
+        
+        # Remove the hidden div containing XBRL data
+        html_content = re.sub(r'<div style="display:none">.*?</div>', '', html_content, flags=re.DOTALL)
+        
+        # Remove ix: tags
+        html_content = re.sub(r'<ix:[^>]*>|</ix:[^>]*>', '', html_content)
+    
     soup = BeautifulSoup(html_content, 'html.parser')
     
-    # Remove hidden XBRL content
-    for hidden in soup.find_all('ix:hidden'):
-        hidden.decompose()
+    # Remove all XBRL-related tags
+    for tag in soup.find_all(['ix:nonfraction', 'ix:nonnumeric', 'xbrli:measure', 'ix:hidden']):
+        tag.decompose()
     
+     # Remove any remaining tags with XBRL-related attributes
+    for tag in soup.find_all(attrs={'contextref': True, 'unitref': True, 'decimals': True, 'scale': True}):
+        tag.unwrap()
+
     # Extract visible text content with structure
     content = []
     for tag in soup.find_all(['p', 'div', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'span']):
         if tag.name.startswith('h'):
             content.append(f"\n\n{tag.name.upper()}: {tag.text.strip()}\n")
         elif tag.name in ['p', 'div', 'span']:
-            # Check if this tag is not just whitespace and not part of a table
-            if tag.text.strip() and not tag.find_parent('table'):
+            # Check if this tag is not just whitespace, not part of a table, and not XBRL content
+            if tag.text.strip() and not tag.find_parent('table') and not tag.get('contextref'):
                 content.append(tag.text.strip())
     
     # Extract tables with labels
@@ -185,8 +207,14 @@ def process_tables(tables):
     return processed_tables
 
 def clean_text(text_content):
+    # Remove XBRL-like content
+    cleaned_text = re.sub(r'\d{10}[a-z]+:', '', text_content)
+    cleaned_text = re.sub(r'[a-z-]+:[A-Z][a-zA-Z]+', '', cleaned_text)
+    cleaned_text = re.sub(r'ix:nonnumeric.*?>', '', cleaned_text)
+    cleaned_text = re.sub(r'</?[a-z]+:[a-z]+>', '', cleaned_text)
+    
     # Remove extra whitespace within lines
-    cleaned_text = re.sub(r'\s+', ' ', text_content)
+    cleaned_text = re.sub(r'\s+', ' ', cleaned_text)
     
     # Normalize spaces around punctuation
     cleaned_text = re.sub(r'\s*([.,;:!?])\s*', r'\1 ', cleaned_text)
@@ -239,13 +267,13 @@ def save_tables(tables, filename):
 def main():
     
     #MSFT 10K
-    url = "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-20230630.htm"
+    #url = "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-20230630.htm"
     
     #MSFT 10Q
     #url = "https://www.sec.gov/Archives/edgar/data/789019/000095017023014423/msft-20230331.htm"
     
     #NVDA 10K
-    #url = "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000036/nvda-20220130.htm"
+    url = "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000036/nvda-20220130.htm"
     
     #AAPL 10k
     #url = "https://www.sec.gov/Archives/edgar/data/320193/000032019318000145/a10-k20189292018.htm"
@@ -255,8 +283,8 @@ def main():
         if html_content:
             try:
                 formatted_text, processed_tables = scrape_sec_filing(url)
-                save_text(formatted_text, "msft_10k_text.txt")
-                save_tables(processed_tables, "msft_10k_tables.txt")
+                save_text(formatted_text, "nvda_10k_text.txt")
+                save_tables(processed_tables, "nvda_10k_tables.txt")
                 logging.info("Scraping completed successfully")
             except Exception as e:
                 logging.error(f"An error occurred during scraping: {str(e)}")

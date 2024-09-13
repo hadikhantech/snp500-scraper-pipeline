@@ -1,321 +1,5 @@
-00010458102021-02-012022-01-3000010458102021-07-30iso4217:
-USD00010458102022-03-11xbrli:
-shares00010458102020-01-272021-01-3100010458102019-01-282020-01-26iso4217:
-USDxbrli: shares00010458102022-01-3000010458102021-01-310001045810us-gaap:
-CommonStockMember2019-01-270001045810us-gaap:
-AdditionalPaidInCapitalMember2019-01-270001045810us-gaap:
-TreasuryStockMember2019-01-270001045810us-gaap:
-AccumulatedOtherComprehensiveIncomeMember2019-01-270001045810us-gaap:
-RetainedEarningsMember2019-01-2700010458102019-01-270001045810us-gaap:
-RetainedEarningsMember2019-01-282020-01-260001045810us-gaap:
-AccumulatedOtherComprehensiveIncomeMember2019-01-282020-01-260001045810us-gaap:
-CommonStockMember2019-01-282020-01-260001045810us-gaap:
-AdditionalPaidInCapitalMember2019-01-282020-01-260001045810us-gaap:
-TreasuryStockMember2019-01-282020-01-260001045810us-gaap:
-CommonStockMember2020-01-260001045810us-gaap:
-AdditionalPaidInCapitalMember2020-01-260001045810us-gaap:
-TreasuryStockMember2020-01-260001045810us-gaap:
-AccumulatedOtherComprehensiveIncomeMember2020-01-260001045810us-gaap:
-RetainedEarningsMember2020-01-2600010458102020-01-260001045810us-gaap:
-RetainedEarningsMember2020-01-272021-01-310001045810us-gaap:
-AccumulatedOtherComprehensiveIncomeMember2020-01-272021-01-310001045810us-gaap:
-CommonStockMember2020-01-272021-01-310001045810us-gaap:
-AdditionalPaidInCapitalMember2020-01-272021-01-310001045810us-gaap:
-TreasuryStockMember2020-01-272021-01-310001045810us-gaap:
-CommonStockMember2021-01-310001045810us-gaap:
-AdditionalPaidInCapitalMember2021-01-310001045810us-gaap:
-TreasuryStockMember2021-01-310001045810us-gaap:
-AccumulatedOtherComprehensiveIncomeMember2021-01-310001045810us-gaap:
-RetainedEarningsMember2021-01-310001045810us-gaap:
-RetainedEarningsMember2021-02-012022-01-300001045810us-gaap:
-AccumulatedOtherComprehensiveIncomeMember2021-02-012022-01-300001045810us-gaap:
-CommonStockMember2021-02-012022-01-300001045810us-gaap:
-AdditionalPaidInCapitalMember2021-02-012022-01-300001045810us-gaap:
-TreasuryStockMember2021-02-012022-01-300001045810us-gaap:
-CommonStockMember2022-01-300001045810us-gaap:
-AdditionalPaidInCapitalMember2022-01-300001045810us-gaap:
-TreasuryStockMember2022-01-300001045810us-gaap:
-AccumulatedOtherComprehensiveIncomeMember2022-01-300001045810us-gaap:
-RetainedEarningsMember2022-01-3000010458102021-07-192021-07-19xbrli:
-pure0001045810srt: MinimumMember2021-02-012022-01-300001045810srt:
-MaximumMember2021-02-012022-01-300001045810us-gaap:
-BuildingMember2021-02-012022-01-300001045810nvda: ArmLimitedMembersrt:
-ScenarioForecastMember2022-01-312022-05-010001045810nvda:
-MellanoxTechnologiesLtdMember2020-04-012020-04-300001045810us-gaap:
-CommonStockMembernvda:
-MellanoxTechnologiesLtdMember2020-04-012020-04-300001045810us-gaap:
-StockCompensationPlanMembernvda:
-MellanoxTechnologiesLtdMember2020-04-012020-04-300001045810nvda:
-MellanoxTechnologiesLtdMember2020-04-300001045810nvda:
-MellanoxTechnologiesLtdMembernvda:
-MellanoxTechnologiesLtdMember2020-04-012020-04-300001045810nvda:
-MellanoxTechnologiesLtdMemberus-gaap: EmployeeStockOptionMembernvda:
-MellanoxTechnologiesLtdMember2020-04-012020-04-300001045810us-gaap:
-SalesRevenueNetMembernvda: RevenueStreamConcentrationRiskMembernvda:
-MellanoxTechnologiesLtdMember2020-01-272021-01-310001045810nvda:
-MellanoxTechnologiesLtdMember2020-01-272021-01-310001045810us-gaap:
-DevelopedTechnologyRightsMembernvda:
-MellanoxTechnologiesLtdMember2020-04-270001045810us-gaap:
-DevelopedTechnologyRightsMembernvda:
-MellanoxTechnologiesLtdMember2020-04-272020-04-270001045810nvda:
-MellanoxTechnologiesLtdMemberus-gaap:
-CustomerRelationshipsMember2020-04-270001045810nvda:
-MellanoxTechnologiesLtdMemberus-gaap:
-CustomerRelationshipsMember2020-04-272020-04-270001045810nvda:
-MellanoxTechnologiesLtdMemberus-gaap:
-OrderOrProductionBacklogMember2020-04-270001045810nvda:
-MellanoxTechnologiesLtdMemberus-gaap: TradeNamesMember2020-04-270001045810nvda:
-MellanoxTechnologiesLtdMemberus-gaap:
-TradeNamesMember2020-04-272020-04-270001045810nvda:
-MellanoxTechnologiesLtdMember2020-04-270001045810nvda:
-MellanoxTechnologiesLtdMember2019-01-282020-01-260001045810us-gaap:
-CostOfSalesMember2021-02-012022-01-300001045810us-gaap:
-CostOfSalesMember2020-01-272021-01-310001045810us-gaap:
-CostOfSalesMember2019-01-282020-01-260001045810us-gaap:
-ResearchAndDevelopmentExpenseMember2021-02-012022-01-300001045810us-gaap:
-ResearchAndDevelopmentExpenseMember2020-01-272021-01-310001045810us-gaap:
-ResearchAndDevelopmentExpenseMember2019-01-282020-01-260001045810us-gaap:
-SellingGeneralAndAdministrativeExpensesMember2021-02-012022-01-300001045810us-
-gaap:
-SellingGeneralAndAdministrativeExpensesMember2020-01-272021-01-310001045810us-
-gaap:
-SellingGeneralAndAdministrativeExpensesMember2019-01-282020-01-260001045810nvda:
-RSUsPSUsandMarketbasedPSUsMember2021-02-012022-01-300001045810nvda:
-RSUsPSUsandMarketbasedPSUsMember2020-01-272021-01-310001045810nvda:
-RSUsPSUsandMarketbasedPSUsMember2019-01-282020-01-260001045810us-gaap:
-EmployeeStockMember2022-01-300001045810us-gaap:
-EmployeeStockMember2021-01-310001045810us-gaap:
-EmployeeStockMember2020-01-260001045810us-gaap:
-EmployeeStockMember2021-02-012022-01-300001045810us-gaap:
-EmployeeStockMember2020-01-272021-01-310001045810us-gaap:
-EmployeeStockMember2019-01-282020-01-260001045810us-gaap:
-EmployeeStockMembersrt: MinimumMember2021-02-012022-01-300001045810srt:
-MaximumMemberus-gaap: EmployeeStockMember2021-02-012022-01-300001045810us-gaap:
-EmployeeStockMembersrt: MinimumMember2020-01-272021-01-310001045810srt:
-MaximumMemberus-gaap: EmployeeStockMember2020-01-272021-01-310001045810us-gaap:
-EmployeeStockMembersrt: MinimumMember2019-01-282020-01-260001045810srt:
-MaximumMemberus-gaap: EmployeeStockMember2019-01-282020-01-260001045810nvda:
-RSUsPSUsandMarketbasedPSUsMember2022-01-300001045810us-gaap:
-RestrictedStockUnitsRSUMemberus-gaap:
-ShareBasedCompensationAwardTrancheOneMember2021-02-012022-01-300001045810us-
-gaap: ShareBasedCompensationAwardTrancheTwoMemberus-gaap:
-RestrictedStockUnitsRSUMember2021-02-012022-01-300001045810us-gaap:
-PerformanceSharesMember2021-02-012022-01-300001045810nvda:
-MarketbasedPerformanceShareUnitsMember2022-01-300001045810nvda:
-MarketbasedPerformanceShareUnitsMember2021-02-012022-01-30nvda:
-period0001045810nvda: GraphicsMember2022-01-300001045810nvda:
-ComputeAndNetworkingMember2022-01-300001045810nvda:
-GraphicsMember2021-01-310001045810nvda:
-ComputeAndNetworkingMember2021-01-310001045810nvda:
-ComputeAndNetworkingMember2021-02-012022-01-300001045810nvda:
-GraphicsMember2021-02-012022-01-300001045810nvda:
-IntangibleAssetsArisingFromBusinessCombinationMember2022-01-300001045810nvda:
-IntangibleAssetsArisingFromBusinessCombinationMember2021-01-310001045810nvda:
-PatentsAndLicensedTechnologyMember2022-01-300001045810nvda:
-PatentsAndLicensedTechnologyMember2021-01-310001045810nvda:
-MellanoxTechnologiesLtdMember2022-01-300001045810us-gaap:
-CorporateDebtSecuritiesMember2022-01-300001045810us-gaap:
-USTreasurySecuritiesMember2022-01-300001045810us-gaap:
-USGovernmentAgenciesDebtSecuritiesMember2022-01-300001045810us-gaap:
-CertificatesOfDepositMember2022-01-300001045810us-gaap:
-MoneyMarketFundsMember2022-01-300001045810us-gaap:
-ForeignGovernmentDebtSecuritiesMember2022-01-300001045810us-gaap:
-CorporateDebtSecuritiesMember2021-01-310001045810us-gaap:
-USGovernmentAgenciesDebtSecuritiesMember2021-01-310001045810us-gaap:
-USTreasurySecuritiesMember2021-01-310001045810us-gaap:
-CertificatesOfDepositMember2021-01-310001045810us-gaap:
-MoneyMarketFundsMember2021-01-310001045810us-gaap:
-ForeignGovernmentDebtSecuritiesMember2021-01-310001045810us-gaap:
-MoneyMarketFundsMemberus-gaap:
-FairValueInputsLevel1Member2022-01-300001045810us-gaap:
-MoneyMarketFundsMemberus-gaap:
-FairValueInputsLevel1Member2021-01-310001045810us-gaap:
-FairValueInputsLevel2Memberus-gaap:
-CorporateDebtSecuritiesMember2022-01-300001045810us-gaap:
-FairValueInputsLevel2Memberus-gaap:
-CorporateDebtSecuritiesMember2021-01-310001045810us-gaap:
-FairValueInputsLevel2Memberus-gaap:
-USTreasurySecuritiesMember2022-01-300001045810us-gaap:
-FairValueInputsLevel2Memberus-gaap:
-USTreasurySecuritiesMember2021-01-310001045810us-gaap:
-FairValueInputsLevel2Memberus-gaap:
-USGovernmentAgenciesDebtSecuritiesMember2022-01-300001045810us-gaap:
-FairValueInputsLevel2Memberus-gaap:
-USGovernmentAgenciesDebtSecuritiesMember2021-01-310001045810us-gaap:
-CertificatesOfDepositMemberus-gaap:
-FairValueInputsLevel2Member2022-01-300001045810us-gaap:
-CertificatesOfDepositMemberus-gaap:
-FairValueInputsLevel2Member2021-01-310001045810us-gaap:
-ForeignGovernmentDebtSecuritiesMemberus-gaap:
-FairValueInputsLevel2Member2022-01-300001045810us-gaap:
-ForeignGovernmentDebtSecuritiesMemberus-gaap:
-FairValueInputsLevel2Member2021-01-310001045810nvda:
-PubliclyHeldEquitySecuritiesMemberus-gaap:
-FairValueInputsLevel1Member2022-01-300001045810nvda:
-PubliclyHeldEquitySecuritiesMemberus-gaap:
-FairValueInputsLevel1Member2021-01-310001045810us-gaap:
-FairValueInputsLevel3Membernvda:
-PrivatelyHeldEquitySecuritiesMember2022-01-300001045810us-gaap:
-FairValueInputsLevel3Membernvda:
-PrivatelyHeldEquitySecuritiesMember2021-01-310001045810nvda:
-A2021NotesMember2022-01-300001045810us-gaap: FairValueInputsLevel2Membernvda:
-A2021NotesMember2022-01-300001045810us-gaap: FairValueInputsLevel2Membernvda:
-A2021NotesMember2021-01-310001045810nvda:
-A2023NotesMember2022-01-300001045810nvda: A2023NotesMemberus-gaap:
-FairValueInputsLevel2Member2022-01-300001045810nvda: A2023NotesMemberus-gaap:
-FairValueInputsLevel2Member2021-01-310001045810nvda:
-A2024NotesMember2022-01-300001045810nvda: A2024NotesMemberus-gaap:
-FairValueInputsLevel2Member2022-01-300001045810nvda: A2024NotesMemberus-gaap:
-FairValueInputsLevel2Member2021-01-310001045810nvda:
-A2026NotesMember2022-01-300001045810us-gaap: FairValueInputsLevel2Membernvda:
-A2026NotesMember2022-01-300001045810us-gaap: FairValueInputsLevel2Membernvda:
-A2026NotesMember2021-01-310001045810nvda:
-A2028NotesMember2022-01-300001045810nvda: A2028NotesMemberus-gaap:
-FairValueInputsLevel2Member2022-01-300001045810nvda: A2028NotesMemberus-gaap:
-FairValueInputsLevel2Member2021-01-310001045810nvda:
-A2030NotesMember2022-01-300001045810nvda: A2030NotesMemberus-gaap:
-FairValueInputsLevel2Member2022-01-300001045810nvda: A2030NotesMemberus-gaap:
-FairValueInputsLevel2Member2021-01-310001045810nvda:
-A2031NotesMember2022-01-300001045810nvda: A2031NotesMemberus-gaap:
-FairValueInputsLevel2Member2022-01-300001045810nvda: A2031NotesMemberus-gaap:
-FairValueInputsLevel2Member2021-01-310001045810nvda:
-A2040NotesMember2022-01-300001045810us-gaap: FairValueInputsLevel2Membernvda:
-A2040NotesMember2022-01-300001045810us-gaap: FairValueInputsLevel2Membernvda:
-A2040NotesMember2021-01-310001045810nvda:
-A2050NotesMember2022-01-300001045810us-gaap: FairValueInputsLevel2Membernvda:
-A2050NotesMember2022-01-300001045810us-gaap: FairValueInputsLevel2Membernvda:
-A2050NotesMember2021-01-310001045810nvda:
-A2060NotesMember2022-01-300001045810nvda: A2060NotesMemberus-gaap:
-FairValueInputsLevel2Member2022-01-300001045810nvda: A2060NotesMemberus-gaap:
-FairValueInputsLevel2Member2021-01-310001045810us-gaap:
-LandMember2022-01-300001045810us-gaap: LandMember2021-01-310001045810nvda:
-BuildingsLeaseholdImprovementsAndFurnitureMember2022-01-300001045810nvda:
-BuildingsLeaseholdImprovementsAndFurnitureMember2021-01-310001045810nvda:
-EquipmentComputeHardwareAndSoftwareMember2022-01-300001045810nvda:
-EquipmentComputeHardwareAndSoftwareMember2021-01-310001045810nvda:
-EquipmentComputeHardwareAndSoftwareMembersrt:
-MinimumMember2021-02-012022-01-300001045810srt: MaximumMembernvda:
-EquipmentComputeHardwareAndSoftwareMember2021-02-012022-01-300001045810us-gaap:
-ConstructionInProgressMember2022-01-300001045810us-gaap: ConstructionInProgressM
-ember2021-01-3100010458102022-01-312022-01-300001045810us-gaap:
-ForeignExchangeForwardMember2021-02-012022-01-300001045810nvda:
-NotesIssuedJune2021Member2021-06-300001045810nvda:
-NotesIssuedMarch2020Member2020-03-310001045810nvda:
-NotesIssuedSeptember2016Member2016-09-300001045810nvda:
-NotesIssuedJune2021Member2021-06-012021-06-300001045810nvda:
-NotesIssuedMarch2020Member2020-03-012020-03-310001045810nvda:
-NotesIssuedSeptember2016Member2016-09-012016-09-300001045810nvda:
-A2021NotesMember2021-08-162021-08-160001045810nvda:
-A2021NotesMember2021-08-160001045810nvda:
-A2021NotesMember2021-02-012022-01-300001045810nvda:
-A2021NotesMember2021-01-310001045810nvda:
-A2023NotesMember2021-02-012022-01-300001045810nvda:
-A2023NotesMember2021-01-310001045810nvda:
-A2024NotesMember2021-02-012022-01-300001045810nvda:
-A2024NotesMember2021-01-310001045810nvda:
-A2026NotesMember2021-02-012022-01-300001045810nvda:
-A2026NotesMember2021-01-310001045810nvda:
-A2028NotesMember2021-02-012022-01-300001045810nvda:
-A2028NotesMember2021-01-310001045810nvda:
-A2030NotesMember2021-02-012022-01-300001045810nvda:
-A2030NotesMember2021-01-310001045810nvda:
-A2031NotesMember2021-02-012022-01-300001045810nvda:
-A2031NotesMember2021-01-310001045810nvda:
-A2040NotesMember2021-02-012022-01-300001045810nvda:
-A2040NotesMember2021-01-310001045810nvda:
-A2050NotesMember2021-02-012022-01-300001045810nvda:
-A2050NotesMember2021-01-310001045810nvda:
-A2060NotesMember2021-02-012022-01-300001045810nvda:
-A2060NotesMember2021-01-310001045810us-gaap:
-CommercialPaperMember2022-01-300001045810us-gaap:
-SubsequentEventMember2022-03-170001045810us-gaap:
-SubsequentEventMember2022-03-012022-03-170001045810nvda:
-DeferredTaxAssetsNoncurrentMember2022-01-300001045810nvda:
-DeferredTaxAssetsNoncurrentMember2021-01-310001045810us-gaap:
-OtherNoncurrentLiabilitiesMember2022-01-300001045810us-gaap: OtherNoncurrentLiab
-ilitiesMember2021-01-3100010458102021-05-032021-08-010001045810nvda:
-MellanoxTechnologiesLtdMember2020-07-260001045810nvda:
-MellanoxTechnologiesLtdMembercountry: IL2022-01-300001045810nvda:
-MellanoxTechnologiesLtdMembercountry: GB2022-01-300001045810us-gaap:
-DomesticCountryMember2022-01-300001045810us-gaap:
-StateAndLocalJurisdictionMember2022-01-300001045810us-gaap:
-ForeignCountryMember2022-01-300001045810stpr: CA2022-01-300001045810nvda:
-OtherStatesMember2022-01-300001045810us-gaap: SubsequentEventMember2022-01-
-312022-03-1700010458102021-11-012022-01-300001045810us-gaap:
-AdditionalPaidInCapitalMember2021-11-012022-01-300001045810us-gaap:
-RetainedEarningsMember2021-11-012022-01-30nvda: segment0001045810us-gaap:
-OperatingSegmentsMembernvda: GraphicsMember2021-02-012022-01-300001045810us-
-gaap: OperatingSegmentsMembernvda:
-ComputeAndNetworkingMember2021-02-012022-01-300001045810us-gaap:
-CorporateNonSegmentMember2021-02-012022-01-300001045810us-gaap:
-OperatingSegmentsMembernvda: GraphicsMember2020-01-272021-01-310001045810us-
-gaap: OperatingSegmentsMembernvda:
-ComputeAndNetworkingMember2020-01-272021-01-310001045810us-gaap:
-CorporateNonSegmentMember2020-01-272021-01-310001045810us-gaap:
-OperatingSegmentsMembernvda: GraphicsMember2019-01-282020-01-260001045810us-
-gaap: OperatingSegmentsMembernvda:
-ComputeAndNetworkingMember2019-01-282020-01-260001045810us-gaap:
-CorporateNonSegmentMember2019-01-282020-01-260001045810country:
-TW2021-02-012022-01-300001045810country:
-TW2020-01-272021-01-310001045810country:
-TW2019-01-282020-01-260001045810country:
-CN2021-02-012022-01-300001045810country:
-CN2020-01-272021-01-310001045810country:
-CN2019-01-282020-01-260001045810country:
-US2021-02-012022-01-300001045810country:
-US2020-01-272021-01-310001045810country: US2019-01-282020-01-260001045810nvda:
-OtherCountriesMember2021-02-012022-01-300001045810nvda:
-OtherCountriesMember2020-01-272021-01-310001045810nvda:
-OtherCountriesMember2019-01-282020-01-260001045810us-gaap:
-SalesRevenueNetMemberus-gaap: CustomerConcentrationRiskMembernvda:
-OneCustomerMember2019-01-282020-01-260001045810nvda: TwoCustomersMemberus-gaap:
-CustomerConcentrationRiskMemberus-gaap:
-AccountsReceivableMember2021-02-012022-01-300001045810us-gaap:
-CustomerConcentrationRiskMemberus-gaap: AccountsReceivableMembernvda:
-OneCustomerMember2020-01-272021-01-310001045810nvda:
-GamingMember2021-02-012022-01-300001045810nvda:
-GamingMember2020-01-272021-01-310001045810nvda:
-GamingMember2019-01-282020-01-260001045810nvda:
-DataCenterMember2021-02-012022-01-300001045810nvda:
-DataCenterMember2020-01-272021-01-310001045810nvda:
-DataCenterMember2019-01-282020-01-260001045810nvda:
-ProfessionalVisualizationMember2021-02-012022-01-300001045810nvda:
-ProfessionalVisualizationMember2020-01-272021-01-310001045810nvda:
-ProfessionalVisualizationMember2019-01-282020-01-260001045810nvda:
-AutomotiveMember2021-02-012022-01-300001045810nvda:
-AutomotiveMember2020-01-272021-01-310001045810nvda:
-AutomotiveMember2019-01-282020-01-260001045810nvda:
-OEMAndOtherMember2021-02-012022-01-300001045810nvda:
-OEMAndOtherMember2020-01-272021-01-310001045810nvda:
-OEMAndOtherMember2019-01-282020-01-260001045810country:
-US2022-01-300001045810country: US2021-01-310001045810country:
-TW2022-01-300001045810country: TW2021-01-310001045810country:
-IL2022-01-300001045810country: IL2021-01-310001045810nvda:
-OtherCountriesMember2022-01-300001045810nvda:
-OtherCountriesMember2021-01-310001045810us-gaap:
-AllowanceForCreditLossMember2021-01-310001045810us-gaap:
-AllowanceForCreditLossMember2021-02-012022-01-300001045810us-gaap:
-AllowanceForCreditLossMember2022-01-300001045810nvda:
-SECSchedule1209AllowanceSalesReturnsMember2021-01-310001045810nvda:
-SECSchedule1209AllowanceSalesReturnsMember2021-02-012022-01-300001045810nvda:
-SECSchedule1209AllowanceSalesReturnsMember2022-01-300001045810us-gaap:
-ValuationAllowanceOfDeferredTaxAssetsMember2021-01-310001045810us-gaap:
-ValuationAllowanceOfDeferredTaxAssetsMember2021-02-012022-01-300001045810us-
-gaap: ValuationAllowanceOfDeferredTaxAssetsMember2022-01-300001045810us-gaap:
-AllowanceForCreditLossMember2020-01-260001045810us-gaap:
-AllowanceForCreditLossMember2020-01-272021-01-310001045810nvda:
-SECSchedule1209AllowanceSalesReturnsMember2020-01-260001045810nvda:
-SECSchedule1209AllowanceSalesReturnsMember2020-01-272021-01-310001045810us-gaap:
-ValuationAllowanceOfDeferredTaxAssetsMember2020-01-260001045810us-gaap:
-ValuationAllowanceOfDeferredTaxAssetsMember2020-01-272021-01-310001045810us-
-gaap: AllowanceForCreditLossMember2019-01-270001045810us-gaap:
-AllowanceForCreditLossMember2019-01-282020-01-260001045810nvda:
-SECSchedule1209AllowanceSalesReturnsMember2019-01-270001045810nvda:
-SECSchedule1209AllowanceSalesReturnsMember2019-01-282020-01-260001045810us-gaap:
-ValuationAllowanceOfDeferredTaxAssetsMember2019-01-270001045810us-gaap:
-ValuationAllowanceOfDeferredTaxAssetsMember2019-01-282020-01-26 Table of
-Contents Table of Contents Table of Contents UNITED STATES UNITED STATES
-SECURITIES AND EXCHANGE COMMISSION SECURITIES AND EXCHANGE COMMISSION
+Table of Contents Table of Contents Table of Contents UNITED STATES UNITED
+STATES SECURITIES AND EXCHANGE COMMISSION SECURITIES AND EXCHANGE COMMISSION
 Washington, D. C. 20549 Washington, D. C. 20549 ________________________________
 ____________________________________________________________ ___________________
 _________________________________________________________________________ FORM
@@ -331,108 +15,108 @@ Expressway 2788 San Tomas Expressway Santa Clara, California 95051 Santa Clara,
 California 95051 (408) 486-2000 (408) 486-2000 (Address, including zip code, and
 telephone number, including area code, of principal executive offices) (Address,
 including zip code, and telephone number, including area code, of principal
-executive offices) Securities registered pursuant to Section 12(b) of the Act:
-Title of each classTrading Symbol(s)Name of each exchange on which
-registeredCommon Stock, $0. 001 par value per shareNVDAThe Nasdaq Global Select
-Market Securities registered pursuant to Section 12(b) of the Act: Securities
-registered pursuant to Section 12(g) of the Act: Securities registered pursuant
-to Section 12(g) of the Act: None None Indicate by check mark if the registrant
-is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
-Yes ☒ No ☐ Indicate by check mark if the registrant is a well-known seasoned
-issuer, as defined in Rule 405 of the Securities Act. Yes ☒ No ☐ Indicate by
-check mark if the registrant is not required to file reports pursuant to Section
-13 or Section 15(d) of the Act. Yes ☐ No ☒ Indicate by check mark if the
-registrant is not required to file reports pursuant to Section 13 or Section
-15(d) of the Act. Yes ☐ No ☒ Indicate by check mark whether the registrant (1)
-has filed all reports required to be filed by Section 13 or 15(d) of the
-Securities Exchange Act of 1934 during the preceding 12 months (or for such
-shorter period that the registrant was required to file such reports), and (2)
-has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
-Indicate by check mark whether the registrant (1) has filed all reports required
-to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
-the preceding 12 months (or for such shorter period that the registrant was
-required to file such reports), and (2) has been subject to such filing
-requirements for the past 90 days. Yes ☒ No ☐ Indicate by check mark whether the
-registrant has submitted electronically every Interactive Data File required to
-be submitted pursuant to Rule 405 of Regulation S-T (§232. 405 of this chapter)
-during the preceding 12 months (or for such shorter period that the registrant
-was required to submit such files). Yes ☒ No ☐ Indicate by check mark whether
-the registrant has submitted electronically every Interactive Data File required
-to be submitted pursuant to Rule 405 of Regulation S-T (§232. 405 of this
-chapter) during the preceding 12 months (or for such shorter period that the
-registrant was required to submit such files). Yes ☒ No ☐ Indicate by check mark
-whether the registrant is a large accelerated filer, an accelerated filer, a
-non-accelerated filer, a smaller reporting company, or an emerging growth
+executive offices) Securities registered pursuant to Section 12(b) of the A of
+each classTrading Symbol(s)Name of each exchange on which registeredCommon
+Stock, $0. 001 par value per shareNVDAThe Nasdaq Global Select Market Securities
+registered pursuant to Section 12(b) of the Act: Securities registered pursuant
+to Section 12(g) of the Act: Securities registered pursuant to Section 12(g) of
+the Act: None None Indicate by check mark if the registrant is a well-known
+seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☒ No ☐
+Indicate by check mark if the registrant is a well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act. Yes ☒ No ☐ Indicate by check mark if
+the registrant is not required to file reports pursuant to Section 13 or Section
+15(d) of the Act. Yes ☐ No ☒ Indicate by check mark if the registrant is not
+required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes
+☐ No ☒ Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes ☒ No ☐ Indicate by check mark
+whether the registrant (1) has filed all reports required to be filed by Section
+13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12
+months (or for such shorter period that the registrant was required to file such
+reports), and (2) has been subject to such filing requirements for the past 90
+days. Yes ☒ No ☐ Indicate by check mark whether the registrant has submitted
+electronically every Interactive Data File required to be submitted pursuant to
+Rule 405 of Regulation S-T (§232. 405 of this chapter) during the preceding 12
+months (or for such shorter period that the registrant was required to submit
+such files). Yes ☒ No ☐ Indicate by check mark whether the registrant has
+submitted electronically every Interactive Data File required to be submitted
+pursuant to Rule 405 of Regulation S-T (§232. 405 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required
+to submit such files). Yes ☒ No ☐ Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a
+smaller reporting company, or an emerging growth company. See definitions of
+“large accelerated filer”, “accelerated filer”, “smaller reporting company”, and
+"emerging growth company" in Rule 12b-2 of the Exchange Act. Indicate by check
+mark whether the registrant is a large accelerated filer, an accelerated filer,
+a non-accelerated filer, a smaller reporting company, or an emerging growth
 company. See definitions of “large accelerated filer”, “accelerated filer”,
 “smaller reporting company”, and "emerging growth company" in Rule 12b-2 of the
-Exchange Act. Indicate by check mark whether the registrant is a large
-accelerated filer, an accelerated filer, a non-accelerated filer, a smaller
-reporting company, or an emerging growth company. See definitions of “large
-accelerated filer”, “accelerated filer”, “smaller reporting company”, and
-"emerging growth company" in Rule 12b-2 of the Exchange Act. Large accelerated
-filer☒Accelerated filer☐Non-accelerated filer☐Smaller reporting company☐Emerging
-growth company☐ If an emerging growth company, indicate by check mark if the
-registrant has elected not to use the extended transition period for complying
-with any new or revised financial accounting standards provided pursuant to
-Section 13(a) of the Exchange Act. ☐ If an emerging growth company, indicate by
-check mark if the registrant has elected not to use the extended transition
-period for complying with any new or revised financial accounting standards
-provided pursuant to Section 13(a) of the Exchange Act. ☐ Indicate by check mark
-whether the registrant has filed a report on and attestation to its management’s
-assessment of the effectiveness of its internal control over financial reporting
-under Section 404(b) of the Sarbanes-Oxley Act (15 U. S. C. 7262(b)) by the
-registered public accounting firm that prepared or issued its audit report. ☒
-Indicate by check mark whether the registrant has filed a report on and
-attestation to its management’s assessment of the effectiveness of its internal
-control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act
-(15 U. S. C. 7262(b)) by the registered public accounting firm that prepared or
-issued its audit report. ☒ Indicate by check mark whether the registrant is a
-shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒ Indicate by
+Exchange Act. Large accelerated filer☒Accelerated filer☐Non-accelerated
+filer☐Smaller reporting company☐Emerging growth company☐ If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the
+extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+If an emerging growth company, indicate by check mark if the registrant has
+elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the
+Exchange Act. ☐ Indicate by check mark whether the registrant has filed a report
+on and attestation to its management’s assessment of the effectiveness of its
+internal control over financial reporting under Section 404(b) of the Sarbanes-
+Oxley Act (15 U. S. C. 7262(b)) by the registered public accounting firm that
+prepared or issued its audit report. ☒ Indicate by check mark whether the
+registrant has filed a report on and attestation to its management’s assessment
+of the effectiveness of its internal control over financial reporting under
+Section 404(b) of the Sarbanes-Oxley Act (15 U. S. C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. ☒ Indicate by
 check mark whether the registrant is a shell company (as defined in Rule 12b-2
-of the Act). Yes ☐ No ☒ The aggregate market value of the voting stock held by
-non-affiliates of the registrant as of July 30, 2021 was approximately $467. 25
-billion (based on the closing sales price of the registrant's common stock as
-reported by the Nasdaq Global Select Market on July 30, 2021). This calculation
-excludes 99 million shares held by directors and executive officers of the
-registrant. This calculation does not exclude shares held by such organizations
-whose ownership exceeds 5% of the registrant's outstanding common stock that
-have represented to the registrant that they are registered investment advisers
-or investment companies registered under section 8 of the Investment Company Act
-of 1940. The aggregate market value of the voting stock held by non-affiliates
-of the registrant as of July 30, 2021 was approximately $467. 25 billion (based
-on the closing sales price of the registrant's common stock as reported by the
-Nasdaq Global Select Market on July 30, 2021). This calculation excludes 99
-million shares held by directors and executive officers of the registrant. This
-calculation does not exclude shares held by such organizations whose ownership
-exceeds 5% of the registrant's outstanding common stock that have represented to
-the registrant that they are registered investment advisers or investment
-companies registered under section 8 of the Investment Company Act of 1940. The
-number of shares of common stock outstanding as of March 11, 2022 was 2. 51
-billion. The number of shares of common stock outstanding as of March 11, 2022
-was 2. 51 billion. DOCUMENTS INCORPORATED BY REFERENCE DOCUMENTS INCORPORATED BY
-REFERENCE Portions of the registrant's Proxy Statement for its 2022 Annual
-Meeting of Shareholders to be filed with the Securities and Exchange Commission
-pursuant to Regulation 14A not later than 120 days after the end of the fiscal
-year covered by this Annual Report on Form 10-K are incorporated by reference
-into Part III, Items 10-14 of this Annual Report on Form 10-K. Portions of the
+of the Act). Yes ☐ No ☒ Indicate by check mark whether the registrant is a shell
+company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒ The aggregate market
+value of the voting stock held by non-affiliates of the registrant as of July
+30, 2021 was approximately $467. 25 billion (based on the closing sales price of
+the registrant's common stock as reported by the Nasdaq Global Select Market on
+July 30, 2021). This calculation excludes 99 million shares held by directors
+and executive officers of the registrant. This calculation does not exclude
+shares held by such organizations whose ownership exceeds 5% of the registrant's
+outstanding common stock that have represented to the registrant that they are
+registered investment advisers or investment companies registered under section
+8 of the Investment Company Act of 1940. The aggregate market value of the
+voting stock held by non-affiliates of the registrant as of July 30, 2021 was
+approximately $467. 25 billion (based on the closing sales price of the
+registrant's common stock as reported by the Nasdaq Global Select Market on July
+30, 2021). This calculation excludes 99 million shares held by directors and
+executive officers of the registrant. This calculation does not exclude shares
+held by such organizations whose ownership exceeds 5% of the registrant's
+outstanding common stock that have represented to the registrant that they are
+registered investment advisers or investment companies registered under section
+8 of the Investment Company Act of 1940. The number of shares of common stock
+outstanding as of March 11, 2022 was 2. 51 billion. The number of shares of
+common stock outstanding as of March 11, 2022 was 2. 51 billion. DOCUMENTS
+INCORPORATED BY REFERENCE DOCUMENTS INCORPORATED BY REFERENCE Portions of the
 registrant's Proxy Statement for its 2022 Annual Meeting of Shareholders to be
 filed with the Securities and Exchange Commission pursuant to Regulation 14A not
 later than 120 days after the end of the fiscal year covered by this Annual
 Report on Form 10-K are incorporated by reference into Part III, Items 10-14 of
-this Annual Report on Form 10-K. Table of Contents Table of Contents Table of
-Contents NVIDIA CORPORATION NVIDIA CORPORATION TABLE OF CONTENTS Page PART I
-Item 1. Business 4 Item 1A. Risk Factors 14 Item 1B. Unresolved Staff Comments
-27 Item 2. Properties 27 Item 3. Legal Proceedings 27 Item 4. Mine Safety
-Disclosures 28 PART II Item 5. Market for Registrant’s Common Equity, Related
-Stockholder Matters and Issuer Purchases of Equity Securities 28 Item 6.
-(Reserved)29 Item 7. Management’s Discussion and Analysis of Financial Condition
-and Results of Operations 30 Item 7A. Quantitative and Qualitative Disclosures
-About Market Risk 40 Item 8. Financial Statements and Supplementary Data 41 Item
-9. Changes in and Disagreements With Accountants on Accounting and Financial
-Disclosure 41 Item 9A. Controls and Procedures 41 Item 9B. Other Information
-41Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections42
-PART III Item 10. Directors, Executive Officers and Corporate Governance 42 Item
-11. Executive Compensation 42 Item 12. Security Ownership of Certain Beneficial
+this Annual Report on Form 10-K. Portions of the registrant's Proxy Statement
+for its 2022 Annual Meeting of Shareholders to be filed with the Securities and
+Exchange Commission pursuant to Regulation 14A not later than 120 days after the
+end of the fiscal year covered by this Annual Report on Form 10-K are
+incorporated by reference into Part III, Items 10-14 of this Annual Report on
+Form 10-K. Table of Contents Table of Contents Table of Contents NVIDIA
+CORPORATION NVIDIA CORPORATION TABLE OF CONTENTS Page PART I Item 1. Business 4
+Item 1A. Risk Factors 14 Item 1B. Unresolved Staff Comments 27 Item 2.
+Properties 27 Item 3. Legal Proceedings 27 Item 4. Mine Safety Disclosures 28
+PART II Item 5. Market for Registrant’s Common Equity, Related Stockholder
+Matters and Issuer Purchases of Equity Securities 28 Item 6. (Reserved)29 Item
+7. Management’s Discussion and Analysis of Financial Condition and Results of
+Operations 30 Item 7A. Quantitative and Qualitative Disclosures About Market
+Risk 40 Item 8. Financial Statements and Supplementary Data 41 Item 9. Changes
+in and Disagreements With Accountants on Accounting and Financial Disclosure 41
+Item 9A. Controls and Procedures 41 Item 9B. Other Information 41Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections42 PART III
+Item 10. Directors, Executive Officers and Corporate Governance 42 Item 11.
+Executive Compensation 42 Item 12. Security Ownership of Certain Beneficial
 Owners and Management and Related Stockholder Matters42 Item 13. Certain
 Relationships and Related Transactions, and Director Independence43 Item 14.
 Principal Accountant Fees and Services 43 PART IV Item 15. Exhibits, Financial
@@ -5531,19 +5215,18 @@ administrative2, 166 1, 940 1, 093 Total operating expenses7, 434 5, 864 3, 922
 Income from operations10, 041 4, 532 2, 846 Interest income29 57 178 Interest
 expense(236)(184)(52)Other, net107 4 (2)Other income (expense), net(100)(123)124
 Income before income tax9, 941 4, 409 2, 970 Income tax expense189 77 174 Net
-income$9, 752 $4, 332 $2, 796 Net income per share: Basic$3. 91 $1. 76 $1. 15
-Diluted$3. 85 $1. 73 $1. 13 Weighted average shares used in per share
-computation: Basic2, 496 2, 467 2, 439 Diluted2, 535 2, 510 2, 472 (In millions,
-except per share data) See accompanying notes to the consolidated financial
-statements. See accompanying notes to the consolidated financial statements. 47
-47 47 47 Table of Contents Table of Contents Table of Contents NVIDIA
-CORPORATION AND SUBSIDIARIES NVIDIA CORPORATION AND SUBSIDIARIES CONSOLIDATED
-STATEMENTS OF COMPREHENSIVE INCOME CONSOLIDATED STATEMENTS OF COMPREHENSIVE
-INCOME (In millions)Year EndedJanuary 30, 2022January 31, 2021January 26,
-2020Net income$9, 752 $4, 332 $2, 796 Other comprehensive income (loss), net of
-taxAvailable-for-sale debt securities: Net unrealized gain (loss)(16)2 8
-Reclassification adjustments for net realized gain (loss) included in net
-income— (2)— Net change in unrealized gain (loss)(16)— 8 Cash flow hedges: Net
+income$9, 752 $4, 332 $2, 796 Net income per $3. 91 $1. 76 $1. 15 Diluted$3. 85
+$1. 73 $1. 13 Weighted average shares used in per share 2, 496 2, 467 2, 439
+Diluted2, 535 2, 510 2, 472 (In millions, except per share data) See
+accompanying notes to the consolidated financial statements. See accompanying
+notes to the consolidated financial statements. 47 47 47 47 Table of Contents
+Table of Contents Table of Contents NVIDIA CORPORATION AND SUBSIDIARIES NVIDIA
+CORPORATION AND SUBSIDIARIES CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (In millions)Year EndedJanuary
+30, 2022January 31, 2021January 26, 2020Net income$9, 752 $4, 332 $2, 796 Other
+comprehensive income (loss), net of taxAvailable-for-sale debt unrealized gain
+(loss)(16)2 8 Reclassification adjustments for net realized gain (loss) included
+in net income— (2)— Net change in unrealized gain (loss)(16)— 8 Cash flow
 unrealized gain (loss)(43)9 10 Reclassification adjustments for net realized
 gain (loss) included in net income29 9 (5)Net change in unrealized gain
 (loss)(14)18 5 Other comprehensive income (loss), net of tax(30)18 13 Total
@@ -5629,37 +5312,36 @@ paid(399)(395)(390)Principal payments on property and equipment(83)(17)—
 Other(7)(4)— Net cash provided by (used in) financing activities1, 865 3, 804
 (792)Change in cash and cash equivalents1, 143 (10, 049)10, 114 Cash and cash
 equivalents at beginning of period847 10, 896 782 Cash and cash equivalents at
-end of period$1, 990 $847 $10, 896 Supplemental disclosures of cash flow
-information: Cash paid for income taxes, net$396 $249 $176 Cash paid for
-interest$246 $138 $54 (In millions) See accompanying notes to the consolidated
-financial statements. See accompanying notes to the consolidated financial
-statements. 51 51 51 51 Table of ContentsNVIDIA CORPORATION AND
-SUBSIDIARIESNOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS Table of Contents
-Table of Contents NVIDIA CORPORATION AND SUBSIDIARIES NVIDIA CORPORATION AND
-SUBSIDIARIES NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS NOTES TO THE
-CONSOLIDATED FINANCIAL STATEMENTS Note 1 - Organization and Summary of
-Significant Accounting Policies Note 1 - Organization and Summary of Significant
-Accounting Policies Our Company Our Company Headquartered in Santa Clara,
-California, NVIDIA was incorporated in California in April 1993 and
-reincorporated in Delaware in April 1998. Headquartered in Santa Clara,
-California, NVIDIA was incorporated in California in April 1993 and
-reincorporated in Delaware in April 1998. All references to “NVIDIA, ” “we, ”
-“us, ” “our” or the “Company” mean NVIDIA Corporation and its subsidiaries. All
-references to “NVIDIA, ” “we, ” “us, ” “our” or the “Company” mean NVIDIA
-Corporation and its subsidiaries. On July 19, 2021, we executed a four-for-one
-stock split of our common stock. All share, equity award, and per share amounts
-and related shareholders' equity balances presented herein have been
-retroactively adjusted to reflect the Stock Split. On July 19, 2021, we executed
-a four-for-one stock split of our common stock. All share, equity award, and per
+end of period$1, 990 $847 $10, 896 Supplemental disclosures of cash flow paid
+for income taxes, net$396 $249 $176 Cash paid for interest$246 $138 $54 (In
+millions) See accompanying notes to the consolidated financial statements. See
+accompanying notes to the consolidated financial statements. 51 51 51 51 Table
+of ContentsNVIDIA CORPORATION AND SUBSIDIARIESNOTES TO THE CONSOLIDATED
+FINANCIAL STATEMENTS Table of Contents Table of Contents NVIDIA CORPORATION AND
+SUBSIDIARIES NVIDIA CORPORATION AND SUBSIDIARIES NOTES TO THE CONSOLIDATED
+FINANCIAL STATEMENTS NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS Note 1 -
+Organization and Summary of Significant Accounting Policies Note 1 -
+Organization and Summary of Significant Accounting Policies Our Company Our
+Company Headquartered in Santa Clara, California, NVIDIA was incorporated in
+California in April 1993 and reincorporated in Delaware in April 1998.
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California
+in April 1993 and reincorporated in Delaware in April 1998. All references to
+“NVIDIA, ” “we, ” “us, ” “our” or the “Company” mean NVIDIA Corporation and its
+subsidiaries. All references to “NVIDIA, ” “we, ” “us, ” “our” or the “Company”
+mean NVIDIA Corporation and its subsidiaries. On July 19, 2021, we executed a
+four-for-one stock split of our common stock. All share, equity award, and per
 share amounts and related shareholders' equity balances presented herein have
-been retroactively adjusted to reflect the Stock Split. Fiscal Year Fiscal Year
-We operate on a 52- or 53-week year, ending on the last Sunday in January.
-Fiscal years 2022 and 2020 were both 52-week years. Fiscal year 2021 was a
-53-week year. We operate on a 52- or 53-week year, ending on the last Sunday in
+been retroactively adjusted to reflect the Stock Split. On July 19, 2021, we
+executed a four-for-one stock split of our common stock. All share, equity
+award, and per share amounts and related shareholders' equity balances presented
+herein have been retroactively adjusted to reflect the Stock Split. Fiscal Year
+Fiscal Year We operate on a 52- or 53-week year, ending on the last Sunday in
 January. Fiscal years 2022 and 2020 were both 52-week years. Fiscal year 2021
-was a 53-week year. Reclassifications Reclassifications Certain prior fiscal
-year balances have been reclassified to conform to the current fiscal year
-presentation. Certain prior fiscal year balances have been reclassified to
+was a 53-week year. We operate on a 52- or 53-week year, ending on the last
+Sunday in January. Fiscal years 2022 and 2020 were both 52-week years. Fiscal
+year 2021 was a 53-week year. Reclassifications Reclassifications Certain prior
+fiscal year balances have been reclassified to conform to the current fiscal
+year presentation. Certain prior fiscal year balances have been reclassified to
 conform to the current fiscal year presentation. Principles of Consolidation
 Principles of Consolidation Our consolidated financial statements include the
 accounts of NVIDIA Corporation and our wholly-owned subsidiaries. All
@@ -6842,96 +6524,95 @@ STATEMENTS(Continued) Table of Contents Table of Contents NVIDIA CORPORATION AND
 SUBSIDIARIES NVIDIA CORPORATION AND SUBSIDIARIES NOTES TO THE CONSOLIDATED
 FINANCIAL STATEMENTS NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued)
 (Continued) Fair Value atPricing CategoryJanuary 30, 2022January 31, 2021(In
-millions)AssetsCash equivalents and marketable securities: Money market
-fundsLevel 1$316 $313 Corporate debt securitiesLevel 2$9, 974 $4, 444 Debt
-securities issued by the United States TreasuryLevel 2$7, 300 $2, 846 Debt
-securities issued by United States government agenciesLevel 2$1, 612 $2, 976
-Certificates of depositLevel 2$1, 561 $705 Foreign government bondsLevel 2$150
-$67 Other assets (Investment in non-affiliated entities): Publicly-held equity
-securities (1)Level 1$58 $— Privately-held equity securitiesLevel 3$208 $144
-Liabilities (2)2. 20% Notes Due 2021Level 2$— $1, 011 0. 309% Notes Due
-2023Level 2$1, 236 $— 0. 584% Notes Due 2024Level 2$1, 224 $— 3. 20% Notes Due
-2026Level 2$1, 055 $1, 124 1. 55% Notes Due 2028Level 2$1, 200 $— 2. 85% Notes
-Due 2030Level 2$1, 542 $1, 654 2. 00% Notes Due 2031Level 2$1, 200 $— 3. 50%
-Notes Due 2040Level 2$1, 066 $1, 152 3. 50% Notes Due 2050Level 2$2, 147 $2, 308
-3. 70% Notes Due 2060Level 2$551 $602 (1) Unrealized gains of $48 million from
-an investment in a publicly-traded equity security were recorded in other income
-(expense), net, in fiscal year 2022. (1) Unrealized gains of $48 million from an
-investment in a publicly-traded equity security were recorded in other income
-(expense), net, in fiscal year 2022. (2) These liabilities are carried on our
-Consolidated Balance Sheets at their original issuance value, net of unamortized
-debt discount and issuance costs. (2) These liabilities are carried on our
-Consolidated Balance Sheets at their original issuance value, net of unamortized
-debt discount and issuance costs. 67 67 67 67 Table of ContentsNVIDIA
-CORPORATION AND SUBSIDIARIESNOTES TO THE CONSOLIDATED FINANCIAL
-STATEMENTS(Continued) Table of Contents Table of Contents NVIDIA CORPORATION AND
-SUBSIDIARIES NVIDIA CORPORATION AND SUBSIDIARIES NOTES TO THE CONSOLIDATED
-FINANCIAL STATEMENTS NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued)
-(Continued) Note 10 - Balance Sheet Components Note 10 - Balance Sheet
-Components Certain balance sheet components are as follows: Certain balance
-sheet components are as follows: January 30, 2022January 31, 2021(In
-millions)Inventories: Raw materials$791 $632 Work in-process692 457 Finished
-goods1, 122 737 Total inventories$2, 605 $1, 826 January 30, 2022January 31,
-2021EstimatedUseful Life(In millions)(In years)Property and Equipment: Land$218
-$218 (A)Buildings, leasehold improvements, and furniture874 796 (B)Equipment,
-compute hardware, and software2, 852 1, 985 3-5Construction in process737 558
-(C)Total property and equipment, gross4, 681 3, 557 Accumulated depreciation and
-amortization(1, 903)(1, 408) Total property and equipment, net$2, 778 $2, 149
-(A)Land is a non-depreciable asset. (A) Land is a non-depreciable asset. (B)The
-estimated useful lives of our buildings are up to thirty years. Leasehold
-improvements and finance leases are amortized based on the lesser of either the
-asset’s estimated useful life or the expected lease term. (B) The estimated
-useful lives of our buildings are up to thirty years. Leasehold improvements and
-finance leases are amortized based on the lesser of either the asset’s estimated
-useful life or the expected lease term. (C)Construction in process represents
-assets that are not available for their intended use as of the balance sheet
-date. (C) Construction in process represents assets that are not available for
-their intended use as of the balance sheet date. Depreciation expense for fiscal
-years 2022, 2021, and 2020 was $611 million, $486 million, and $355 million,
-respectively. Depreciation expense for fiscal years 2022, 2021, and 2020 was
-$611 million, $486 million, and $355 million, respectively. Accumulated
-amortization of leasehold improvements and finance leases was $265 million and
-$223 million as of January 30, 2022 and January 31, 2021, respectively.
-Accumulated amortization of leasehold improvements and finance leases was $265
-million and $223 million as of January 30, 2022 and January 31, 2021,
+millions)AssetsCash equivalents and marketable market fundsLevel 1$316 $313
+Corporate debt securitiesLevel 2$9, 974 $4, 444 Debt securities issued by the
+United States TreasuryLevel 2$7, 300 $2, 846 Debt securities issued by United
+States government agenciesLevel 2$1, 612 $2, 976 Certificates of depositLevel
+2$1, 561 $705 Foreign government bondsLevel 2$150 $67 Other assets (Investment
+in non-affiliated entities): Publicly-held equity securities (1)Level 1$58 $—
+Privately-held equity securitiesLevel 3$208 $144 Liabilities (2)2. 20% Notes Due
+2021Level 2$— $1, 011 0. 309% Notes Due 2023Level 2$1, 236 $— 0. 584% Notes Due
+2024Level 2$1, 224 $— 3. 20% Notes Due 2026Level 2$1, 055 $1, 124 1. 55% Notes
+Due 2028Level 2$1, 200 $— 2. 85% Notes Due 2030Level 2$1, 542 $1, 654 2. 00%
+Notes Due 2031Level 2$1, 200 $— 3. 50% Notes Due 2040Level 2$1, 066 $1, 152 3.
+50% Notes Due 2050Level 2$2, 147 $2, 308 3. 70% Notes Due 2060Level 2$551 $602
+(1) Unrealized gains of $48 million from an investment in a publicly-traded
+equity security were recorded in other income (expense), net, in fiscal year
+2022. (1) Unrealized gains of $48 million from an investment in a publicly-
+traded equity security were recorded in other income (expense), net, in fiscal
+year 2022. (2) These liabilities are carried on our Consolidated Balance Sheets
+at their original issuance value, net of unamortized debt discount and issuance
+costs. (2) These liabilities are carried on our Consolidated Balance Sheets at
+their original issuance value, net of unamortized debt discount and issuance
+costs. 67 67 67 67 Table of ContentsNVIDIA CORPORATION AND SUBSIDIARIESNOTES TO
+THE CONSOLIDATED FINANCIAL STATEMENTS(Continued) Table of Contents Table of
+Contents NVIDIA CORPORATION AND SUBSIDIARIES NVIDIA CORPORATION AND SUBSIDIARIES
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS NOTES TO THE CONSOLIDATED
+FINANCIAL STATEMENTS (Continued) (Continued) Note 10 - Balance Sheet Components
+Note 10 - Balance Sheet Components Certain balance sheet components are as
+follows: Certain balance sheet components are as follows: January 30,
+2022January 31, 2021(In millions)I materials$791 $632 Work in-process692 457
+Finished goods1, 122 737 Total inventories$2, 605 $1, 826 January 30,
+2022January 31, 2021EstimatedUseful Life(In millions)(In years)Property and
+E$218 $218 (A)Buildings, leasehold improvements, and furniture874 796
+(B)Equipment, compute hardware, and software2, 852 1, 985 3-5Construction in
+process737 558 (C)Total property and equipment, gross4, 681 3, 557 Accumulated
+depreciation and amortization(1, 903)(1, 408) Total property and equipment,
+net$2, 778 $2, 149 (A)Land is a non-depreciable asset. (A) Land is a non-
+depreciable asset. (B)The estimated useful lives of our buildings are up to
+thirty years. Leasehold improvements and finance leases are amortized based on
+the lesser of either the asset’s estimated useful life or the expected lease
+term. (B) The estimated useful lives of our buildings are up to thirty years.
+Leasehold improvements and finance leases are amortized based on the lesser of
+either the asset’s estimated useful life or the expected lease term.
+(C)Construction in process represents assets that are not available for their
+intended use as of the balance sheet date. (C) Construction in process
+represents assets that are not available for their intended use as of the
+balance sheet date. Depreciation expense for fiscal years 2022, 2021, and 2020
+was $611 million, $486 million, and $355 million, respectively. Depreciation
+expense for fiscal years 2022, 2021, and 2020 was $611 million, $486 million,
+and $355 million, respectively. Accumulated amortization of leasehold
+improvements and finance leases was $265 million and $223 million as of January
+30, 2022 and January 31, 2021, respectively. Accumulated amortization of
+leasehold improvements and finance leases was $265 million and $223 million as
+of January 30, 2022 and January 31, 2021, respectively. Property, equipment and
+intangible assets acquired by assuming related liabilities during fiscal years
+2022, 2021, and 2020 were $258 million, $157 million, and $212 million,
 respectively. Property, equipment and intangible assets acquired by assuming
 related liabilities during fiscal years 2022, 2021, and 2020 were $258 million,
-$157 million, and $212 million, respectively. Property, equipment and intangible
-assets acquired by assuming related liabilities during fiscal years 2022, 2021,
-and 2020 were $258 million, $157 million, and $212 million, respectively.
-January 30, 2022January 31, 2021Other assets: (In millions)Prepaid supply
-agreements$1, 747 $— Advanced consideration for acquisition (1)1, 357 1, 357
-Prepaid royalties409 440 Investment in non-affiliated entities266 144 Other62
-203 Total other assets$3, 841 $2, 144 (1)Refer to Note 2 - Business Combination
-for further details on the Arm acquisition. (1) Refer to Note 2 - Business
-Combination for further details on the Arm acquisition. 68 68 68 68 Table of
-ContentsNVIDIA CORPORATION AND SUBSIDIARIESNOTES TO THE CONSOLIDATED FINANCIAL
-STATEMENTS(Continued) Table of Contents Table of Contents NVIDIA CORPORATION AND
-SUBSIDIARIES NVIDIA CORPORATION AND SUBSIDIARIES NOTES TO THE CONSOLIDATED
-FINANCIAL STATEMENTS NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued)
-(Continued) January 30, 2022January 31, 2021(In millions)Accrued and Other
-Current Liabilities: Customer program accruals$1, 000 $630 Accrued payroll and
-related expenses409 297 Deferred revenue (1)300 288 Excess inventory purchase
-obligations196 52 Other647 510 Total accrued and other current liabilities$2,
-552 $1, 777 (1)Deferred revenue primarily includes customer advances and
-deferrals related to license and development arrangements, support for hardware
-and software, and cloud services. (1) Deferred revenue primarily includes
-customer advances and deferrals related to license and development arrangements,
-support for hardware and software, and cloud services. January 30, 2022January
-31, 2021(In millions)Other Long-Term Liabilities: Income tax payable (1)$980
-$836 Deferred income tax245 241 Deferred revenue (2)202 163 Other126 135 Total
-other long-term liabilities$1, 553 $1, 375 (1)As of January 30, 2022, income tax
-payable represents the long-term portion of the one-time transition tax payable
-of $251 million, long-term portion of the unrecognized tax benefits of $670
-million, and related interest and penalties of $59 million. (1) As of January
+$157 million, and $212 million, respectively. January 30, 2022January 31,
+2021Other assets: (In millions)Prepaid supply agreements$1, 747 $— Advanced
+consideration for acquisition (1)1, 357 1, 357 Prepaid royalties409 440
+Investment in non-affiliated entities266 144 Other62 203 Total other assets$3,
+841 $2, 144 (1)Refer to Note 2 - Business Combination for further details on the
+Arm acquisition. (1) Refer to Note 2 - Business Combination for further details
+on the Arm acquisition. 68 68 68 68 Table of ContentsNVIDIA CORPORATION AND
+SUBSIDIARIESNOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS(Continued) Table of
+Contents Table of Contents NVIDIA CORPORATION AND SUBSIDIARIES NVIDIA
+CORPORATION AND SUBSIDIARIES NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) (Continued) January
+30, 2022January 31, 2021(In millions)Accrued and Other Current L program
+accruals$1, 000 $630 Accrued payroll and related expenses409 297 Deferred
+revenue (1)300 288 Excess inventory purchase obligations196 52 Other647 510
+Total accrued and other current liabilities$2, 552 $1, 777 (1)Deferred revenue
+primarily includes customer advances and deferrals related to license and
+development arrangements, support for hardware and software, and cloud services.
+(1) Deferred revenue primarily includes customer advances and deferrals related
+to license and development arrangements, support for hardware and software, and
+cloud services. January 30, 2022January 31, 2021(In millions)Other Long-Term L
+tax payable (1)$980 $836 Deferred income tax245 241 Deferred revenue (2)202 163
+Other126 135 Total other long-term liabilities$1, 553 $1, 375 (1)As of January
 30, 2022, income tax payable represents the long-term portion of the one-time
 transition tax payable of $251 million, long-term portion of the unrecognized
 tax benefits of $670 million, and related interest and penalties of $59 million.
-(2)Deferred revenue primarily includes deferrals related to support for hardware
-and software. (2) Deferred revenue primarily includes deferrals related to
-support for hardware and software. Deferred Revenue Deferred Revenue The
-following table shows the changes in deferred revenue during fiscal years 2022
-and 2021. The following table shows the changes in deferred revenue during
+(1) As of January 30, 2022, income tax payable represents the long-term portion
+of the one-time transition tax payable of $251 million, long-term portion of the
+unrecognized tax benefits of $670 million, and related interest and penalties of
+$59 million. (2)Deferred revenue primarily includes deferrals related to support
+for hardware and software. (2) Deferred revenue primarily includes deferrals
+related to support for hardware and software. Deferred Revenue Deferred Revenue
+The following table shows the changes in deferred revenue during fiscal years
+2022 and 2021. The following table shows the changes in deferred revenue during
 fiscal years 2022 and 2021. January 30, 2022January 31, 2021(In millions)Balance
 at beginning of period$451 $201 Deferred revenue added during the period821 536
 Addition due to business combinations8 75 Revenue recognized during the
@@ -7230,8 +6911,8 @@ as follows: The income tax expense (benefit) differs from the amount computed by
 applying the U. S. federal statutory rate of 21% to income before income taxes
 as follows: Year Ended January 30, 2022January 31, 2021January 26, 2020 (In
 millions)Tax expense computed at federal statutory rate$2, 088 $926 $624 Expense
-(benefit) resulting from: State income taxes, net of federal tax effect42 10 12
-Foreign-derived intangible income(520)— — Foreign tax rate
+(benefit) resulting income taxes, net of federal tax effect42 10 12 Foreign-
+derived intangible income(520)— — Foreign tax rate
 differential(497)(561)(301)Stock-based compensation(337)(136)(60)U. S. federal
 R&D tax credit(289)(173)(110)IP domestication(244)— — Other(54)11 9 Income tax
 expense$189 $77 $174 The tax effect of temporary differences that gives rise to
@@ -7592,8 +7273,8 @@ NVIDIA CORPORATION AND SUBSIDIARIES NVIDIA CORPORATION AND SUBSIDIARIES NOTES TO
 THE CONSOLIDATED FINANCIAL STATEMENTS NOTES TO THE CONSOLIDATED FINANCIAL
 STATEMENTS (Continued) (Continued) Year EndedJanuary 30, 2022January 31,
 2021January 26, 2020(In millions)Reconciling items included in "All Other"
-category: Stock-based compensation expense$(2, 004)$(1, 397)$(844)Acquisition-
-related intangible asset amortization, inventory step-up charge, and other
+-based compensation expense$(2, 004)$(1, 397)$(844)Acquisition-related
+intangible asset amortization, inventory step-up charge, and other
 costs(636)(836)(31)Unallocated cost of revenue and operating
 expenses(399)(357)(283)IP-related costs(10)(38)(14)Total$(3, 049)$(2, 628)$(1,
 172) Revenue by geographic region is allocated to individual countries based on
