@@ -75,18 +75,57 @@ def parse_html(html_content):
     
     return "\n".join(text_content), tables
 
-def clean_text(text):
-    # Remove multiple spaces
-    text = re.sub(r'\s+', ' ', text)
-    # Remove multiple newlines
-    text = re.sub(r'\n+', '\n', text)
-    return text.strip()
+def clean_table(df):
+    # Remove rows and columns with all NaN values
+    df = df.dropna(how='all').dropna(axis=1, how='all')
+    
+    # Replace remaining NaN values with empty strings
+    df = df.fillna('')
+    
+    # Clean column names
+    df.columns = [str(col).strip() for col in df.columns]
+    
+    return df
+
+def format_table(df, title):
+    # Calculate column widths
+    col_widths = [max(df[col].astype(str).map(len).max(), len(col)) for col in df.columns]
+    
+    # Create header
+    header = '| ' + ' | '.join(col.ljust(width) for col, width in zip(df.columns, col_widths)) + ' |'
+    separator = '|-' + '-|-'.join('-' * width for width in col_widths) + '-|'
+    
+    # Create rows
+    rows = []
+    for _, row in df.iterrows():
+        row_str = '| ' + ' | '.join(str(cell).ljust(width) for cell, width in zip(row, col_widths)) + ' |'
+        rows.append(row_str)
+    
+    # Combine all parts
+    table_str = f"{title}\n\n{header}\n{separator}\n" + '\n'.join(rows)
+    
+    return table_str
 
 def process_tables(tables):
     processed_tables = []
     for title, df in tables:
-        processed_tables.append(f"Table: {title}\n\n{df.to_string(index=False)}\n\n")
+        df = clean_table(df)
+        table_str = format_table(df, title)
+        processed_tables.append(table_str)
     return processed_tables
+
+def clean_text(text_content):
+    # Remove extra whitespace
+    cleaned_text = ' '.join(text_content.split())
+    
+    # Remove special characters and normalize spaces
+    cleaned_text = re.sub(r'[^\w\s]', ' ', cleaned_text)
+    cleaned_text = re.sub(r'\s+', ' ', cleaned_text)
+    
+    # Capitalize first letter of sentences
+    cleaned_text = '. '.join(s.capitalize() for s in cleaned_text.split('. '))
+    
+    return cleaned_text
 
 def scrape_sec_filing(url):
     html_content = fetch_html(url)
