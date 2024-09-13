@@ -48,6 +48,67 @@ def fetch_html(url):
         logging.error(f"Error fetching URL: {e}")
         return None
 
+def clean_label(label):
+    # Remove any newlines and extra spaces
+    label = ' '.join(label.split())
+    # Remove any trailing colons or periods
+    label = label.rstrip(':.')
+    # Limit the length of the label
+    return label[:100] if len(label) > 100 else label
+
+def find_table_label(table):
+    label = None
+    
+    # Check for caption
+    caption = table.find('caption')
+    if caption and caption.text.strip():
+        label = clean_label(caption.text)
+        logging.info(f"Label found in caption: {label}")
+        return label
+    
+    # Check for preceding paragraph with bold or strong text
+    prev_p = table.find_previous('p')
+    if prev_p:
+        bold = prev_p.find(['b', 'strong'])
+        if bold and bold.text.strip():
+            label = clean_label(bold.text)
+            logging.info(f"Label found in preceding bold text: {label}")
+            return label
+    
+    # Check for preceding headings (up to 3 levels up)
+    for i, heading in enumerate(table.find_all_previous(['h1', 'h2', 'h3', 'h4', 'h5', 'h6'])):
+        if heading.text.strip():
+            label = clean_label(heading.text)
+            logging.info(f"Label found in preceding heading: {label}")
+            return label
+        if i >= 2:  # Only check up to 3 levels up
+            break
+    
+    # Check for a div with a specific class that might contain the title
+    parent_div = table.find_parent('div', class_='table-title')
+    if parent_div:
+        label = clean_label(parent_div.text)
+        logging.info(f"Label found in parent div: {label}")
+        return label
+    
+    # Check for any preceding text within a certain distance
+    prev_tags = table.find_all_previous(['p', 'span', 'div'], limit=3)
+    for tag in prev_tags:
+        if tag.text.strip():
+            label = clean_label(tag.text)
+            logging.info(f"Label found in preceding text: {label}")
+            return label
+    
+    # If no label found, use the first row of the table if it looks like a header
+    first_row = table.find('tr')
+    if first_row and not first_row.find('td') and first_row.find('th'):
+        label = clean_label(' '.join(th.text.strip() for th in first_row.find_all('th')))
+        logging.info(f"Label constructed from table header: {label}")
+        return label
+    
+    logging.warning("No label found for table, using default.")
+    return "Unlabeled Table"
+
 def parse_html(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
     
@@ -63,17 +124,15 @@ def parse_html(html_content):
         else:
             text_content.append(tag.text.strip())
     
-    # Extract tables with titles
+    # Extract tables with labels
     tables = []
     for table in soup.find_all('table'):
-        title = ""
-        prev_tag = table.find_previous(['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6'])
-        if prev_tag:
-            title = prev_tag.text.strip()
+        label = find_table_label(table)
         df = pd.read_html(io.StringIO(str(table)))[0]
-        tables.append((title, df))
+        tables.append((label, df))
     
     return "\n".join(text_content), tables
+
 
 def clean_table(df):
     # Remove rows and columns with all NaN values
@@ -87,7 +146,7 @@ def clean_table(df):
     
     return df
 
-def format_table(df, title):
+def format_table(df, label):
     # Calculate column widths
     col_widths = [max(df[col].astype(str).map(len).max(), len(col)) for col in df.columns]
     
@@ -101,16 +160,16 @@ def format_table(df, title):
         row_str = '| ' + ' | '.join(str(cell).ljust(width) for cell, width in zip(row, col_widths)) + ' |'
         rows.append(row_str)
     
-    # Combine all parts
-    table_str = f"{title}\n\n{header}\n{separator}\n" + '\n'.join(rows)
+    # Combine all parts with the label
+    table_str = f"Table: {label}\n\n{header}\n{separator}\n" + '\n'.join(rows)
     
     return table_str
 
 def process_tables(tables):
     processed_tables = []
-    for title, df in tables:
+    for label, df in tables:
         df = clean_table(df)
-        table_str = format_table(df, title)
+        table_str = format_table(df, label)
         processed_tables.append(table_str)
     return processed_tables
 
