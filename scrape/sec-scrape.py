@@ -7,6 +7,7 @@ import logging
 import time
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
+import textwrap
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -116,13 +117,13 @@ def parse_html(html_content):
     for hidden in soup.find_all('ix:hidden'):
         hidden.decompose()
     
-    # Extract visible text content
-    text_content = []
+    # Extract visible text content with structure
+    content = []
     for tag in soup.find_all(['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']):
         if tag.name.startswith('h'):
-            text_content.append(f"\n\n{tag.text.strip().upper()}\n")
+            content.append(f"\n\n{tag.name.upper()}: {tag.text.strip()}\n")
         else:
-            text_content.append(tag.text.strip())
+            content.append(tag.text.strip())
     
     # Extract tables with labels
     tables = []
@@ -131,7 +132,7 @@ def parse_html(html_content):
         df = pd.read_html(io.StringIO(str(table)))[0]
         tables.append((label, df))
     
-    return "\n".join(text_content), tables
+    return "\n\n".join(content), tables
 
 
 def clean_table(df):
@@ -174,17 +175,31 @@ def process_tables(tables):
     return processed_tables
 
 def clean_text(text_content):
-    # Remove extra whitespace
-    cleaned_text = ' '.join(text_content.split())
+    # Remove extra whitespace within lines
+    cleaned_text = re.sub(r'\s+', ' ', text_content)
     
-    # Remove special characters and normalize spaces
-    cleaned_text = re.sub(r'[^\w\s]', ' ', cleaned_text)
-    cleaned_text = re.sub(r'\s+', ' ', cleaned_text)
+    # Normalize spaces around punctuation
+    cleaned_text = re.sub(r'\s*([.,;:!?])\s*', r'\1 ', cleaned_text)
     
-    # Capitalize first letter of sentences
-    cleaned_text = '. '.join(s.capitalize() for s in cleaned_text.split('. '))
+    # Ensure single newline for paragraphs
+    cleaned_text = re.sub(r'\n{2,}', '\n\n', cleaned_text)
     
     return cleaned_text
+
+def format_text(text_content):
+    lines = text_content.split('\n')
+    formatted_text = []
+    
+    for line in lines:
+        if line.startswith(('H1:', 'H2:', 'H3:', 'H4:', 'H5:', 'H6:')):
+            # Format headings
+            level, title = line.split(':', 1)
+            formatted_text.append(f"\n{'#' * int(level[1:])} {title.strip()}\n")
+        else:
+            # Wrap paragraphs
+            formatted_text.append(textwrap.fill(line.strip(), width=80))
+    
+    return '\n\n'.join(formatted_text)
 
 def scrape_sec_filing(url):
     html_content = fetch_html(url)
@@ -193,9 +208,10 @@ def scrape_sec_filing(url):
 
     text_content, tables = parse_html(html_content)
     cleaned_text = clean_text(text_content)
+    formatted_text = format_text(cleaned_text)
     processed_tables = process_tables(tables)
 
-    return cleaned_text, processed_tables
+    return formatted_text, processed_tables
 
 def save_text(text, filename):
     with open(filename, 'w', encoding='utf-8') as f:
@@ -213,11 +229,13 @@ def main():
     try:
         html_content = fetch_html(url)
         if html_content:
-            text_content, tables = parse_html(html_content)
-            cleaned_text = clean_text(text_content)
-            processed_tables = process_tables(tables)
+            formatted_text, processed_tables = scrape_sec_filing(url)
+
+            # text_content, tables = parse_html(html_content)
+            # cleaned_text = clean_text(text_content)
+            # processed_tables = process_tables(tables)
             
-            save_text(cleaned_text, "msft_10k_text.txt")
+            save_text(formatted_text, "msft_10k_text.txt")
             save_tables(processed_tables, "msft_10k_tables.txt")
             logging.info("Scraping completed successfully")
         else:
