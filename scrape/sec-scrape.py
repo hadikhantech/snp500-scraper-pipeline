@@ -8,6 +8,7 @@ import time
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
 import textwrap
+import traceback
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -119,20 +120,26 @@ def parse_html(html_content):
     
     # Extract visible text content with structure
     content = []
-    for tag in soup.find_all(['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']):
+    for tag in soup.find_all(['p', 'div', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'span']):
         if tag.name.startswith('h'):
             content.append(f"\n\n{tag.name.upper()}: {tag.text.strip()}\n")
-        else:
-            content.append(tag.text.strip())
+        elif tag.name in ['p', 'div', 'span']:
+            # Check if this tag is not just whitespace and not part of a table
+            if tag.text.strip() and not tag.find_parent('table'):
+                content.append(tag.text.strip())
     
     # Extract tables with labels
     tables = []
     for table in soup.find_all('table'):
         label = find_table_label(table)
-        df = pd.read_html(io.StringIO(str(table)))[0]
-        tables.append((label, df))
+        try:
+            df = pd.read_html(io.StringIO(str(table)))[0]
+            tables.append((label, df))
+        except Exception as e:
+            logging.warning(f"Failed to parse table: {e}")
+            continue
     
-    return "\n\n".join(content), tables
+    return "\n".join(content), tables
 
 
 def clean_table(df):
@@ -169,6 +176,9 @@ def format_table(df, label):
 def process_tables(tables):
     processed_tables = []
     for label, df in tables:
+        if df.empty:
+            logging.warning(f"Skipping empty table: {label}")
+            continue
         df = clean_table(df)
         table_str = format_table(df, label)
         processed_tables.append(table_str)
@@ -181,8 +191,11 @@ def clean_text(text_content):
     # Normalize spaces around punctuation
     cleaned_text = re.sub(r'\s*([.,;:!?])\s*', r'\1 ', cleaned_text)
     
-    # Ensure single newline for paragraphs
-    cleaned_text = re.sub(r'\n{2,}', '\n\n', cleaned_text)
+    # Remove repeated newlines
+    cleaned_text = re.sub(r'\n{3,}', '\n\n', cleaned_text)
+    
+    # Remove page numbers and other common artifacts
+    cleaned_text = re.sub(r'\n\s*\d+\s*\n', '\n', cleaned_text)
     
     return cleaned_text
 
@@ -224,25 +237,36 @@ def save_tables(tables, filename):
     logging.info(f"Table content saved to {filename}")
 
 def main():
+    
+    #MSFT 10K
     url = "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-20230630.htm"
     
+    #MSFT 10Q
+    #url = "https://www.sec.gov/Archives/edgar/data/789019/000095017023014423/msft-20230331.htm"
+    
+    #NVDA 10K
+    #url = "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000036/nvda-20220130.htm"
+    
+    #AAPL 10k
+    #url = "https://www.sec.gov/Archives/edgar/data/320193/000032019318000145/a10-k20189292018.htm"
+
     try:
         html_content = fetch_html(url)
         if html_content:
-            formatted_text, processed_tables = scrape_sec_filing(url)
-
-            # text_content, tables = parse_html(html_content)
-            # cleaned_text = clean_text(text_content)
-            # processed_tables = process_tables(tables)
-            
-            save_text(formatted_text, "msft_10k_text.txt")
-            save_tables(processed_tables, "msft_10k_tables.txt")
-            logging.info("Scraping completed successfully")
+            try:
+                formatted_text, processed_tables = scrape_sec_filing(url)
+                save_text(formatted_text, "msft_10k_text.txt")
+                save_tables(processed_tables, "msft_10k_tables.txt")
+                logging.info("Scraping completed successfully")
+            except Exception as e:
+                logging.error(f"An error occurred during scraping: {str(e)}")
+                logging.error(f"Error details: {traceback.format_exc()}")
         else:
-            logging.error("Failed to scrape the SEC filing")
+            logging.error("Failed to fetch HTML content")
     
     except Exception as e:
-        logging.error(f"An error occurred during scraping: {e}")
+        logging.error(f"An unexpected error occurred: {str(e)}")
+        logging.error(f"Error details: {traceback.format_exc()}")
 
 if __name__ == "__main__":
     main()
