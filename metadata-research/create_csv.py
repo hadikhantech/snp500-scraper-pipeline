@@ -4,7 +4,7 @@ from openai import OpenAI
 # Initialize OpenAI client with OpenRouter
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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"  # Replace with your actual API key
+    api_key="your-openai-api-key"  # Replace with your actual API key
 )
 
 def process_data_with_llm(input_data):
