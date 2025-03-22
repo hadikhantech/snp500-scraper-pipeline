@@ -1,0 +1,11 @@
+Symbol,Company Name,GICS Sector,GICS Sub-Industry,Headquarters Location,Date Added to S&P500,CIK,Founded
+MSFT,Microsoft Corp,Information Technology,Systems Software,"Redmond, Washington",1994-06-01,789019,1975
+AAPL,Apple Inc.,Information Technology,Technology Hardware,"Cupertino, California",1982-11-30,320193,1976
+NVDA,NVIDIA Corp,Information Technology,Semiconductors,"Santa Clara, California",2001-11-30,1045810,1993
+JPM,JPMorgan Chase & Co.,Financials,Diversified Banks,"New York, New York",1991-10-30,19617,1799
+JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,"New Brunswick, New Jersey",1973-06-30,200406,1886
+V,Visa Inc.,Financials,Transaction & Payment Processing Services,"San Francisco, California",2009-12-31,1403161,1958
+AMZN,Amazon.com Inc.,Consumer Discretionary,Broadline Retail,"Seattle, Washington",2005-11-30,1018724,1994
+GOOGL,Alphabet Inc. Class A,Communication Services,Interactive Media & Services,"Mountain View, California",2006-04-03,1652044,1998
+META,Meta Platforms Inc. Class A,Communication Services,Interactive Media & Services,"Menlo Park, California",2013-12-20,1326801,2004
+BRK.B,Berkshire Hathaway Inc. Class B,Financials,Multi-Sector Holdings,"Omaha, Nebraska",2010-02-16,1067983,1839 
