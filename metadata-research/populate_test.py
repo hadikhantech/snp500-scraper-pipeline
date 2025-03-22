@@ -1,11 +1,12 @@
 import csv
 import time
+import os
 from openai import OpenAI
 
 # Initialize OpenAI client with OpenRouter
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="your-openai-api-key"
+    api_key=os.environ.get("OPENROUTER_API_KEY", "")  # Get API key from environment variable
 )
 
 def process_data_with_llm(input_data):
